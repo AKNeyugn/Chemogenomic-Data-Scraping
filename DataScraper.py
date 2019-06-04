@@ -47,6 +47,16 @@ def scraper():
 
 def data_url_former(library_name, strain_name, num_species, num_plates):
     '''
+    Form .csv data file download link
+
+    Args:
+        library_name (string): name of compound library
+        strain_name (string): name of mutant
+        num_species (string): number of species for mutant
+        num_plates (string): number of plates for mutant
+
+    Return:
+        (string): .csv data file download link
     '''
     data_url = ""
     data_url += data_url_parts[0] + library_name
