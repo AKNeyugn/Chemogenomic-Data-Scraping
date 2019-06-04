@@ -31,7 +31,10 @@ def main():
     sys.stdout.write("\n")
 
     #scraper()
-    create_cgm("Data-Files/Spectrum_ED")
+    libraries = os.listdir(data_output_folder)
+    for library in libraries:
+        dir_name = data_output_folder + library
+        create_cgm(dir_name)
 
     end = datetime.datetime.now()
     time_taken = end - start
@@ -108,13 +111,7 @@ def create_cgm(folder_name):
     library_name = folder_name[folder_name.index("/")+1:]
     sys.stdout.write("Creating CGM for " + library_name + "... \n")
     list_data = os.listdir(folder_name)
-
-    # Parse first data file to initialize output DataFrame
-    file_name = folder_name + "/" + list_data[0]
     output_name = cgm_output_folder + library_name + "_CGM.csv"
-    df = pd.read_csv(file_name)
-    indices = list(df[df.columns[0]])
-    mutant_name = list_data[0][:list_data[0].index(".csv")]
     output = pd.DataFrame()
     
     for i in range(len(list_data)):
