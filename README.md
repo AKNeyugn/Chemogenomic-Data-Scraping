@@ -1,5 +1,7 @@
 # Wildenhain-Data-Scraper
 
+# DataScraper.py
+
 For each compound library available on http://chemgrid.org/cgm/index.php, download all compounds vs mutant .csv data files and create chemogenomic matrix.
 
 Script expected runtime: ~8 minutes (if running data files download script)
