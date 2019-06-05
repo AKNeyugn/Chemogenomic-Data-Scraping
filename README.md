@@ -14,3 +14,5 @@ How to run: python DataScraper.py
 Outputs:
 - Data-Files folder with sub-folders for each compound library containing compounds vs mutant .csv data files
 - CGM folder with chemogenomic matrix .csv files for each compound library
+
+Note: In CGM output file, y-axis are the compounds in the library & x-axis are the mutants treated against the compounds. Mutants labels are as follows: name of strain _ number of bioactive compounds _ number of toxic compounds. Numbers and name are taken from http://chemgrid.org/cgm/index.php
