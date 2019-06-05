@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 
 """ For each compound library available on http://chemgrid.org/cgm/index.php,
-    download all compounds vs mutant .csv data files
+    download all compounds vs mutant .csv data files and create chemogenomic
+    matrix
 
     Author: Roy Nguyen
     Last edited: June 4, 2019
@@ -150,21 +151,6 @@ def data_url_former(library_name, strain_name, num_species, num_plates):
     data_url += data_url_parts[7]
 
     return data_url
-
-def extract_name(strain_info):
-    '''
-    Get strain name
-
-    Args:
-        strain_info (string): url containing strain name
-
-    Return:
-        (string): strain name
-    '''
-    start_index = strain_info.index("id=") + 3
-    strain_name = strain_info[start_index:]
-
-    return strain_name
 
 if __name__ == "__main__":
     main()
