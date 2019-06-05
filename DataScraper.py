@@ -132,7 +132,8 @@ def create_cgm(folder_name, library_name):
         tmp_output = pd.DataFrame(list(df[df.columns[2]]), columns=[mutant_name], index=indices)
         output = pd.concat([output, tmp_output], axis=1, sort=False)
 
-    output.to_csv(output_name)
+    with open(output_name, "w") as ref:
+        output.to_csv(ref)
     return
 
 
