@@ -1,11 +1,16 @@
 #!/usr/bin/env python
 
-"""
+""" For each compound library available on http://chemgrid.org/cgm/index.php,
+    get the name and canonical SMILES of all compounds
+
+    Author: Roy Nguyen
+    Last edited: June 6, 2019
 """
 
 import sys
 import os
 import datetime
+import time
 from multiprocessing import Pool
 from requests_html import HTMLSession
 import requests
@@ -24,16 +29,14 @@ def main():
     cwd = os.getcwd()
 
     # Create compound info .csv files for each compound library
-    '''
     cgms = os.listdir(cgm_output_folder)
     for cgm in cgms:
+        sys.stdout.write("Sleep for 5 seconds... \n")
+        time.sleep(5)
         tmp_file_name = form_path(cwd, cgm_output_folder)
         file_name = form_path(tmp_file_name, cgm)
         smiles_scraper(file_name, cgm)
-        '''
-
-    smiles_scraper("C:\\Users\\anhkh\\Documents\\UBC\\COOP\\S2019 CARDONA LAB\Wildenhain-Data-Scraper\\CGM\\Cytotoxic_CGM.csv", "Cytotoxic_CGM.csv")
-
+        
     end = datetime.datetime.now()
     time_taken = end - start
     sys.stdout.write("Time taken: " + str(time_taken.seconds // 60) + " minutes " 
@@ -65,9 +68,9 @@ def smiles_scraper(file_name, cgm_name):
     df = pd.read_csv(file_name)
     list_cmps_id = df[df.columns[0]]
 
-    p = Pool(4)
+    p = Pool(8)
     results = p.map(smiles_parse, list_cmps_id)
-    p.close()
+    p.terminate()
     p.join()
     
     output = pd.DataFrame(results, columns=["Supplier ID", "Name", "Canonical SMILES"])
@@ -81,6 +84,14 @@ def smiles_scraper(file_name, cgm_name):
 
 def smiles_parse(cmp_id):
     '''
+    Parse compound info webpage for name and canonical SMILES
+
+    Args:
+        cmp_id (string): supplier ID of compound
+
+    Return:
+        (tuple): tuple containing supplier ID, name and canonical
+                SMILES of compound
     '''
     session = HTMLSession()
     search_name = format_cmp_id(cmp_id)
@@ -94,6 +105,8 @@ def smiles_parse(cmp_id):
         cmp_name += part
     # Get canonical SMILES of compound
     smiles = search_response.html.xpath("//tr")[15].xpath("//td")[1].text
+    search_response.close()
+    session.close()
     return (cmp_id, cmp_name, smiles)
 
 
