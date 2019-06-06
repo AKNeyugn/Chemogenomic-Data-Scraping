@@ -23,32 +23,35 @@ data_url_parts = ["http://chemgrid.org/cgm/do_plot.php?p=1&pID=1&l=", "&sp=",
                 "&pn=0&r=", "&cid=0&s=", "&out=csv&fn=./uploads/plot_", "_", "_",
                 "__pn0"]    # constant parts of data file download link
 library_indices = [1,2,3,4,5,7,8]    # url index of each CGM library
+cmp_search_url_start = "http://chemgrid.org/cgm/tmp_compound.php?cid="
 data_output_folder = "Data-Files"
 cgm_output_folder = "CGM"
+cmp_output_folder = "Compounds-SMILES"
 
 def main():
     start = datetime.datetime.now()
     sys.stdout.write("Start time: " + str(start) + "\n")
     sys.stdout.write("\n")
-
     cwd = os.getcwd()
 
-    scraper()
+    # Download compounds vs mutant .csv data files
+    #matrix_scraper()
+
+    # Create CGM .csv files for each compound library
     libraries = os.listdir(data_output_folder)
     for library in libraries:
         tmp_dir_name = form_path(cwd, data_output_folder)
         dir_name = form_path(tmp_dir_name, library)
-        create_cgm(dir_name, library)
+        #create_cgm(dir_name, library)
 
     end = datetime.datetime.now()
     time_taken = end - start
-    sys.stdout.write("\n")
     sys.stdout.write("Time taken: " + str(time_taken.seconds // 60) + " minutes " 
                     + str(time_taken.seconds % 60) + " seconds. \n")
     sys.stdout.write("Script finished! \n")
     return
 
-def scraper():
+def matrix_scraper():
     '''
     For each compound library, download all mutant .csv data files
     '''
@@ -74,7 +77,7 @@ def scraper():
             if j != 0:
                 strain_info = strain_list[j].find_all("td")
                 tmp_strain_name = strain_info[0].get_text()
-                strain_name = extract_name(strain_info[6].find("a").get("href"))
+                strain_name = extract_strain_name(strain_info[6].find("a").get("href"))
                 # Filter out SPE0xxxx (compound) strains in Maybridge library
                 if "SPE0" not in tmp_strain_name:
                     num_species = strain_info[2].get_text()
@@ -99,16 +102,17 @@ def scraper():
             sys.stdout.flush()
         
         sys.stdout.write("Downloaded %d mutant data files! \n" % (num_mutants_processed))
+        sys.stdout.write("\n")
 
     return
 
 def create_cgm(folder_name, library_name):
     '''
     Create a chemical genomic matrix (compounds vs mutants) from data files
-    in folder_name and output into a Excel file
+    in folder_name and output into .csv file
 
     Args:
-        folder_name (string): name of folder containing mutant data files
+        folder_name (string): path to folder containing mutant data files
         library_name (string): name of compound library
     '''
     # Create output folder if not exists
@@ -118,12 +122,12 @@ def create_cgm(folder_name, library_name):
         os.makedirs(output_folder)
 
     library = library_name
-    sys.stdout.write("Creating CGM for " + library + "... \n")
     list_data = os.listdir(folder_name)
     output_file_name = library + "_CGM.csv"
     output_name = form_path(output_folder, output_file_name)
     output = pd.DataFrame()
-    
+
+    sys.stdout.write("Creating CGM for " + library + "... \n")
     for i in range(len(list_data)):
         file_name = form_path(folder_name, list_data[i])
         df = pd.read_csv(file_name)
@@ -134,6 +138,8 @@ def create_cgm(folder_name, library_name):
 
     with open(output_name, "w") as ref:
         output.to_csv(ref)
+    sys.stdout.write("Done! \n")
+    sys.stdout.write("\n")
     return
 
 
@@ -162,11 +168,13 @@ def data_url_former(library_name, strain_name, num_species, num_plates):
 
     return data_url
 
-def extract_name(strain_info):
+def extract_strain_name(strain_info):
     '''
     Get strain name
+
     Args:
         strain_info (string): url containing strain name
+
     Return:
         (string): strain name
     '''
