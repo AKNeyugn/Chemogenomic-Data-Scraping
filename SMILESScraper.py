@@ -12,12 +12,13 @@ import datetime
 import time
 from multiprocessing import Pool
 from requests_html import HTMLSession
-import csv
+from bs4 import BeautifulSoup
+import requests
 import pandas as pd
-
 
 cmp_output_folder = "Compounds-SMILES"
 cmp_search_url_start = "http://chemgrid.org/cgm/tmp_compound.php?cid="
+cmp_name_url_start = "http://chemgrid.org/cgm/tmp_table.php?search=1&l=0&c=&id="
 
 def main():
     start = datetime.datetime.now()
@@ -58,7 +59,7 @@ def smiles_scraper(file_name, cgm_name):
 
     sys.stdout.write("Creating compound info file for " + library_name + "... \n")
     df = pd.read_csv(file_name)
-    list_cmps_id = df[df.columns[0]]
+    list_cmps_id = df[df.columns[0]]    # Comment and replace to debug specific compounds
 
     p = Pool(8)
     results = p.map(smiles_parse, list_cmps_id)
@@ -89,20 +90,29 @@ def smiles_parse(cmp_id):
     search_name = format_cmp_id(cmp_id)
     search_url = cmp_search_url_start + search_name
     search_response = session.get(search_url)
-    search_response.html.render(timeout=30)
-    # Get name of compound
-    cmp_name_raw = search_response.html.xpath("//h4")[0].text
-    if cmp_name_raw == "":
-        cmp_name = "N/A"
-    else:
-        cmp_name = ""
-        for part in cmp_name_raw.split("\n"):
-            cmp_name += part
+    search_response.html.render(timeout=120)
+    
     # Get canonical SMILES of compound
     smiles_raw = search_response.html.xpath("//tr")[15].xpath("//td")[1].text
     smiles = ""
     for part in smiles_raw.split("\n"):
         smiles += part
+    
+    # Get name of compound
+    cmp_name_raw = search_response.html.xpath("//h4")[0].text
+    if cmp_name_raw == "":
+        # Parse another compound search result page for name
+        name_url = cmp_name_url_start + search_name
+        name_response = requests.get(name_url)
+        name_response_content = BeautifulSoup(name_response.content, "html.parser")
+        table = name_response_content.find_all("table")[2]
+        info_list = table.find_all("tr")[1]
+        cmp_name = info_list.find_all("td")[5].get_text()
+    else:
+        cmp_name = ""
+        for part in cmp_name_raw.split("\n"):
+            cmp_name += part
+
     search_response.close()
     session.close()
     return (cmp_id, cmp_name, smiles)
@@ -128,7 +138,6 @@ def format_cmp_id(cmp_id):
     Replace space in compound ID string to "%20" 
     '''
     search_name = cmp_id.replace(" ", "%20")
-
     return search_name
 
 def form_path(start, end):

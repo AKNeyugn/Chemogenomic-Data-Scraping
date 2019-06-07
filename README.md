@@ -38,6 +38,8 @@ Module requirements:
 - pandas (pip install pandas)
 - requests (pip install requests)
 - requests_html (pip install requests_html) NOTE: Only supported by python3.6+
+- beautifulsoup (pip install beautifulsoup4)
+- requests (pip install requests)
 
 How to run: python SMILESScraper.py library_cgm_file
     - library_cgm_file: path from current working directory to CGM file of library to process (eg. CGM\\Bioactive_CGM.csv)
