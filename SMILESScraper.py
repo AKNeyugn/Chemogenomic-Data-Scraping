@@ -1,10 +1,9 @@
 #!/usr/bin/env python
 
-""" For each compound library available on http://chemgrid.org/cgm/index.php,
-    get the name and canonical SMILES of all compounds
+""" Get the name and canonical SMILES of all compounds in given library
 
     Author: Roy Nguyen
-    Last edited: June 6, 2019
+    Last edited: June 7, 2019
 """
 
 import sys
@@ -13,12 +12,10 @@ import datetime
 import time
 from multiprocessing import Pool
 from requests_html import HTMLSession
-import requests
 import csv
 import pandas as pd
 
 
-cgm_output_folder = "CGM"
 cmp_output_folder = "Compounds-SMILES"
 cmp_search_url_start = "http://chemgrid.org/cgm/tmp_compound.php?cid="
 
@@ -28,14 +25,9 @@ def main():
     sys.stdout.write("\n")
     cwd = os.getcwd()
 
-    # Create compound info .csv files for each compound library
-    cgms = os.listdir(cgm_output_folder)
-    for cgm in cgms:
-        sys.stdout.write("Sleep for 5 seconds... \n")
-        time.sleep(5)
-        tmp_file_name = form_path(cwd, cgm_output_folder)
-        file_name = form_path(tmp_file_name, cgm)
-        smiles_scraper(file_name, cgm)
+    cgm = sys.argv[1]
+    file_name = form_path(cwd, cgm)
+    smiles_scraper(file_name, cgm)
         
     end = datetime.datetime.now()
     time_taken = end - start
@@ -97,14 +89,20 @@ def smiles_parse(cmp_id):
     search_name = format_cmp_id(cmp_id)
     search_url = cmp_search_url_start + search_name
     search_response = session.get(search_url)
-    search_response.html.render()
+    search_response.html.render(timeout=30)
     # Get name of compound
-    cmp_name_parts = search_response.html.xpath("//h4")[0].text.split("\n")
-    cmp_name = ""
-    for part in cmp_name_parts:
-        cmp_name += part
+    cmp_name_raw = search_response.html.xpath("//h4")[0].text
+    if cmp_name_raw == "":
+        cmp_name = "N/A"
+    else:
+        cmp_name = ""
+        for part in cmp_name_raw.split("\n"):
+            cmp_name += part
     # Get canonical SMILES of compound
-    smiles = search_response.html.xpath("//tr")[15].xpath("//td")[1].text
+    smiles_raw = search_response.html.xpath("//tr")[15].xpath("//td")[1].text
+    smiles = ""
+    for part in smiles_raw.split("\n"):
+        smiles += part
     search_response.close()
     session.close()
     return (cmp_id, cmp_name, smiles)
@@ -120,8 +118,9 @@ def extract_library_name(cgm_file):
     Return:
         (string): library name
     '''
+    start_index = cgm_file.index("CGM\\")
     end_index = cgm_file.index("_CGM")
-    library_name = cgm_file[:end_index]
+    library_name = cgm_file[start_index+4:end_index]
     return library_name
 
 def format_cmp_id(cmp_id):

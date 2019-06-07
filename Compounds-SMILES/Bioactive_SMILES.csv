@@ -18,8 +18,7 @@ BTB 01345,"ethyl 4-[(3,5-dichloro-2-hydroxybenzylidene)amino]benzoate",CCOC(=O)c
 BTB 01397,N-(2-benzoyl-4-chlorophenyl)-N`-(4-fluorophenyl)thiourea,Fc1ccc(NC(=S)Nc2ccc(Cl)cc2C(=O)c2ccccc2)cc1
 BTB 01431,"N-(1,3-benzothiazol-2-yl)-N-(3-chlorophenyl)-N`-(2,4-dichlorophenyl)thiourea",Clc1cccc(c1)N(C(=S)Nc1ccc(Cl)cc1Cl)c1sc2ccccc2n1
 BTB 01473,"N1-{2-[(3,5-dichloro-2-hydroxybenzylidene)amino]-4-methylphenyl}-4-chlorobenzene-1-sulfonamide",Cc1ccc(NS(=O)(=O)c2ccc(Cl)cc2)c(c1)N=Cc1cc(Cl)cc(Cl)c1O
-BTB 01480,"2-[(2,4-dinitrophenyl)thio]-5-methyl-1-[(4-methylphenyl)sulfonyl]-1H-benzo[d]imidazole","[O-][N+](=O)c1ccc(Sc2nc3cc(C)ccc3n2S(=O)(=O)c2ccc(C)cc2)c(c1)[N+]([O-]
-)=O"
+BTB 01480,"2-[(2,4-dinitrophenyl)thio]-5-methyl-1-[(4-methylphenyl)sulfonyl]-1H-benzo[d]imidazole",[O-][N+](=O)c1ccc(Sc2nc3cc(C)ccc3n2S(=O)(=O)c2ccc(C)cc2)c(c1)[N+]([O-])=O
 BTB 01594,"N1-{2-[(3,5-dichloro-2-hydroxybenzylidene)amino]-4-methylphenyl}-2-[(3,5-dichloro-2-hydroxybenzylidene)amino]benzamide",Cc1ccc(NC(=O)c2ccccc2N=Cc2cc(Cl)cc(Cl)c2O)c(c1)N=Cc1cc(Cl)cc(Cl)c1O
 BTB 02800,"N-[2-(4-chloro-3,5-dimethylphenoxy)-5-(trifluoromethyl)phenyl]methanesulfonamide",Cc1cc(Oc2ccc(cc2NS(C)(=O)=O)C(F)(F)F)cc(C)c1Cl
 BTB 02837,"N1-(2,5-dichlorophenyl)-2-methyl-2-[2-nitro-4-(trifluoromethyl)phenyl]hydrazine-1-carbothioamide",[O-][N+](=O)c1cc(ccc1N(C)NC(=S)Nc1cc(Cl)ccc1Cl)C(F)(F)F
@@ -120,8 +119,7 @@ CD 03254,"N1-[3,5-di(trifluoromethyl)phenyl]-2-(3,5-dichloro-2-hydroxybenzyliden
 CD 03308,"N1-[3,5-di(trifluoromethyl)phenyl]-2,2,2-trichloroacetamide",FC(F)(F)c1cc(NC(=O)C(Cl)(Cl)Cl)cc(c1)C(F)(F)F
 CD 03678,"O1-(4-nitrobenzoyl)-2,6-dichlorobenzene-1-carbohydroximamide",[O-][N+](=O)c1ccc(cc1)C(=O)ON=C(N)c1c(Cl)cccc1Cl
 CD 04032,"N1-{2-[(2,4-dinitrophenyl)thio]phenyl}-2,2,2-trichloroacetamide",[O-][N+](=O)c1ccc(Sc2ccccc2NC(=O)C(Cl)(Cl)Cl)c(c1)[N+]([O-])=O
-CD 04236,"3-(4-bromo-2-methylphenyl)-2-{[2,6-dinitro-4-(trifluoromethyl)phenyl]thio}-3,4-dihydroquinazolin-4-one","[O-][N+](=O)c1cc(cc(c1SC1=Nc2ccccc2C(=O)N1c1ccc(Br)cc1C)[N+]([O-])=O)C
-(F)(F)F"
+CD 04236,"3-(4-bromo-2-methylphenyl)-2-{[2,6-dinitro-4-(trifluoromethyl)phenyl]thio}-3,4-dihydroquinazolin-4-one",[O-][N+](=O)c1cc(cc(c1SC1=Nc2ccccc2C(=O)N1c1ccc(Br)cc1C)[N+]([O-])=O)C(F)(F)F
 CD 04254,"N-(2,6-difluorophenyl)-N`-[3,5-di(trifluoromethyl)phenyl]thiourea",Fc1cccc(F)c1NC(=S)Nc1cc(cc(c1)C(F)(F)F)C(F)(F)F
 CD 04583,"1-{[(1,1,3,3,6-pentamethyl-7-nitro-2,3-dihydro-1H-inden-5-yl)amino]methyl}pyrrolidine-2,5-dione",[O-][N+](=O)c1c(C)c(NCN2C(=O)CCC2=O)cc2c1C(C)(C)CC2(C)C
 CD 04975,2-[2-(4-chlorophenyl)hydrazono]-2-cyanoethanethioamide,NC(=S)C(=NNc1ccc(Cl)cc1)C#N
@@ -160,8 +158,8 @@ DP 01415,"4-(2-chlorophenyl)-2-(3-pyridyl)-1,3-thiazole hydrobromide",Br.Clc1ccc
 DP 01417,"4-(2-chlorophenyl)-2-(4-pyridyl)-1,3-thiazole hydrobromide",Br.Clc1ccccc1c1csc(n1)c1ccncc1
 DP 01887,"N`1-(3,5-dichloro-2-hydroxybenzylidene)-2-aminobenzene-1-carbohydrazide",Nc1ccccc1C(=O)NN=Cc1cc(Cl)cc(Cl)c1O
 DP 01888,N`1-(5-bromo-2-hydroxybenzylidene)-2-aminobenzene-1-carbohydrazide,Nc1ccccc1C(=O)NN=Cc1cc(Br)ccc1O
-DP 02004,,ON=C(c1oc2ccccc2c1)c1ccc(Cl)cc1
-DSHS 00540,,Clc1cc(Cl)c(cc1Cl)S(=O)(=O)Nc1cccc(CCc2ccccn2)c1
+DP 02004,N/A,ON=C(c1oc2ccccc2c1)c1ccc(Cl)cc1
+DSHS 00540,N/A,Clc1cc(Cl)c(cc1Cl)S(=O)(=O)Nc1cccc(CCc2ccccn2)c1
 EN 00070,"1-methylN1-(2,6-dichlorobenzoyl)-2-phenylhydrazine-1-carboximidothioate",CSC(NNc1ccccc1)=NC(=O)c1c(Cl)cccc1Cl
 EN 00220,1-chloro-2-({[(1-methyl-3-phenylprop-2-enylidene)amino]oxy}carbonyl)benzene,CC(C=Cc1ccccc1)=NOC(=O)c1ccccc1Cl
 FM 00211,"3-(2-chloro-6-fluorophenyl)-5-methyl-4-{[(tricyclo[3.3.1.1~3,7~]dec-2-ylideneamino)oxy]carbonyl}isoxazole",Cc1onc(c1C(=O)ON=C1C2CC3CC(C2)CC1C3)c1c(F)cccc1Cl
@@ -256,8 +254,7 @@ JFD 00422,N-phenyl-N`-[3-(trifluoromethyl)phenyl]thiourea,FC(F)(F)c1cccc(NC(=S)N
 JFD 00597,"3-(1,3-benzoxazol-2-ylthio)-5,5-dimethylcyclohex-2-en-1-one",CC1(C)CC(=O)C=C(C1)Sc1oc2ccccc2n1
 JFD 00950,"2-chloro-3-(2,4,5-trichlorophenoxy)-1,4-dihydronaphthalene-1,4-dione",Clc1cc(Cl)c(Oc2c(Cl)c(=O)c3ccccc3c2=O)cc1Cl
 JFD 00972,2-[3-[(3-chloro-4-fluorophenyl)thio]-3-(4-chlorophenyl)prop-2-enylidene]malononitrile,Fc1ccc(SC(=CC=C(C#N)C#N)c2ccc(Cl)cc2)cc1Cl
-JFD 01192,"N4-butyl-N4-methyl-9-(dicyanomethylene)-2,7-dinitro-9H-4-fluorenecarboxamide","[O-][N+](=O)c1ccc2c(c1)C(=C(C#N)C#N)c1cc(cc(C(=O)N(C)CCCC)c21)[N+]([O-
-])=O"
+JFD 01192,"N4-butyl-N4-methyl-9-(dicyanomethylene)-2,7-dinitro-9H-4-fluorenecarboxamide",[O-][N+](=O)c1ccc2c(c1)C(=C(C#N)C#N)c1cc(cc(C(=O)N(C)CCCC)c21)[N+]([O-])=O
 JFD 01208,"2,4-dibromo-6-[(4H-1,2,4-triazol-4-ylimino)methyl]phenol",Oc1c(Br)cc(Br)cc1C=Nn1cnnc1
 JFD 01516,2-methylbutyl 3-{4-[(4-methoxybenzylidene)amino]phenyl}acrylate,CCC(C)COC(=O)C=Cc1ccc(cc1)N=Cc1ccc(OC)cc1
 JFD 01755,"3-hydroxy-10,13-dimethyl-2,3,4,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-one",CC12CCC3C(CC=C4CC(O)CCC34C)C1CCC2=O
@@ -385,8 +382,7 @@ PD 00616,"(4-benzylpiperazino)(4,5-dihydronaphtho[1,2-b]thiophen-2-yl)methanone"
 PD 00617,"N-pyridin-3-yl-4,5-dihydronaphtho[1,2-b]thiophene-2-carboxamide",O=C(Nc1cccnc1)c1sc2c(CCc3ccccc32)c1
 PD 00637,ethyl 2-({[(4-methylbenzyl)amino]carbothioyl}thio)acetate,CCOC(=O)CSC(=S)NCc1ccc(C)cc1
 PHG 00723,"2-(1H-benzimidazol-2-yl)-5-phenylpenta-2,4-dienenitrile",N#CC(=CC=Cc1ccccc1)c1nc2ccccc2n1
-PHG 00954,"2-[4-(1,3-dioxo-2,3-dihydro-1H-benzo[de]isoquinolin-2-yl)-1,1,4-trimethylpentyl]-2,3-dihydro-1H-benzo[de]isoquinoline-1,3-dione hydrate","O.CC(C)(CCC(C)(C)N1C(=O)c2cccc3cccc(C1=O)c32)N1C(=O)c2cccc3cccc(C1=O)c
-32"
+PHG 00954,"2-[4-(1,3-dioxo-2,3-dihydro-1H-benzo[de]isoquinolin-2-yl)-1,1,4-trimethylpentyl]-2,3-dihydro-1H-benzo[de]isoquinoline-1,3-dione hydrate",O.CC(C)(CCC(C)(C)N1C(=O)c2cccc3cccc(C1=O)c32)N1C(=O)c2cccc3cccc(C1=O)c32
 PHG 01048,"2-[(2-hydroxyethyl)amino]-6-(phenylthio)-2,3-dihydro-1H-benzo[de]isoquinoline-1,3-dione",OCCNN1C(=O)c2cccc3c(Sc4ccccc4)ccc(C1=O)c23
 RB 00030,"6-isopropyl-3-(4-isopropylphenyl)-3,4-dihydroquinazoline",CC(C)c1ccc(cc1)N1Cc2cc(ccc2N=C1)C(C)C
 RDR 00184,"2-[(3-chloro-2-methylphenyl)imino]-3-(2-furylmethyl)-1,3-thiazolan-4-one",Cc1c(Cl)cccc1N=C1SCC(=O)N1Cc1occc1
@@ -406,8 +402,7 @@ RDR 01685,N1-(4-bromo-2-methylphenyl)-5-ethyl-2-methylpiperidine-1-carbothioamid
 RDR 01792,"2-[(4-chlorobenzyl)thio]-1-(2,5-dichlorophenyl)-1H-imidazole",Clc1ccc(CSc2nccn2c2cc(Cl)ccc2Cl)cc1
 RDR 01818,N1-(1-naphthyl)-2-hydroxybenzamide,Oc1ccccc1C(=O)Nc1cccc2ccccc12
 RDR 02549,"1-(3,5-dichloro-2-hydroxyphenyl)ethan-1-one 1-phenylhydrazone",CC(=NNc1ccccc1)c1cc(Cl)cc(Cl)c1O
-RDR 02630,"2-({[3,5-di(trifluoromethyl)anilino]carbothioyl}thio)ethyl[3,5-di(trifluoromethyl)anilino]methanedithioate","FC(F)(F)c1cc(NC(=S)SCCSC(=S)Nc2cc(cc(c2)C(F)(F)F)C(F)(F)F)cc(c1)C(F)(F
-)F"
+RDR 02630,"2-({[3,5-di(trifluoromethyl)anilino]carbothioyl}thio)ethyl[3,5-di(trifluoromethyl)anilino]methanedithioate",FC(F)(F)c1cc(NC(=S)SCCSC(=S)Nc2cc(cc(c2)C(F)(F)F)C(F)(F)F)cc(c1)C(F)(F)F
 RDR 03295,1-(4-isopropylanilino)-3-(phenylthio)propan-2-ol,CC(C)c1ccc(NCC(O)CSc2ccccc2)cc1
 RDR 03443,N-(2-{[3-(trifluoromethyl)benzyl]thio}ethyl)-N`-[3-(trifluoromethyl)phenyl]urea,FC(F)(F)c1cccc(CSCCNC(=O)Nc2cccc(c2)C(F)(F)F)c1
 RDR 03520,"4-(4-chlorophenyl)-3-{[4-(trifluoromethoxy)phenoxy]methyl}-4,5-dihydro-1H-1,2,4-triazole-5-thione",FC(F)(F)Oc1ccc(OCC2=NNC(=S)N2c2ccc(Cl)cc2)cc1
@@ -603,8 +598,7 @@ SJC 00180,"2,4-dichloro-6-{[(4-chloro-2,5-dimethoxyphenyl)imino]methyl}phenyl4-m
 SJC 00207,"2,4-dichloro-6-{[(4-chloro-2,5-dimethoxyphenyl)imino]methyl}phenyl3,4,5-trimethoxybenzoate",COc1cc(N=Cc2cc(Cl)cc(Cl)c2OC(=O)c2cc(OC)c(OC)c(OC)c2)c(OC)cc1Cl
 SJC 00209,"2,4-dichloro-6-({[3-(trifluoromethyl)phenyl]imino}methyl)phenyl3,4,5-trimethoxybenzoate",COc1cc(cc(OC)c1OC)C(=O)Oc1c(Cl)cc(Cl)cc1C=Nc1cccc(c1)C(F)(F)F
 SJC 00210,"2,4-dichloro-6-{[(3-nitrophenyl)imino]methyl}phenyl3,4,5-trimethoxybenzoate",[O-][N+](=O)c1cccc(c1)N=Cc1cc(Cl)cc(Cl)c1OC(=O)c1cc(OC)c(OC)c(OC)c1
-SJC 00213,"2,4-dichloro-6-{[(2-cyano-4-nitrophenyl)imino]methyl}phenyl3,4,5-trimethoxybenzoate","[O-][N+](=O)c1ccc(N=Cc2cc(Cl)cc(Cl)c2OC(=O)c2cc(OC)c(OC)c(OC)c2)c(c1)C
-#N"
+SJC 00213,"2,4-dichloro-6-{[(2-cyano-4-nitrophenyl)imino]methyl}phenyl3,4,5-trimethoxybenzoate",[O-][N+](=O)c1ccc(N=Cc2cc(Cl)cc(Cl)c2OC(=O)c2cc(OC)c(OC)c(OC)c2)c(c1)C#N
 SJC 00393,N-(tert-butyl)-2-[(2-hydroxyphenyl)methylene]hydrazine-1-carbothioamide,CC(C)(C)NC(=S)NN=Cc1ccccc1O
 SP 00221,N-{3-[5-(tert-butyl)-2-methyl-3-furyl]-1H-pyrazol-5-yl}benzamide,Cc1oc(cc1c1cc(nn1)NC(=O)c1ccccc1)C(C)(C)C
 SP 00413,"(2-methyl-1,5-diphenyl-1H-pyrrol-3-yl)(piperidino)methanone",Cc1n(c2ccccc2)c(cc1C(=O)N1CCCCC1)c1ccccc1
