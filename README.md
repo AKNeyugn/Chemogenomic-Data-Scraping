@@ -41,7 +41,6 @@ Module requirements:
 - beautifulsoup (pip install beautifulsoup4)
 
 How to run: python SMILESScraper.py library_cgm_file
-
-    - library_cgm_file: path from current working directory to CGM file of library to process (eg. CGM\\Bioactive_CGM.csv)
+- library_cgm_file: path from current working directory to CGM file of library to process (eg. CGM\\Bioactive_CGM.csv)
 
 Note: Need CGM output files from DataScraper.py to run
