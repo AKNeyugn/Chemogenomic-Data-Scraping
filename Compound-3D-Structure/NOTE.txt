@@ -1,0 +1,13 @@
+Compound that need to be looked at:
+(Lopac) Lopac 00420: Ceramide - [R]CCCC.[R]CCCCCCCC.[R]CCCCCCCCCCCCCC(=O)NC(OC)C(O)C=CCCCCCCCCCCCCCCC
+	-> (???)
+
+(SPECMTS3) SPE01505035: ENOXAPARIN SODIUM - incomplete SMILES
+==============================
+*** Open Babel Warning  in OpenBabel::OBSmilesParser::ParseSmiles
+  Invalid SMILES string: 1 unmatched ring bonds.
+
+(Spectrum_ED) SPE01505950: SUCRALFATE SODIUM - incomplete SMILES
+==============================
+*** Open Babel Warning  in OpenBabel::OBSmilesParser::ParseSmiles
+  Invalid SMILES string: 1 unmatched ring bonds.

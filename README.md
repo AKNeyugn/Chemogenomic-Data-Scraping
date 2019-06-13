@@ -44,3 +44,17 @@ How to run: python SMILESScraper.py library_cgm_file
 - library_cgm_file: path from current working directory to CGM file of library to process (eg. CGM\\Bioactive_CGM.csv)
 
 Note: Need CGM output files from DataScraper.py to run
+
+# CompoundStructure.py
+
+For each compound in given library, convert SMILES string into 3D structure and output .pdb file
+
+Script expected runtime: <12 minutes
+
+Moduel requirements:
+- pandas (pip install pandas)
+
+How to run: python CompoundStructure.py library_SMILES_file
+- library_SMILES_file: path from current working directory to SMILES file of library to process (eg. Compound-SMILES\\Bioactive_SMILES.csv)
+
+Note: Need SMILES output files from SMILESScraper.py
