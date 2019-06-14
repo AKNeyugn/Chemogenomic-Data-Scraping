@@ -55,8 +55,8 @@ def process_structure(file_name, smiles_name):
     df = pd.read_csv(file_name)
     num_smiles_processed = 0
     for index, row in df.iterrows():
-        cmp_id = row[0]
-        smiles = row[2]
+        cmp_id = str(row[0])
+        smiles = str(row[2])
         cmp_name = cmp_id + ": " + str(row[1])
         output_name = form_path(output_subfolder, cmp_id)
         cmd = 'obabel -:"' + smiles + '" -opdb -O "' + output_name + '.pdb" --gen3d --title "' + cmp_name + '"'

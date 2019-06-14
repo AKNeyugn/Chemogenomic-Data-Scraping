@@ -3,7 +3,7 @@
 """ Get the name and canonical SMILES of all compounds in given library
 
     Author: Roy Nguyen
-    Last edited: June 7, 2019
+    Last edited: June 14, 2019
 """
 
 import sys
@@ -19,6 +19,10 @@ import pandas as pd
 cmp_output_folder = "Compounds-SMILES"
 cmp_search_url_start = "http://chemgrid.org/cgm/tmp_compound.php?cid="
 cmp_name_url_start = "http://chemgrid.org/cgm/tmp_table.php?search=1&l=0&c=&id="
+known_error = {
+    "SPE01505035": "https://pubchem.ncbi.nlm.nih.gov/compound/16667706",
+    "SPE01505950": "https://pubchem.ncbi.nlm.nih.gov/compound/16698648"
+}
 
 def main():
     start = datetime.datetime.now()
@@ -87,31 +91,49 @@ def smiles_parse(cmp_id):
                 SMILES of compound
     '''
     session = HTMLSession()
-    search_name = format_cmp_id(cmp_id)
-    search_url = cmp_search_url_start + search_name
-    search_response = session.get(search_url)
-    search_response.html.render(timeout=120)
-    
-    # Get canonical SMILES of compound
-    smiles_raw = search_response.html.xpath("//tr")[15].xpath("//td")[1].text
-    smiles = ""
-    for part in smiles_raw.split("\n"):
-        smiles += part
-    
-    # Get name of compound
-    cmp_name_raw = search_response.html.xpath("//h4")[0].text
-    if cmp_name_raw == "":
-        # Parse another compound search result page for name
-        name_url = cmp_name_url_start + search_name
-        name_response = requests.get(name_url)
-        name_response_content = BeautifulSoup(name_response.content, "html.parser")
-        table = name_response_content.find_all("table")[2]
-        info_list = table.find_all("tr")[1]
-        cmp_name = info_list.find_all("td")[5].get_text()
+
+    # Deal with compounds with known incomplete SMILES
+    if cmp_id in known_error.keys():    
+        search_url = known_error[cmp_id]
+        search_response = session.get(search_url)
+        search_response.html.render(timeout=120)
+        print(cmp_id)
+
+        # Get canonical SMILES of compound
+        smiles = search_response.html.xpath("//section[contains(@id, 'Canonical-SMILES')]//p")[0].text
+        
+        # Get name of compound
+        if cmp_id == "SPE01505035":
+            ind = 2
+        elif cmp_id == "SPE01505950":
+            ind = 1
+        cmp_name = search_response.html.xpath("//div[contains(@class, 'truncated-columns')]//p")[ind].text
     else:
-        cmp_name = ""
-        for part in cmp_name_raw.split("\n"):
-            cmp_name += part
+        search_name = format_cmp_id(cmp_id)
+        search_url = cmp_search_url_start + search_name
+        search_response = session.get(search_url)
+        search_response.html.render(timeout=120)
+        
+        # Get canonical SMILES of compound
+        smiles_raw = search_response.html.xpath("//tr")[15].xpath("//td")[1].text
+        smiles = ""
+        for part in smiles_raw.split("\n"):
+            smiles += part
+        
+        # Get name of compound
+        cmp_name_raw = search_response.html.xpath("//h4")[0].text
+        if cmp_name_raw == "":
+            # Parse another compound search result page for name
+            name_url = cmp_name_url_start + search_name
+            name_response = requests.get(name_url)
+            name_response_content = BeautifulSoup(name_response.content, "html.parser")
+            table = name_response_content.find_all("table")[2]
+            info_list = table.find_all("tr")[1]
+            cmp_name = info_list.find_all("td")[5].get_text()
+        else:
+            cmp_name = ""
+            for part in cmp_name_raw.split("\n"):
+                cmp_name += part
 
     search_response.close()
     session.close()

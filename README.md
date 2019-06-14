@@ -4,8 +4,6 @@
 
 For each compound library available on http://chemgrid.org/cgm/index.php, download all compounds vs mutant .csv data files and create chemogenomic matrix.
 
-Script expected runtime: ~8 minutes
-
 Module requirements:
 - pandas (pip install pandas)
 - beautifulsoup (pip install beautifulsoup4)
@@ -32,8 +30,6 @@ NOTE: Cannot run on Linux lab computer because of requests_html module requireme
 
 Get the name and canonical SMILES of all compounds in given library.
 
-Script expected runtime: <10 minutes
-
 Module requirements:
 - pandas (pip install pandas)
 - requests (pip install requests)
@@ -48,8 +44,6 @@ Note: Need CGM output files from DataScraper.py to run
 # CompoundStructure.py
 
 For each compound in given library, convert SMILES string into 3D structure and output .pdb file
-
-Script expected runtime: <12 minutes
 
 Moduel requirements:
 - pandas (pip install pandas)
