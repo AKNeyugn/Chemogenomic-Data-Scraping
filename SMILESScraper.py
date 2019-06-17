@@ -21,7 +21,8 @@ cmp_search_url_start = "http://chemgrid.org/cgm/tmp_compound.php?cid="
 cmp_name_url_start = "http://chemgrid.org/cgm/tmp_table.php?search=1&l=0&c=&id="
 known_error = {
     "SPE01505035": "https://pubchem.ncbi.nlm.nih.gov/compound/16667706",
-    "SPE01505950": "https://pubchem.ncbi.nlm.nih.gov/compound/16698648"
+    "SPE01505950": "https://pubchem.ncbi.nlm.nih.gov/compound/16698648",
+    "LOPAC 00420": "https://pubchem.ncbi.nlm.nih.gov/compound/6604070"
 }
 
 def main():
@@ -97,7 +98,6 @@ def smiles_parse(cmp_id):
         search_url = known_error[cmp_id]
         search_response = session.get(search_url)
         search_response.html.render(timeout=120)
-        print(cmp_id)
 
         # Get canonical SMILES of compound
         smiles = search_response.html.xpath("//section[contains(@id, 'Canonical-SMILES')]//p")[0].text
@@ -107,6 +107,8 @@ def smiles_parse(cmp_id):
             ind = 2
         elif cmp_id == "SPE01505950":
             ind = 1
+        elif cmp_id == "LOPAC 00420":
+            ind = 4
         cmp_name = search_response.html.xpath("//div[contains(@class, 'truncated-columns')]//p")[ind].text
     else:
         search_name = format_cmp_id(cmp_id)

@@ -227,7 +227,7 @@ LOPAC 00751,L-Cycloserine,NC1CONC1=O
 LOPAC 00752,ML-9,Cl.Clc1cccc2c1cccc2S(=O)(=O)N1CCCNCC1
 LOPAC 00753,(+)-Catechin Hydrate,OC1Cc2c(O)cc(O)cc2OC1c1ccc(O)c(O)c1
 LOPAC 00754,1-(4-Chlorobenzyl)-5-methoxy-2-methylindole-3-acetic acid,COc1ccc2n(Cc3ccc(Cl)cc3)c(C)c(CC(O)=O)c2c1
-LOPAC 00420,Ceramide,[R]CCCC.[R]CCCCCCCC.[R]CCCCCCCCCCCCCC(=O)NC(OC)C(O)C=CCCCCCCCCCCCCCCC
+LOPAC 00420,"butane; N-[(Z,1S,2S)-2-hydroxy-1-methoxynonadec-3-enyl]tetradecanamide; octane",CCCC.CCCCCCCC.CCCCCCCCCCCCCCCC=CC(C(NC(=O)CCCCCCCCCCCCC)OC)O
 LOPAC 00755,Chlorprothixene hydrochloride,Cl.CN(C)CCC=C1c2ccccc2Sc2cc(Cl)ccc21
 LOPAC 00756,Choline bromide,[BrH-].C[N+](C)(C)CCO
 LOPAC 00757,CB 1954,[O-][N+](=O)c1cc(c(cc1N1CC1)C(N)=O)[N+]([O-])=O

@@ -1,6 +1,6 @@
 Compound that need to be looked at:
 (Lopac) Lopac 00420: Ceramide - [R]CCCC.[R]CCCCCCCC.[R]CCCCCCCCCCCCCC(=O)NC(OC)C(O)C=CCCCCCCCCCCCCCCC
-	-> (???)
+	-> fixed: taken SMILES from PubChem based on line-angle formula: https://pubchem.ncbi.nlm.nih.gov/compound/6604070
 
 (SPECMTS3) SPE01505035: ENOXAPARIN SODIUM - incomplete SMILES
 ==============================
@@ -22,4 +22,4 @@ Compound that need to be looked at:
   with Atom Ids as follows: 57 65
 Warning: Stereochemistry is wrong, using the distance geometry method instead
 	-> probably because of chirality notations of SMILES in SuppTable_S2, fixed by replacing with SMILES taken from SMILES .csv files
-
+	NOT implemented in script yet
