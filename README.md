@@ -46,6 +46,7 @@ Note: Need CGM output files from DataScraper.py to run
 For each compound in given library, convert SMILES string into 3D structure and output .pdb file
 
 Moduel requirements:
+- OpenBabel (http://openbabel.org/wiki/Main_Page)
 - pandas (pip install pandas)
 
 How to run: python CompoundStructure.py library_SMILES_file

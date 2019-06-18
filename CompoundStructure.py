@@ -4,7 +4,7 @@
     and output .pdb file
 
     Author: Roy Nguyen
-    Last edited: June 13, 2019
+    Last edited: June 18, 2019
 """
 
 import sys
@@ -59,7 +59,7 @@ def process_structure(file_name, smiles_name):
         smiles = str(row[2])
         cmp_name = cmp_id + ": " + str(row[1])
         output_name = form_path(output_subfolder, cmp_id)
-        cmd = 'obabel -:"' + smiles + '" -opdb -O "' + output_name + '.pdb" --gen3d --title "' + cmp_name + '"'
+        cmd = 'obabel -:"' + smiles + '" -opdb -O "' + output_name + '.pdb" --gen3d -c --title "' + cmp_name + '"'
         subprocess.call(cmd)
         num_smiles_processed +=1
 
