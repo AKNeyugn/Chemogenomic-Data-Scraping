@@ -54,3 +54,5 @@ How to run: python CompoundStructure.py library_SMILES_file single_file
 - single_file: "true" if want output to be single file containing all compounds info for each library
 
 Note: Need SMILES output files from SMILESScraper.py
+
+Note: if running with single_file = "true", need .txt file version of library_SMILES_file, where first column = SMILES, second column = compound ID, third column = compound name
