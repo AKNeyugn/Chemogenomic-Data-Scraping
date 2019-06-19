@@ -49,7 +49,8 @@ Moduel requirements:
 - OpenBabel (http://openbabel.org/wiki/Main_Page)
 - pandas (pip install pandas)
 
-How to run: python CompoundStructure.py library_SMILES_file
+How to run: python CompoundStructure.py library_SMILES_file single_file
 - library_SMILES_file: path from current working directory to SMILES file of library to process (eg. Compound-SMILES\\Bioactive_SMILES.csv)
+- single_file: "true" if want output to be single file containing all compounds info for each library
 
 Note: Need SMILES output files from SMILESScraper.py

@@ -4,7 +4,7 @@
     and output .pdb file
 
     Author: Roy Nguyen
-    Last edited: June 18, 2019
+    Last edited: June 19, 2019
 """
 
 import sys
@@ -23,8 +23,12 @@ def main():
     cwd = os.getcwd()
 
     smiles = sys.argv[1]
+    single_file = sys.argv[2]
     file_name = form_path(cwd, smiles)
-    process_structure(file_name, smiles)
+    if single_file.upper() == "TRUE":
+        process_structure_library(file_name, smiles)
+    else:
+        process_structure(file_name, smiles)
         
     end = datetime.datetime.now()
     time_taken = end - start
@@ -36,7 +40,7 @@ def main():
 def process_structure(file_name, smiles_name):
     '''
     Convert SMILES string of each compound in library 
-    into 3D structure (pdb)
+    into 3D structure (pdb) in multiple output files
 
     Args:
         file_name (string): path to SMILES list file
@@ -65,6 +69,31 @@ def process_structure(file_name, smiles_name):
 
     sys.stdout.write("Processed %d compounds \n" % (num_smiles_processed))
     sys.stdout.write("Done with " + library_name + "! \n")
+    return
+
+def process_structure_library(file_name, smiles_name):
+    '''
+    Convert SMILES string of each compound in library 
+    into 3D structure (pdb) in one single output file
+
+    Args:
+        file_name (string): path to SMILES list file
+        smiles_name (string): name of SMILES list file
+    '''
+    # Create output folder if not exists
+    cwd = os.getcwd()
+    library_name = extract_library_name(smiles_name)
+    output_folder = form_path(cwd, pdb_output_folder)
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+    output_subfolder = form_path(output_folder, library_name)
+    if not os.path.exists(output_subfolder):
+        os.makedirs(output_subfolder)
+
+    output_name = form_path(output_subfolder, library_name)
+    cmd = 'obabel -ismi "' + file_name + '" -opdb -O "' + output_name + '.pdb" --gen3d -c'
+    subprocess.call(cmd)
+
     return
 
 
