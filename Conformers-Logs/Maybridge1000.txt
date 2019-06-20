@@ -1,0 +1,3152 @@
+
+          :jGf:             .d8888b. 88d8b.d8b. .d8888b. .d8888b. .d8888b.
+        :jGDDDDf:           88'  `88 88'`88'`88 88ooood8 88'  `88 88'  `88
+      ,fDDDGjLDDDf,         88.  .88 88  88  88 88.  ... 88.  .88 88.  .88
+    ,fDDLt:   :iLDDL;       `88888P' dP  dP  dP `88888P' `8888P88 `88888P8
+  ;fDLt:         :tfDG;                                       .88
+,jft:   ,ijfffji,   :iff                                  d8888P
+     .jGDDDDDDDDDGt.      
+    ;GDDGt:''':tDDDG,          Copyright (c) 2004-2018
+   .DDDG:       :GDDG.         OpenEye Scientific Software, Inc.
+   ;DDDj         tDDDi    
+   ,DDDf         fDDD,         Version: 3.0.0.1
+    LDDDt.     .fDDDj          Built:   20180213
+    .tDDDDfjtjfDDDGt           OEChem version: 2.1.2
+      :ifGDDDDDGfi.            Platform: macOS-clang++6-x64
+          .:::.                
+  ......................       
+  DDDDDDDDDDDDDDDDDDDDDD       
+  DDDDDDDDDDDDDDDDDDDDDD       
+
+  Licensed for the exclusive use of The Laboratory of Rebecca L Davis.
+  Licensed for use only in University of Manitoba.
+  License expires on April 24, 2020.
+
+
+To cite OMEGA please use the following:
+  OMEGA 3.0.0.1: OpenEye Scientific Software, Santa Fe, NM, USA.
+  http://www.eyesopen.com, 2018
+
+  Hawkins, P.C.D.; Skillman, A.G.; Warren, G.L.; Ellingson, B.A.; Stahl, M.T.
+  Conformer Generation with OMEGA: Algorithm and Validation Using High
+  Quality Structures from the Protein Databank and the Cambridge 
+  Structural Database. J. Chem. Inf. Model. 2010, 50, 572-584.
+
+----------------------------------
+Title = AW 00215      ethyl 2-amino-4-(4-fluorophenyl)thiophene-3-carb
+Num confs = 31  elapsed time (s) = 0.40
+----------------------------------
+Title = AW 00436      "2-phenyl-4-(2-thienyl)-1,3-thiazole"
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = AW 00625      "1-[4-(6-chloro-1,3-benzothiazol-2-yl)piperazino
+Num confs = 200  elapsed time (s) = 1.29
+----------------------------------
+Title = AW 00698      N-{2-[4-methyl-3-(trifluoromethyl)-1H-pyrazol-1-
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = AW 00801      "N-(2,4-dichlorophenyl)-4-(5-nitropyridin-2-yl)-
+Num confs = 200  elapsed time (s) = 0.10
+----------------------------------
+Title = AW 00819      "4-chloro-2,5-dimethyl-N-(2-{[4-(trifluoromethyl
+Num confs = 200  elapsed time (s) = 0.15
+----------------------------------
+Title = AW 00844      2-[3-(2-thienyl)-1H-pyrazol-1-yl]-4-(trifluorome
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = AW 00891      "2-(2-{[4-(trifluoromethyl)pyrimidin-2-yl]amino}
+Num confs = 200  elapsed time (s) = 0.12
+----------------------------------
+Title = AW 00925      "4-(5-propylpyrimidin-2-yl)-N-pyridin-3-yl-1,4-d
+Num confs = 98  elapsed time (s) = 0.30
+----------------------------------
+Title = AW 00962      "4-[4-(2-methoxyphenyl)piperidino]-5-phenylthien
+Num confs = 17  elapsed time (s) = 0.28
+----------------------------------
+Title = AW 01018      "N-(2-methoxyphenyl)-4-(2-thienylcarbonyl)-1,4-d
+Num confs = 200  elapsed time (s) = 0.23
+----------------------------------
+Title = AW 01055      tert-butyl4-[(2-ethyl-6-methylanilino)carbonyl]t
+Num confs = 200  elapsed time (s) = 0.30
+----------------------------------
+Title = AW 01109      "4-(4-{[5-(2-methyl-1,3-thiazol-4-yl)-2-thienyl]
+Num confs = 200  elapsed time (s) = 0.27
+----------------------------------
+Title = AW 01159      "[3-(2,6-dichlorophenyl)-5-methylisoxazol-4-yl][
+Num confs = 43  elapsed time (s) = 0.08
+----------------------------------
+Title = AW 01219      N-[4-({[3-(4-benzylpiperazino)propyl]amino}sulfo
+Num confs = 200  elapsed time (s) = 0.25
+----------------------------------
+Title = AW 01274      2-{4-[2-nitro-4-(trifluoromethyl)phenyl]piperazi
+Num confs = 16  elapsed time (s) = 0.06
+----------------------------------
+Title = BR 00009      "1,3-dichloro-2-({[(4-pentylbenzoyl)oxy]imino}me
+Num confs = 200  elapsed time (s) = 0.38
+----------------------------------
+Title = BTB 00027     N-(2-furylmethyl)-N`-(3-methoxyphenyl)thiourea
+Num confs = 200  elapsed time (s) = 0.06
+----------------------------------
+Title = BTB 00084     "5-bromo-3-[2-(3-ethyl-5,5,8,8-tetramethyl-5,6,7
+Num confs = 200  elapsed time (s) = 0.20
+----------------------------------
+Title = BTB 00241     2-{[(4-methoxyphenyl)imino]methyl}phenol
+Num confs = 44  elapsed time (s) = 0.22
+----------------------------------
+Title = BTB 00333     N1-(3-chlorophenyl)-2-(3-pyridylcarbonyl)hydrazi
+Num confs = 118  elapsed time (s) = 0.61
+----------------------------------
+Title = BTB 00374     N`3-(2-chlorobenzylidene)pyridine-3-carbohydrazi
+Num confs = 96  elapsed time (s) = 0.24
+----------------------------------
+Title = BTB 00441     "3-(4-fluorophenyl)-3,7,8-trimethyl-1,5-dihydro-
+Num confs = 3  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 00496     "3,5-dihydro-2H-[1,2,4]triazino[5,6-b]indole-3-t
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = BTB 00554     "2-(3,4,5-trimethoxyphenyl)-2,3-dihydro-1H-benzo
+Num confs = 11  elapsed time (s) = 0.05
+----------------------------------
+Title = BTB 00596     "N2-(3-methoxyphenyl)-1,3-benzothiazol-2-amine"
+Num confs = 26  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 00667     "4-methyl-5-(4-nitrobenzoyl)-2,3,4,5-tetrahydro-
+Num confs = 11  elapsed time (s) = 0.41
+----------------------------------
+Title = BTB 00694     N-benzyl-N-(3-bromobenzylidene)amine
+Warning: Can't assign MMFF type to atom number     7   C
+Warning: Can't assign MMFF type to atom number    20   H
+Warning: force field setup failed due to missing parameters for molecule BTB 00694     N-benzyl-N-(3-bromobenzylidene)amine
+
+----------------------------------
+Title = BTB 00730     "N1-(1,3-benzodioxol-5-ylmethylidene)-4-chloro-2
+Num confs = 185  elapsed time (s) = 0.12
+----------------------------------
+Title = BTB 00778     N1-benzylidene-4-methoxyaniline
+Num confs = 23  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 00828     "2-(3,4-dichlorophenyl)-3-(4-fluorophenyl)-1,3-t
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 00881     "4-(3-methoxyphenyl)-5-(4-methoxyphenyl)-4H-1,2,
+Num confs = 28  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 00992     2-({1-[(carboxymethyl)thio]-1-methylbutyl}thio)a
+Num confs = 92  elapsed time (s) = 0.79
+----------------------------------
+Title = BTB 01022     "N1-(2-chlorophenyl)-8-methyl-1,2,3,4-tetrahydro
+Num confs = 7  elapsed time (s) = 0.04
+----------------------------------
+Title = BTB 01036     N`1-[2-chloro-4-(dimethylamino)benzylidene]-3-(4
+Num confs = 200  elapsed time (s) = 0.54
+----------------------------------
+Title = BTB 01061     3-acetyl-6-bromo-2H-chromen-2-one
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 01088     N1-(2-oxo-2H-chromen-3-yl)acetamide
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 01148     6-fluoro-2-methylquinolin-4-ol
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = BTB 01177     "N-{3-[(3,4-dichlorobenzylidene)amino]-4-methylp
+Num confs = 200  elapsed time (s) = 0.11
+----------------------------------
+Title = BTB 01196     "N-(2,4-dimethylphenyl)-N`-(3-methoxypropyl)thio
+Num confs = 186  elapsed time (s) = 0.08
+----------------------------------
+Title = BTB 01235     N1-(4-fluorophenyl)-2-(2-chlorobenzoyl)hydrazine
+Num confs = 193  elapsed time (s) = 0.11
+----------------------------------
+Title = BTB 01260     "ethyl3-{3,5-di[(3,5-dichloro-2-hydroxybenzylide
+Num confs = 200  elapsed time (s) = 0.51
+----------------------------------
+Title = BTB 01296     "N1-[4-(dimethylamino)benzyl]-N1-isopropyl-2,4,5
+Num confs = 32  elapsed time (s) = 0.07
+----------------------------------
+Title = BTB 01349     "ethyl4-[3-(3,4-dichlorophenyl)perhydroimidazo[1
+Num confs = 50  elapsed time (s) = 0.99
+----------------------------------
+Title = BTB 01396     N-(2-benzoyl-4-chlorophenyl)-N`-(3-chloro-2-meth
+Num confs = 32  elapsed time (s) = 0.04
+----------------------------------
+Title = BTB 01410     "2-(7,8-dimethyl-1,5-dihydro-2,4-benzodithiepin-
+Num confs = 4  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 01444     N1-(4-methyl-3-nitrophenyl)-4-methylbenzene-1-su
+Num confs = 23  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 01514     "2-thioxo-5-(3,4,5-trimethoxybenzylidene)-1,3-th
+Num confs = 16  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 01585     "2-cyclopentyl-1-{2-[(3-methoxyphenyl)imino]-4,4
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'BTB 01585     "2-cyclopentyl-1-{2-[(3-methoxyphenyl)imino]-4,4'
+Warning: BTB 01585     "2-cyclopentyl-1-{2-[(3-methoxyphenyl)imino]-4,4 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 01706     "1-[5-(5-methyl-2-nitrophenyl)-2-(3,4,5-trimetho
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'BTB 01706     "1-[5-(5-methyl-2-nitrophenyl)-2-(3,4,5-trimetho'
+Warning: BTB 01706     "1-[5-(5-methyl-2-nitrophenyl)-2-(3,4,5-trimetho failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 01787     "N1-[3,5-di(trifluoromethyl)phenyl]-2-cyclopenty
+Num confs = 31  elapsed time (s) = 0.21
+----------------------------------
+Title = BTB 01869     "N1-(3,4-dimethoxyphenethyl)-2-chlorobenzamide"
+Num confs = 200  elapsed time (s) = 0.17
+----------------------------------
+Title = BTB 01909     2-{[2-piperidino-5-(trifluoromethyl)anilino]meth
+Num confs = 76  elapsed time (s) = 0.57
+----------------------------------
+Title = BTB 01965     "N1-(3,4-dimethoxyphenethyl)-4-(trifluoromethyl)
+Num confs = 200  elapsed time (s) = 0.26
+----------------------------------
+Title = BTB 02003     "ethyl 8-fluoro-4-oxo-1,4-dihydroquinoline-3-car
+Num confs = 14  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 02050     N1-[4-(trifluoromethyl)phenyl]-2-phenylbutanamid
+Num confs = 43  elapsed time (s) = 0.05
+----------------------------------
+Title = BTB 02082     "N`-(2,5-dimethylphenyl)-N-phenethyl-N-[2-(2-pyr
+Num confs = 200  elapsed time (s) = 0.27
+----------------------------------
+Title = BTB 02134     "1-methyl-2-(5-nitro-2-thienyl)-1,2,3,4-tetrahyd
+Num confs = 6  elapsed time (s) = 0.28
+----------------------------------
+Title = BTB 02164     "5-nitro-2-(5-nitro-2-thienyl)-2,3-dihydro-1,3-b
+Num confs = 6  elapsed time (s) = 0.12
+----------------------------------
+Title = BTB 02191     "2-benzyl-1-(4-nitrophenyl)perhydropyrido[1,2-c]
+Num confs = 7  elapsed time (s) = 0.69
+----------------------------------
+Title = BTB 02242     "diethyl2-[(2-{[3,5-di(trifluoromethyl)phenyl]su
+Num confs = 200  elapsed time (s) = 6.52
+----------------------------------
+Title = BTB 02289     1-phenyl-5-(1H-pyrrol-1-yl)-1H-pyrazole-4-carbon
+Num confs = 2  elapsed time (s) = 0.25
+----------------------------------
+Title = BTB 02335     "5-{2-[3-(4-chlorophenyl)-1,2,4-oxadiazol-5-yl]e
+Num confs = 200  elapsed time (s) = 1.08
+----------------------------------
+Title = BTB 02361     "N`1-(3,4,5-trimethoxybenzoyl)-2-[(2,5-dimethoxy
+Num confs = 200  elapsed time (s) = 1.06
+----------------------------------
+Title = BTB 02389     diethyl2-({2-[2-(1H-pyrrol-1-yl)benzoyl]hydrazin
+Num confs = 200  elapsed time (s) = 0.53
+----------------------------------
+Title = BTB 02411     1-[4-nitro-5-piperidino-2-(trifluoromethyl)pheny
+Num confs = 5  elapsed time (s) = 0.07
+----------------------------------
+Title = BTB 02461     "N`1-{3-[3-(4-chlorophenyl)-1,2,4-oxadiazol-5-yl
+Num confs = 200  elapsed time (s) = 1.36
+----------------------------------
+Title = BTB 02498     "4-(6-methyl-2-pyridyl)-4-azatricyclo[5.2.1.0~2,
+Num confs = 4  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 02544     2-{2-[1-(4-fluorophenyl)ethylidene]hydrazono}imi
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'BTB 02544     2-{2-[1-(4-fluorophenyl)ethylidene]hydrazono}imi'
+Warning: BTB 02544     2-{2-[1-(4-fluorophenyl)ethylidene]hydrazono}imi failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 02581     2-({4-[(dipropylamino)sulfonyl]benzoyl}amino)ace
+Num confs = 200  elapsed time (s) = 2.31
+----------------------------------
+Title = BTB 02635     "5-(2-tetrahydro-1H-pyrrol-1-ylethyl)-1,3,5-tria
+Num confs = 24  elapsed time (s) = 0.04
+----------------------------------
+Title = BTB 02660     diethyl 2-[(2-morpholinoanilino)methylidene]malo
+Num confs = 200  elapsed time (s) = 0.88
+----------------------------------
+Title = BTB 02678     "N1-(8-quinolyl)-2,4,5-trichlorobenzene-1-sulfon
+Num confs = 55  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 02719     N1-{2-[(4-fluoroanilino)carbonyl]-4-methylphenyl
+Num confs = 56  elapsed time (s) = 0.08
+----------------------------------
+Title = BTB 02761     diethyl 2-[(3-cyanoanilino)methylidene]malonate
+Num confs = 200  elapsed time (s) = 0.38
+----------------------------------
+Title = BTB 02768     "4-[4-(dimethylamino)-3-nitrophenyl]-1,2-dihydro
+Num confs = 2  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 02848     N`1-methyl-N`1-[2-nitro-4-(trifluoromethyl)pheny
+Num confs = 5  elapsed time (s) = 0.27
+----------------------------------
+Title = BTB 02874     4-chloro-2-nitro-1-(phenylsulfonyl)benzene
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 02933     ethyl2-amino-6-bromo-4-(1-cyano-2-ethoxy-2-oxoet
+Num confs = 114  elapsed time (s) = 0.51
+----------------------------------
+Title = BTB 03010     "3-(4-chloro-3-methylphenyl)-5,6-dihydroimidazo[
+Warning: Can't assign MMFF type to atom number    10   C
+Warning: Can't assign MMFF type to atom number    23   H
+Warning: force field setup failed due to missing parameters for molecule BTB 03010     "3-(4-chloro-3-methylphenyl)-5,6-dihydroimidazo[
+
+----------------------------------
+Title = BTB 03055     4-methylphenyl 2-phenoxypyridine-3-carbothioate
+Num confs = 200  elapsed time (s) = 0.12
+----------------------------------
+Title = BTB 03059     2-phenoxypyridine-3-carbohydrazide
+Num confs = 32  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 03107     "1-bromo-3,5-dichlorobenzene"
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = BTB 03148     2-(3-chloroanilino)-1-(4-chlorophenyl)ethan-1-on
+Num confs = 198  elapsed time (s) = 0.11
+----------------------------------
+Title = BTB 03234     3-acetyl-2H-chromen-2-one
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 03320     "1-[1,1`-biphenyl]-4-ylpropan-1-one"
+Num confs = 9  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 03415     "N1-(6-nitro-2-oxo-2H-chromen-3-yl)-2,6-difluoro
+Num confs = 12  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 03438     "N1-[2-(4-pyridyl)ethyl]-3,5-di(trifluoromethyl)
+Num confs = 54  elapsed time (s) = 0.37
+----------------------------------
+Title = BTB 03489     ethyl 4-(4-chlorophenyl)-4-cyano-4-morpholinobut
+Num confs = 39  elapsed time (s) = 0.82
+----------------------------------
+Title = BTB 03563     "N1-(3,5-dichlorophenyl)-4-amino-3,5-dichloroben
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 03586     "N1-(4-chlorophenyl)-2-[(5-methyl-2-phenyl-2H-1,
+Num confs = 149  elapsed time (s) = 0.12
+----------------------------------
+Title = BTB 03653     "N4-(1,3,4-thiadiazol-2-yl)isonicotinamide"
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 03699     "6-chloro-5-fluoro-1H-1,2,3-benzotriazole"
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = BTB 03791     "N`1-(3,5-dichloro-2-hydroxybenzylidene)-4-(tert
+Num confs = 116  elapsed time (s) = 0.22
+----------------------------------
+Title = BTB 03853     2-piperidinobenzamide
+Num confs = 10  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 03920     "2-chloro-1,3-di(2,6-dichlorophenoxy)-4-nitroben
+Num confs = 10  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 04022     "4-[(2,6-dimethylmorpholino)methyl]-2,6-dimethyl
+Num confs = 9  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 04071     2-{[(6-amino-2-pyridyl)amino]methylidene}malonon
+Num confs = 22  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 04115     4-fluorophenyl thiophene-2-carboxylate
+Num confs = 18  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 04181     N1-(3-chloro-4-fluorophenyl)-2-[(2-chloro-6-fluo
+Num confs = 200  elapsed time (s) = 0.13
+----------------------------------
+Title = BTB 04212     "N1-(4-fluorophenyl)-2,2-dimethylpropanamide"
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 04281     "3-{[(5-cyclopropyl-1,4,5,6-tetrahydro-1,3,5-tri
+Num confs = 200  elapsed time (s) = 0.25
+----------------------------------
+Title = BTB 04346     "2-[(2,5-dimethoxyphenyl)sulfonyl]-6,7-dimethoxy
+Num confs = 183  elapsed time (s) = 0.39
+----------------------------------
+Title = BTB 04417     N-(2-fluorobenzoyl)-N`-[2-(2-methoxyphenoxy)-5-(
+Num confs = 200  elapsed time (s) = 0.19
+----------------------------------
+Title = BTB 04487     "5-chloro-4-[2,6-dinitro-4-(trifluoromethyl)phen
+Num confs = 1  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 04536     "N1-(2-chloro-6-fluorobenzoyl)-6-methoxy-1,2,3,4
+Num confs = 47  elapsed time (s) = 0.40
+----------------------------------
+Title = BTB 04603     2-(2-phenylhydrazono)propanal oxime
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'BTB 04603     2-(2-phenylhydrazono)propanal oxime'
+Warning: BTB 04603     2-(2-phenylhydrazono)propanal oxime failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 04647     "1-(2,6-dibromo-4-propylphenyl)-1H-pyrrole"
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 04665     "N1-imino(3-pyridyl)methyl-3,5-dichloro-4-(2-chl
+Num confs = 200  elapsed time (s) = 0.73
+----------------------------------
+Title = BTB 04688     "N1-(2-fluorobenzoyl)-2-(2,4,6-trichlorophenyl)h
+Num confs = 132  elapsed time (s) = 0.66
+----------------------------------
+Title = BTB 04722     "N-(2,5-dichlorophenyl)-N`-[3-(1H-imidazol-1-yl)
+Num confs = 198  elapsed time (s) = 0.05
+----------------------------------
+Title = BTB 04785     N-[(dimethylamino)methylidene]-N`-[3-(methylthio
+Num confs = 116  elapsed time (s) = 0.55
+----------------------------------
+Title = BTB 04832     "N4-(4,5-dimethyl-2-nitrophenyl)-3-(2,6-dichloro
+Num confs = 21  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 04862     "N1-[2-(2,4-dichlorophenoxy)phenyl]-3,4-dimethox
+Num confs = 200  elapsed time (s) = 0.17
+----------------------------------
+Title = BTB 04891     N1-(4-chlorophenethyl)-2-aminobenzamide
+Num confs = 76  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 04938     "4-fluoro-2-[2-(2,4,6-trichlorophenyl)ethanhydra
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'BTB 04938     "4-fluoro-2-[2-(2,4,6-trichlorophenyl)ethanhydra'
+Warning: BTB 04938     "4-fluoro-2-[2-(2,4,6-trichlorophenyl)ethanhydra failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 04978     "3-(4-chlorophenyl)-7-(trifluoromethyl)-2,3-dihy
+Num confs = 1  elapsed time (s) = 0.21
+----------------------------------
+Title = BTB 05020     7-chloro-4-(4-chlorophenoxy)quinoline
+Num confs = 9  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 05047     "4-oxo-2-phenyl-3,4-dihydroquinazolin-3-yl5-meth
+Num confs = 76  elapsed time (s) = 0.13
+----------------------------------
+Title = BTB 05098     N1-[2-chloro-5-(trifluoromethyl)phenyl]hydrazine
+Num confs = 8  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 05123     N1-[2-chloro-5-(trifluoromethyl)phenyl]-2-cycloh
+Num confs = 200  elapsed time (s) = 0.81
+----------------------------------
+Title = BTB 05165     1-chloro-4-[(4-chloro-3-methylphenoxy)methoxy]-2
+Num confs = 17  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 05191     "ethyl2-cyano-3-{[2-(2,6-dichlorobenzylidene)(me
+Num confs = 200  elapsed time (s) = 0.82
+----------------------------------
+Title = BTB 05197     methyl N-(2-chloro-6-fluorobenzylidene)aminometh
+Num confs = 134  elapsed time (s) = 0.13
+----------------------------------
+Title = BTB 05231     4-(4-methoxyphenoxy)-2-methylquinoline
+Num confs = 16  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 05265     1-(4-methoxyphenoxy)-2-nitro-4-(trifluoromethyl)
+Num confs = 9  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 05284     "2-[4-(dimethylamino)phenyl]-5-(methylthio)[1,2,
+Num confs = 30  elapsed time (s) = 0.06
+----------------------------------
+Title = BTB 05318     "N1-(5-oxo-5H-chromeno[2,3-b]pyridin-7-yl)-4-chl
+Num confs = 26  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 05356     "2-nitro-4-(trifluoromethyl)phenyl 2,6-difluorob
+Num confs = 24  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 05417     "2-(3,4-dichlorophenoxy)-1,3-dinitro-5-(trifluor
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 05472     1-[2-nitro-4-(trifluoromethyl)anilino]propan-2-o
+Num confs = 11  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 05499     2-[(5-nitro-2-pyridyl)amino]ethyl 5-nitro-2-furo
+Num confs = 200  elapsed time (s) = 0.17
+----------------------------------
+Title = BTB 05574     "2-(4-bromo-2-thienyl)-1-methyl-1,2,3,4-tetrahyd
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 05608     "2-(4-bromo-2-thienyl)-6-chloro-1,4-dihydroquina
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 05674     "methyl2-{[(2,5-dimethoxyphenyl)sulfonyl]amino}-
+Num confs = 200  elapsed time (s) = 0.31
+----------------------------------
+Title = BTB 05733     5-[(5-nitro-2-pyridyl)amino]pentan-1-ol
+Num confs = 200  elapsed time (s) = 0.11
+----------------------------------
+Title = BTB 05771     4-(4-nitrophenyl)morpholine
+Num confs = 4  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 05809     "N-(5-ethyl-1,3,4-thiadiazol-2-yl)-N`-hydroxyimi
+Num confs = 14  elapsed time (s) = 0.15
+----------------------------------
+Title = BTB 05841     N-(4-bromo-5-methylisoxazol-3-yl)-N`-(2-chloro-6
+Num confs = 14  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 05846     "methyl 2-[(2,4-dichloro-5-methylphenyl)thio]-3-
+Num confs = 178  elapsed time (s) = 0.18
+----------------------------------
+Title = BTB 05865     "N,N-dimethyl-N`-{5-[(3-nitro-2-pyridyl)thio]-1,
+Num confs = 170  elapsed time (s) = 0.21
+----------------------------------
+Title = BTB 05890     N1-cyclopropylmethyl-3-chloro-4-fluorobenzene-1-
+Num confs = 41  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 05936     "N4-tetrahydro-1H-pyrrol-1-ylcarbonyl-5-methyl-2
+Num confs = 7  elapsed time (s) = 0.26
+----------------------------------
+Title = BTB 05966     "methyl 3-[(2,6-difluorobenzoyl)oxy]thiophene-2-
+Num confs = 200  elapsed time (s) = 0.14
+----------------------------------
+Title = BTB 06030     N1-[3-(1H-imidazol-1-yl)propyl]-2-nitro-4-(trifl
+Num confs = 121  elapsed time (s) = 0.08
+----------------------------------
+Title = BTB 06046     N1-(4-fluorophenyl)-3-(4-fluoroanilino)but-2-ena
+Num confs = 77  elapsed time (s) = 0.07
+----------------------------------
+Title = BTB 06083     "N`-{5-[(5-chloro-1,3-benzothiazol-2-yl)thio]-1,
+Num confs = 200  elapsed time (s) = 0.30
+----------------------------------
+Title = BTB 06131     "di(3,5-dichlorophenyl) benzene-1,3-disulfonate"
+Num confs = 200  elapsed time (s) = 0.53
+----------------------------------
+Title = BTB 06169     "4-[(4-chlorophenyl)methylene]-3-phenyl-4,5-dihy
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'BTB 06169     "4-[(4-chlorophenyl)methylene]-3-phenyl-4,5-dihy'
+Warning: BTB 06169     "4-[(4-chlorophenyl)methylene]-3-phenyl-4,5-dihy failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 06230     "ethyl 2-{2-[(hydroxyiminomethyl)amino]-1,3-thia
+Num confs = 200  elapsed time (s) = 0.16
+----------------------------------
+Title = BTB 06262     n/a
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 06291     N`-{[(4-chlorophenyl)sulfonyl]oxy}-4-(trifluorom
+Num confs = 42  elapsed time (s) = 0.61
+----------------------------------
+Title = BTB 06365     "3-{[(4-chlorophenyl)thio]methyl}-4,5-dihydro-1H
+Num confs = 38  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 06385     "4-[(dimethylamino)methylidene]-3-[(2-pyridylthi
+Warning: Can't assign MMFF type to atom number     4   C
+Warning: Can't assign MMFF type to atom number    25   H
+Warning: force field setup failed due to missing parameters for molecule BTB 06385     "4-[(dimethylamino)methylidene]-3-[(2-pyridylthi
+
+----------------------------------
+Title = BTB 06409     "3-methyl-1-phenyl-4-propyl-1,6-dihydropyrano[2,
+Num confs = 10  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 06435     5-[(4-chlorophenyl)sulfonyl]-2-nitrophenol
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 06471     "4-(benzyloxy)phenyl 3,5-dichlorobenzene-1-sulfo
+Num confs = 101  elapsed time (s) = 0.14
+----------------------------------
+Title = BTB 06524     N2-(2-{[(2-oxoazepan-3-yl)amino]carbonyl}phenyl)
+Num confs = 139  elapsed time (s) = 0.17
+----------------------------------
+Title = BTB 06547     "2-(4-chlorophenyl)-5-(5-methyl-2-phenyl-2H-1,2,
+Num confs = 8  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 06587     3-nitro-2H-chromen-2-one
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 06714     N1-(2-pyridyl)-2-cyanoacetamide
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 06752     "N2-(2,4-dichlorophenyl)pyrazine-2-carboxamide"
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 06795     "2,4-difluorophenyl4-{[(5-{[(dimethylamino)methy
+Num confs = 200  elapsed time (s) = 0.42
+----------------------------------
+Title = BTB 06849     methyl 2-[benzyl(methylsulfonyl)amino]-4-chlorob
+Num confs = 62  elapsed time (s) = 0.09
+----------------------------------
+Title = BTB 06909     N`1-(4-chlorobenzoyl)-2-nitrobenzene-1-carbohydr
+Num confs = 14  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 06939     "2-(2-bromo-5-methoxyphenyl)-5-(2-nitrophenyl)-1
+Num confs = 26  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 06989     "2-(3,4-dichlorobenzyl)-6-methyl-2,3-dihydropyri
+Num confs = 36  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 07042     "3-(tert-butyl)-1-phenyl-4,5-dihydro-1H-pyrazol-
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 07096     n/a
+Num confs = 37  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 07130     1-{1-[(4-chlorophenyl)sulfonyl]-1H-pyrrol-3-yl}e
+Num confs = 24  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 07162     "6-[(2,5-dichlorophenyl)thio]pyridin-3-amine"
+Num confs = 18  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 07186     6-(4-chloro-2-methylphenoxy)pyridin-3-amine
+Num confs = 12  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 07221     6-(4-chloro-2-cyclohexylphenoxy)pyridin-3-amine
+Num confs = 38  elapsed time (s) = 0.04
+----------------------------------
+Title = BTB 07289     6-methyl-3-[(4-methylbenzyl)oxy]-2-nitropyridine
+Num confs = 36  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 07318     6-methyl-2-nitro-3-pyridyl 4-chlorobenzene-1-sul
+Num confs = 14  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 07356     N1-[2-bromo-4-(trifluoromethyl)phenyl]acetamide
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 07490     "2,6-dimethoxy-3-nitrobenzamide"
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 07522     "ethyl 4-[(5-amino-1,3,4-thiadiazol-2-yl)thio]-3
+Num confs = 200  elapsed time (s) = 0.18
+----------------------------------
+Title = BTB 07683     "3-bromo-2,6-dimethoxy-5-nitrobenzamide"
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 07819     "methyl 3-[(hydroxyiminomethyl)amino]-2,6-dimeth
+Num confs = 93  elapsed time (s) = 0.10
+----------------------------------
+Title = BTB 07871     "N1-(2,2-diethoxyethyl)-N1-(4-fluorophenyl)-2,4-
+Num confs = 200  elapsed time (s) = 0.39
+----------------------------------
+Title = BTB 07953     "pyrazine-2,3-dicarboxylic acid"
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 08065     "4-[(2,5-dioxotetrahydro-1H-imidazol-4-yliden)me
+Num confs = 49  elapsed time (s) = 0.05
+----------------------------------
+Title = BTB 08155     4-benzhydryl-1-[(4-methylphenyl)sulfonyl]piperid
+Num confs = 19  elapsed time (s) = 0.26
+----------------------------------
+Title = BTB 08182     "1-(3-chlorophenyl)-4-(4-methoxybenzylidene)-3-m
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'BTB 08182     "1-(3-chlorophenyl)-4-(4-methoxybenzylidene)-3-m'
+Warning: BTB 08182     "1-(3-chlorophenyl)-4-(4-methoxybenzylidene)-3-m failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 08213     "1-(4-methoxyphenyl)-2-thioxo-1,2,3,4-tetrahydro
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 08260     "3-(2-chloro-6-fluorobenzoyl)-1-(2-methoxyphenyl
+Num confs = 40  elapsed time (s) = 0.68
+----------------------------------
+Title = BTB 08300     "5-amino-6-chloroisoindoline-1,3-dione"
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = BTB 08391     n/a
+Num confs = 52  elapsed time (s) = 0.09
+----------------------------------
+Title = BTB 08461     "methyl 4-chloro-2-{[(3,4-dimethoxyphenyl)sulfon
+Num confs = 200  elapsed time (s) = 0.14
+----------------------------------
+Title = BTB 08530     N`1-[1-(2-hydroxyphenyl)ethylidene]-3-methoxyben
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'BTB 08530     N`1-[1-(2-hydroxyphenyl)ethylidene]-3-methoxyben'
+Warning: BTB 08530     N`1-[1-(2-hydroxyphenyl)ethylidene]-3-methoxyben failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 08580     "N`-{3-[(3,4-dichlorobenzyl)oxy]-2-pyridyl}-N,N-
+Num confs = 200  elapsed time (s) = 0.21
+----------------------------------
+Title = BTB 08631     dimethyl 3-amino-2-cyanopent-2-enedioate
+Num confs = 101  elapsed time (s) = 0.34
+----------------------------------
+Title = BTB 08690     "N1-(2,5-dimethoxybenzyl)-2-(2-thienyl)acetamide
+Num confs = 200  elapsed time (s) = 0.16
+----------------------------------
+Title = BTB 08791     2-[({2-[(4-methylphenyl)thio]-3-pyridyl}carbonyl
+Num confs = 200  elapsed time (s) = 0.29
+----------------------------------
+Title = BTB 08831     2-[(3-chloro-2-methylphenyl)thio]acetic acid
+Num confs = 31  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 08903     tert-butyl 2-[(4-chlorophenyl)sulfonyl]-2-methyl
+Num confs = 41  elapsed time (s) = 0.06
+----------------------------------
+Title = BTB 08940     1-[(4-methylphenyl)sulfonyl]azepane
+Num confs = 27  elapsed time (s) = 0.13
+----------------------------------
+Title = BTB 09043     "3-methyl-4,6-diphenyl-6,7-dihydroisoxazolo[3,4-
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 09126     N`-hydroxy-N-(2-methylquinolin-4-yl)iminoformami
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 09186     3-methyl-1-(4-nitrophenyl)-1H-pyrazol-5-ol
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 09260     2-(3-methoxyphenyl)ethanohydrazide
+Num confs = 32  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 09301     "ethyl5-{[5-(ethoxycarbonyl)-3,4-dimethyl-1H-pyr
+Num confs = 200  elapsed time (s) = 0.39
+----------------------------------
+Title = BTB 09317     "1-benzyl-4-hydroxy-5-oxo-2,5-dihydro-1H-pyrrole
+Num confs = 18  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 09341     "N2,N2-diethyl-3,4,5-trimethyl-1H-pyrrole-2-carb
+Num confs = 14  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 09413     2-(2-methoxyphenyl)-5-oxotetrahydrofuran-3-carbo
+Num confs = 31  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 09538     2-(4-chlorophenoxy)-3-nitropyridine
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 09574     1-(2-methoxy-4-nitrophenyl)pyrrolidine
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 09643     "4,6-dimethoxypyrimidin-2-amine"
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 09705     1-ethyl-2-methyl-4-nitro-1H-imidazole
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 09791     "1-(4`-acetyl[1,1`-biphenyl]-4-yl)ethan-1-one"
+Num confs = 12  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 09826     "pyrido[2,3-b]pyrazine-2,3-diol"
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = BTB 09891     "2,6-di(tert-butyl)benzo-1,4-quinone"
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 09936     di(2-thienyl)methanone oxime
+Num confs = 20  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 10004     "3,4-di(benzyloxy)furan-2,5-dicarboxylic acid"
+Num confs = 200  elapsed time (s) = 4.11
+----------------------------------
+Title = BTB 10040     7-hydroxy-2-propyl-4H-chromen-4-one
+Num confs = 7  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 10067     6-hexyl-7-hydroxy-4-methyl-2H-chromen-2-one
+Num confs = 62  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 10106     "1-[(4-methylphenyl)sulfonyl]-4,5-dihydro-1H-pyr
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'BTB 10106     "1-[(4-methylphenyl)sulfonyl]-4,5-dihydro-1H-pyr'
+Warning: BTB 10106     "1-[(4-methylphenyl)sulfonyl]-4,5-dihydro-1H-pyr failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 10145     3-acetyl-6-methylchroman-4-one
+Num confs = 6  elapsed time (s) = 0.09
+----------------------------------
+Title = BTB 10185     ethyl 7-hydroxy-9-oxo-9H-xanthene-2-carboxylate
+Num confs = 12  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 10205     N1-(5-methoxy-2-propylphenyl)acetamide
+Num confs = 10  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 10247     4-(4-butoxyphenyl)-4-oxobutanoic acid
+Num confs = 200  elapsed time (s) = 0.38
+----------------------------------
+Title = BTB 10314     "4-decyl-1,1`-biphenyl"
+Num confs = 200  elapsed time (s) = 0.23
+----------------------------------
+Title = BTB 10407     N2-[(4-methylpiperazino)methylidene]-3-chloro-5-
+Num confs = 20  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 10447     "5-methyl[1,2,4]triazolo[1,5-a]pyrimidin-7-ol"
+Num confs = 1  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 10542     N1-phenyl-4-(2-phenyldiaz-1-enyl)aniline
+Num confs = 32  elapsed time (s) = 0.06
+----------------------------------
+Title = BTB 10591     "dimethyl 6,6`-dinitro[1,1`-biphenyl]-2,2`-dicar
+Num confs = 18  elapsed time (s) = 0.04
+----------------------------------
+Title = BTB 10716     8-methyl-8-azabicyclo[3.2.1]octan-3-one oxime hy
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'BTB 10716     8-methyl-8-azabicyclo[3.2.1]octan-3-one oxime hy'
+Warning: BTB 10716     8-methyl-8-azabicyclo[3.2.1]octan-3-one oxime hy failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 10830     2-(3-methylbenzoyl)benzoic acid
+Num confs = 54  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 11052     "4-{4-[(2,4-dichlorobenzyl)oxy]-3-methoxyphenyl}
+Num confs = 200  elapsed time (s) = 0.35
+----------------------------------
+Title = BTB 11188     "1,4-dicyclohexylbenzene"
+Num confs = 15  elapsed time (s) = 0.04
+----------------------------------
+Title = BTB 11565     "4-hydroxy-1-methyl-3-phenyl-1,2-dihydroquinolin
+Num confs = 1  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 11842     "3-(9H-carbazol-9-yl)propane-1,2-diol"
+Num confs = 6  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 12150     "N1-(4-{[(1,5-dimethyl-3-oxo-2-phenyl-2,3-dihydr
+Num confs = 62  elapsed time (s) = 0.08
+----------------------------------
+Title = BTB 12322     1-amino-9H-fluoren-9-one
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = BTB 12345     1-chloro-4-[2-(4-chlorophenoxy)ethoxy]benzene
+Num confs = 65  elapsed time (s) = 0.07
+----------------------------------
+Title = BTB 12461     "3-amino-4-phenyl-2,5-dihydro-1H-pyrrole-2,5-dio
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 12648     3-[9-(2-cyanoethyl)-9H-fluoren-9-yl]propanenitri
+Num confs = 6  elapsed time (s) = 0.05
+----------------------------------
+Title = BTB 12784     "2,3-dihydro-1H-phenalen-1-one"
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 12840     "(7-bromo-2,3-dihydro-1,4-benzodioxin-6-yl)(phen
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 12954     "1-(4-nitrophenyl)propane-1,2,3-triol"
+Num confs = 22  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 12991     ethyl 5-hydroxy-2-methyl-1-phenyl-1H-indole-3-ca
+Num confs = 22  elapsed time (s) = 0.05
+----------------------------------
+Title = BTB 13004     1-bromoadamantane
+Num confs = 1  elapsed time (s) = 0.05
+----------------------------------
+Title = BTB 13014     "N2-cyclohexyl-5-methyl-4,5-dihydro-1,3-thiazol-
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'BTB 13014     "N2-cyclohexyl-5-methyl-4,5-dihydro-1,3-thiazol-'
+Warning: BTB 13014     "N2-cyclohexyl-5-methyl-4,5-dihydro-1,3-thiazol- failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 13026     "ethyl 2-(4-amino-3-methylphenyl)-3,3,3-trifluor
+Num confs = 55  elapsed time (s) = 0.35
+----------------------------------
+Title = BTB 13411     N1-(2-chlorophenyl)-3-oxobutanamide
+Num confs = 37  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 13464     3-anilino-1-cyclopropyl-3-phenylpropan-1-one
+Num confs = 200  elapsed time (s) = 0.45
+----------------------------------
+Title = BTB 13546     2-(acetylamino)pentanedioic acid
+Num confs = 146  elapsed time (s) = 0.44
+----------------------------------
+Title = BTB 13663     "1,4-diiodo-2,5-dimethylbenzene"
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = BTB 13761     "4-{[(2,4-dichlorobenzoyl)oxy]imino}-2,3,4,9-tet
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'BTB 13761     "4-{[(2,4-dichlorobenzoyl)oxy]imino}-2,3,4,9-tet'
+Warning: BTB 13761     "4-{[(2,4-dichlorobenzoyl)oxy]imino}-2,3,4,9-tet failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 13826     "sodium2-[(1,1-dioxotetrahydro-1H-1lambda~6~-thi
+Num confs = 16  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 13839     "2-(2,2,4,7-tetramethyl-1,2,3,4-tetrahydroquinol
+Num confs = 5  elapsed time (s) = 0.27
+----------------------------------
+Title = BTB 14474     "N1-[2-(benzylideneamino)-1,2-diphenylethyl]benz
+Warning: Can't assign MMFF type to atom number     7   C
+Warning: Can't assign MMFF type to atom number    35   H
+Warning: force field setup failed due to missing parameters for molecule BTB 14474     "N1-[2-(benzylideneamino)-1,2-diphenylethyl]benz
+
+----------------------------------
+Title = BTB 14558     "N2-(1,3,3-trimethylbicyclo[2.2.1]hept-2-yl)thio
+Num confs = 8  elapsed time (s) = 0.04
+----------------------------------
+Title = BTB 14582     2-bromo-4-methylphenyl 4-cyanobenzene-1-sulfonat
+Num confs = 12  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 14604     4-(2-methoxyphenyl)-1-(2-naphthylmethyl)piperidi
+Num confs = 50  elapsed time (s) = 0.08
+----------------------------------
+Title = BTB 14792     benzyl 2-oxohexahydrocyclopropa[d]imidazole-1-ca
+Num confs = 66  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 14947     "5,6,12,13-tetraazapentacyclo[6.6.1.1~3,10~.0~1,
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'BTB 14947     "5,6,12,13-tetraazapentacyclo[6.6.1.1~3,10~.0~1,'
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 17 of molecule 'BTB 14947     "5,6,12,13-tetraazapentacyclo[6.6.1.1~3,10~.0~1,'
+Warning: BTB 14947     "5,6,12,13-tetraazapentacyclo[6.6.1.1~3,10~.0~1, failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 15113     "1-hydroxy-2-phenyl-1,5,6,7-tetrahydro-4H-benzim
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = BTBG 00017    2-(benzylthio)propanoic acid
+Num confs = 40  elapsed time (s) = 0.04
+----------------------------------
+Title = BTBG 00037    "1,10-diphenyldecane-1,10-dione"
+Num confs = 200  elapsed time (s) = 2.21
+----------------------------------
+Title = BTBG 00061    1-phenyl-2-(tritylamino)ethan-1-one oxime
+Num confs = 49  elapsed time (s) = 0.44
+----------------------------------
+Title = BTBG 00114    2-hydroxybicyclo[2.2.1]heptane-7-carboxylic acid
+Num confs = 2  elapsed time (s) = 0.07
+----------------------------------
+Title = BTBS 00035    "5-(4-hydroxy-3-methoxybenzylidene)imidazolidine
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = BW 00083      (6-methoxy-4-quinolyl)(5-vinyl-1-azabicyclo[2.2.
+Num confs = 18  elapsed time (s) = 0.13
+----------------------------------
+Title = CD 00230      3-(4-methylpiperidino)-3-oxopropanenitrile
+Num confs = 17  elapsed time (s) = 0.03
+----------------------------------
+Title = CD 00508      "5-(3-bromo-4-methoxybenzylidene)-2-thioxohexahy
+Num confs = 4  elapsed time (s) = 0.05
+----------------------------------
+Title = CD 00622      "5-(1-naphthylmethylidene)-2-thioxohexahydropyri
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 00738      "3,5-di[(2-oxopropyl)thio]isothiazole-4-carbonit
+Num confs = 200  elapsed time (s) = 0.20
+----------------------------------
+Title = CD 00977      4-[(4-methoxybenzylidene)amino]phenol
+Num confs = 24  elapsed time (s) = 0.02
+----------------------------------
+Title = CD 01085      "N-(3,4-dimethoxyphenethyl)-N`-[3-(trifluorometh
+Num confs = 200  elapsed time (s) = 0.23
+----------------------------------
+Title = CD 01404      N1-bicyclo[2.2.1]hept-5-en-2-yl-2-(3-pyridylcarb
+Num confs = 193  elapsed time (s) = 0.43
+----------------------------------
+Title = CD 01523      "methyl 2-(4,5-dimethoxy-2-nitrophenyl)acetate"
+Num confs = 29  elapsed time (s) = 0.02
+----------------------------------
+Title = CD 01702      "1-(2,3,4,5,6-pentamethylphenyl)propan-1-one"
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 01774      "4-(dimethylamino)benzene-1-carbohydrazide,80<90
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 01869      "6,7-dimethoxy-1,4-dihydro-3H-isochromen-3-one"
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 01986      "N1-bicyclo[2.2.1]hept-5-en-2-yl-2-{2-[(2,6-dich
+Num confs = 200  elapsed time (s) = 0.46
+----------------------------------
+Title = CD 02053      "(2,5-dimethoxyphenyl)(3,4,5-trimethoxyphenyl)me
+Num confs = 200  elapsed time (s) = 0.29
+----------------------------------
+Title = CD 02162      1-{[(4-chlorobenzoyl)oxy]ethanimidoyl}-4-fluorob
+Num confs = 42  elapsed time (s) = 0.06
+----------------------------------
+Title = CD 02345      "N-(2,6-dichlorophenyl)-N`-(5-methyl-3-phenyliso
+Num confs = 30  elapsed time (s) = 0.03
+----------------------------------
+Title = CD 02460      2-[(4-fluoroanilino)carbonyl]-3-nitrobenzoic aci
+Num confs = 8  elapsed time (s) = 0.02
+----------------------------------
+Title = CD 02574      N`1-(3-phenylprop-2-enylidene)-2-(1H-pyrrol-1-yl
+Num confs = 159  elapsed time (s) = 0.30
+----------------------------------
+Title = CD 02784      "(2,3,4,5,6-pentamethylphenyl)methanol"
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 02862      2-[(2-hydroxy-3-methoxyphenyl)methylene]-N-(3-me
+Num confs = 200  elapsed time (s) = 0.49
+----------------------------------
+Title = CD 02948      "2-cyano-3-(3,4,5-trimethoxyphenyl)prop-2-enethi
+Num confs = 187  elapsed time (s) = 1.15
+----------------------------------
+Title = CD 03004      N-[bis(methylthio)methylene]benzenesulfonamide
+Num confs = 42  elapsed time (s) = 0.41
+----------------------------------
+Title = CD 03187      "2-phenyl-1,2,4-triazaspiro[4.5]dec-3-ene-3-thio
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'CD 03187      "2-phenyl-1,2,4-triazaspiro[4.5]dec-3-ene-3-thio'
+Warning: CD 03187      "2-phenyl-1,2,4-triazaspiro[4.5]dec-3-ene-3-thio failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = CD 03281      "1-(2,3,5,6-tetrachlorophenyl)-1H-pyrrole"
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 03417      "9-(2-hydroxy-3-methoxyphenyl)-3,3,6,6-tetrameth
+Num confs = 10  elapsed time (s) = 0.18
+----------------------------------
+Title = CD 03656      "ethyl 3-(3,4-dichloroanilino)-2-phenyl-3-(2-pyr
+Num confs = 200  elapsed time (s) = 0.66
+----------------------------------
+Title = CD 03831      "1-(1,1,3,3,6-pentamethyl-7-nitro-2,3-dihydro-1H
+Num confs = 1  elapsed time (s) = 0.08
+----------------------------------
+Title = CD 04055      2-(benzylthio)acetic acid
+Num confs = 55  elapsed time (s) = 0.06
+----------------------------------
+Title = CD 04233      "3-[3,5-di(trifluoromethyl)anilino]propanenitril
+Num confs = 19  elapsed time (s) = 0.08
+----------------------------------
+Title = CD 04305      "N1-(2,6-difluorophenyl)-2-[(2-aminophenyl)thio]
+Num confs = 200  elapsed time (s) = 0.09
+----------------------------------
+Title = CD 04503      "2-methoxy-1,3-dinitro-5-(trifluoromethyl)benzen
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 04573      "1-{[(6-methyl-2-pyridyl)amino]methyl}pyrrolidin
+Num confs = 23  elapsed time (s) = 0.02
+----------------------------------
+Title = CD 04652      "[4-(2,6-difluorobenzoyl)piperazino](2,6-difluor
+Num confs = 34  elapsed time (s) = 0.14
+----------------------------------
+Title = CD 04828      "N1-(2-fluorophenyl)-2,2-dichloroacetamide"
+Num confs = 16  elapsed time (s) = 0.17
+----------------------------------
+Title = CD 05034      "4-cyanophenyl 2,5-dimethoxybenzene-1-sulfonate"
+Num confs = 100  elapsed time (s) = 0.05
+----------------------------------
+Title = CD 05285      "N4-[2-(diethylamino)ethyl]-3-(2,6-dichloropheny
+Num confs = 200  elapsed time (s) = 0.27
+----------------------------------
+Title = CD 05439      N1-(2-{[3-(trifluoromethyl)benzyl]thio}phenyl)-2
+Num confs = 200  elapsed time (s) = 0.13
+----------------------------------
+Title = CD 05508      "N1-(2-chloro-6-fluorobenzyl)-2,5-dimethoxybenze
+Num confs = 200  elapsed time (s) = 0.18
+----------------------------------
+Title = CD 05669      2-chloro-6-tetrahydro-1H-pyrrol-1-ylbenzonitrile
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 06185      "1,3-dichloro-2-(prop-2-ynyloxy)benzene"
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 06290      "1-(3,5-dichlorophenyl)-1H-pyrrole"
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 06514      "N1-(2-aminophenyl)-2,3,4,5,6-pentamethylbenzene
+Num confs = 29  elapsed time (s) = 0.03
+----------------------------------
+Title = CD 06700      "N-[imino(2-thienyl)methyl]-3,5-bis(trifluoromet
+Num confs = 55  elapsed time (s) = 0.37
+----------------------------------
+Title = CD 06876      "2-acetylphenyl 3-(2,6-dichlorophenyl)-5-methyli
+Num confs = 192  elapsed time (s) = 0.15
+----------------------------------
+Title = CD 07402      "2,4-dichlorophenyl 2,6-dichlorobenzoate"
+Num confs = 16  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 07550      "N,N-di(2-chloro-6-fluorobenzyl)hydroxylamine"
+Num confs = 50  elapsed time (s) = 0.05
+----------------------------------
+Title = CD 07694      "2-iodo-1,3,5-trimethylbenzene"
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = CD 07894      "N1-(2,6-dibromo-4-methylphenyl)-2,2,2-trichloro
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 08003      "2-(2,4-dinitrophenoxy)ethan-1-ol"
+Num confs = 13  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 08091      "3,4-dichlorophenyl3-(2,6-dichlorophenyl)-5-meth
+Num confs = 107  elapsed time (s) = 0.10
+----------------------------------
+Title = CD 08226      "2,5-diiodothiophene"
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = CD 08357      "5-bromo-4-(tert-butyl)-1,3-thiazol-2-amine hydr
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'CD 08357      "5-bromo-4-(tert-butyl)-1,3-thiazol-2-amine hydr'
+Warning: CD 08357      "5-bromo-4-(tert-butyl)-1,3-thiazol-2-amine hydr failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = CD 08535      "2,2,2-trifluoroethyl3-(2,6-dichlorophenyl)-5-me
+Num confs = 49  elapsed time (s) = 0.05
+----------------------------------
+Title = CD 08646      N1-(3-chloro-4-fluorophenyl)-2-cyano-3-(dimethyl
+Num confs = 38  elapsed time (s) = 0.29
+----------------------------------
+Title = CD 08705      [3-(2-chloro-6-fluorophenyl)-5-methylisoxazol-4-
+Num confs = 49  elapsed time (s) = 0.02
+----------------------------------
+Title = CD 08776      phenyl 3-(2-chloro-6-fluorophenyl)-5-methylisoxa
+Num confs = 96  elapsed time (s) = 0.10
+----------------------------------
+Title = CD 09130      "1,2,3-tri(methylthio)-5-(trifluoromethyl)benzen
+Num confs = 8  elapsed time (s) = 0.02
+----------------------------------
+Title = CD 09292      3-methyl-4-phenyl-1H-pyrazole
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 09519      "N-methyl-N-(4-oxo-3,4-dihydroquinazolin-3-yl)-N
+Num confs = 18  elapsed time (s) = 0.31
+----------------------------------
+Title = CD 09637      "1,3,5-trimethyl-4-nitro-1H-pyrazole"
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 09766      1-(5-methyl-1-phenyl-1H-pyrazol-4-yl)ethan-1-one
+Num confs = 7  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 09895      "N3-(1,3,5-trimethyl-1H-pyrazol-4-yl)-2,5-dichlo
+Num confs = 66  elapsed time (s) = 0.02
+----------------------------------
+Title = CD 09963      "2-chloro-6-[(2,2-dimethoxyethyl)amino]benzonitr
+Num confs = 48  elapsed time (s) = 0.07
+----------------------------------
+Title = CD 10028      methylN-cyano-4-(5-nitropyridin-2-yl)tetrahydrop
+Warning: CD 10028      methylN-cyano-4-(5-nitropyridin-2-yl)tetrahydrop failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = CD 10174      "2-methyl-5-oxocyclopent-1-enyl2,4-dichloro-5-me
+Num confs = 42  elapsed time (s) = 0.14
+----------------------------------
+Title = CD 10348      N-{[1-(3-chloro-2-cyanophenyl)-4-piperidyl]carbo
+Num confs = 144  elapsed time (s) = 0.12
+----------------------------------
+Title = CD 10636      "4-[1-(2,4-dichlorophenyl)-5-methyl-1H-1,2,3-tri
+Num confs = 19  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 10758      "N1-(2,4-difluorobenzyl)-3-(trifluoromethyl)benz
+Num confs = 187  elapsed time (s) = 0.04
+----------------------------------
+Title = CD 11020      "1,3-dimethyl-4-[2-(4-methylphenyl)diaz-1-enyl]-
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 11239      "1-(3-methyl-4H-1,4-benzothiazin-2-yl)ethan-1-on
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 11257      "N3-ethyl-2,5-dichlorothiophene-3-sulfonamide"
+Num confs = 15  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 11332      "5-(3,4-dichlorophenyl)cyclohexane-1,3-dione"
+Num confs = 11  elapsed time (s) = 0.02
+----------------------------------
+Title = CD 11479      3-chloro-5-[4-(trifluoromethyl)phenyl]cyclohex-2
+Num confs = 5  elapsed time (s) = 0.14
+----------------------------------
+Title = CD 11633      "2-acetyl-5-(4-chlorophenyl)cyclohexane-1,3-dion
+Num confs = 19  elapsed time (s) = 0.24
+----------------------------------
+Title = CD 11756      "1-[5-(3,4-dichlorophenyl)-2-furyl]ethan-1-one"
+Num confs = 24  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 11875      "2-(2,6-dimethoxyphenyl)-1,1-dimethoxypropan-2-o
+Num confs = 5  elapsed time (s) = 0.11
+----------------------------------
+Title = CD 11928      "4-[2-(4-chlorophenyl)diaz-1-enyl]-1,3-dimethyl-
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = DFP 00020     n/a
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = DFP 00097     N1-(4-isopropylphenyl)-2-[1-(2-furyl)ethylidene]
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'DFP 00097     N1-(4-isopropylphenyl)-2-[1-(2-furyl)ethylidene]'
+Warning: DFP 00097     N1-(4-isopropylphenyl)-2-[1-(2-furyl)ethylidene] failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = DP 00067      "N`1-(3,4-dimethoxybenzylidene)-2-cyanoethanohyd
+Num confs = 200  elapsed time (s) = 0.41
+----------------------------------
+Title = DP 00164      "N1-(2,4-dimethylphenyl)-2-cyanoacetamide"
+Num confs = 7  elapsed time (s) = 0.01
+----------------------------------
+Title = DP 00450      N1-(3-methylphenyl)benzamide
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = DP 00470      "N1-(2,4-dimethylphenyl)-2-cyano-3-oxo-3-tetrahy
+Num confs = 36  elapsed time (s) = 0.03
+----------------------------------
+Title = DP 00594      "4-(3,4-dimethylphenyl)-2-phenyl-1,2-dihydrophth
+Num confs = 6  elapsed time (s) = 0.02
+----------------------------------
+Title = DP 00652      "9-methyl-2,3,4,5,6,7,8,9-octahydro-1H-carbazole
+Num confs = 1  elapsed time (s) = 0.26
+----------------------------------
+Title = DP 00717      N1-(4-bromophenyl)-2-(benzoylamino)benzamide
+Num confs = 25  elapsed time (s) = 0.04
+----------------------------------
+Title = DP 00789      "2-amino-5,6,7,8-tetrahydro-4H-cyclohepta[b]thio
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = DP 00879      "3-(4-methoxyphenyl)-4-(4-methylphenyl)-2,3-dihy
+Num confs = 4  elapsed time (s) = 0.04
+----------------------------------
+Title = DP 00932      1-{[(aminocarbohydrazonoyl)thio]methyl}-4-methyl
+Num confs = 32  elapsed time (s) = 0.07
+----------------------------------
+Title = DP 00962      "2,5-di(3,4-dimethoxybenzylidene)cyclopentan-1-o
+Num confs = 200  elapsed time (s) = 0.31
+----------------------------------
+Title = DP 01004      2-isopropyl-1H-benzo[d]imidazole
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = DP 01045      "3,5-di(2-chlorobenzylidene)-1-methylpiperidin-4
+Num confs = 9  elapsed time (s) = 0.13
+----------------------------------
+Title = DP 01054      "2-(benzylthio)-1,4,5,6-tetrahydropyrimidin-3-iu
+Num confs = 32  elapsed time (s) = 0.06
+----------------------------------
+Title = DP 01103      "2-[(2,3,4,5,6-pentamethylbenzyl)thio]-3H-benzo[
+Num confs = 13  elapsed time (s) = 0.02
+----------------------------------
+Title = DP 01139      N`1-(1-naphthylmethylidene)-2-aminobenzene-1-car
+Num confs = 131  elapsed time (s) = 0.04
+----------------------------------
+Title = DP 01217      2-(methylthio)-1H-benzo[d]imidazole hydroiodide
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = DP 01273      N1-(4-methoxybenzyl)-2-(1H-benzo[d]imidazol-2-yl
+Num confs = 111  elapsed time (s) = 0.14
+----------------------------------
+Title = DP 01304      "3-ethyl-6-[(4-methylbenzyl)thio]-1,2,3,4-tetrah
+Num confs = 132  elapsed time (s) = 0.07
+----------------------------------
+Title = DP 01335      "6-[(4-bromobenzyl)thio]-3-ethyl-1,2,3,4-tetrahy
+Num confs = 137  elapsed time (s) = 0.06
+----------------------------------
+Title = DP 01366      "3-(4-chlorophenyl)-6,7-dihydro-5H-pyrimido[2,1-
+Warning: Can't assign MMFF type to atom number     9   C
+Warning: Can't assign MMFF type to atom number    21   H
+Warning: force field setup failed due to missing parameters for molecule DP 01366      "3-(4-chlorophenyl)-6,7-dihydro-5H-pyrimido[2,1-
+
+----------------------------------
+Title = DP 01444      "1-cyclohexyl-2-[(2,6-dichlorobenzyl)thio]-1,4,5
+Num confs = 36  elapsed time (s) = 0.12
+----------------------------------
+Title = DP 01506      "2,6-di(4-chlorophenyl)-4-(3,4,5-trimethoxypheny
+Num confs = 200  elapsed time (s) = 5.52
+----------------------------------
+Title = DP 01558      "3-benzyl-6-(methylthio)-1,2,3,4-tetrahydro-1,3,
+Num confs = 34  elapsed time (s) = 0.03
+----------------------------------
+Title = DP 01620      "5-dodecyl-1,3,5-triazinane-2-thione"
+Num confs = 200  elapsed time (s) = 1.29
+----------------------------------
+Title = DP 01663      "3-(2-chlorobenzyl)-5-methyl-2,3-dihydro-1,3,4-t
+Num confs = 23  elapsed time (s) = 0.01
+----------------------------------
+Title = DP 01686      N1-(4-chlorophenyl)-2-(4-benzyl-3-oxo-2-piperazi
+Num confs = 200  elapsed time (s) = 0.19
+----------------------------------
+Title = DP 01774      "3-phenylimidazo[1,5-a]pyridine"
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = DP 01852      "3-phenyl-2-thioxo-2,3,4,5-tetrahydro-1H-1,3,4-b
+Num confs = 2  elapsed time (s) = 0.57
+----------------------------------
+Title = DP 01921      "2-[(2-chloro-4-nitrophenyl)thio]-4,5-dihydro-1H
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'DP 01921      "2-[(2-chloro-4-nitrophenyl)thio]-4,5-dihydro-1H'
+Warning: DP 01921      "2-[(2-chloro-4-nitrophenyl)thio]-4,5-dihydro-1H failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = DP 01990      "N`-isonicotinoyl-2,4-dimethylbenzohydrazide hyd
+Num confs = 21  elapsed time (s) = 0.02
+----------------------------------
+Title = DP 02035      "1-[(4-chlorophenyl)sulfonyl]-3,5-di(trifluorome
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = DSHS 00083    "1-(2,3-dihydro-1,4-benzodioxin-6-yl)-3-morpholi
+Num confs = 95  elapsed time (s) = 0.42
+----------------------------------
+Title = DSHS 00193    "N4-{4-[(1,3-thiazol-2-ylamino)sulfonyl]phenyl}-
+Num confs = 200  elapsed time (s) = 0.29
+----------------------------------
+Title = DSHS 00342    "1-{[3-(2-chlorophenyl)-5-methylisoxazol-4-yl]ca
+Num confs = 66  elapsed time (s) = 1.07
+----------------------------------
+Title = DSHS 00428    N1-(4-methylidene-3-thia-1-azaspiro[4.5]dec-2-yl
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'DSHS 00428    N1-(4-methylidene-3-thia-1-azaspiro[4.5]dec-2-yl'
+Warning: DSHS 00428    N1-(4-methylidene-3-thia-1-azaspiro[4.5]dec-2-yl failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = DSHS 00502    "4-[(1,3-benzodioxol-5-ylmethylidene)amino]benzo
+Num confs = 69  elapsed time (s) = 0.12
+----------------------------------
+Title = DSHS 00561    "2-(benzylamino)-2-(3,4-dichlorophenyl)acetonitr
+Num confs = 121  elapsed time (s) = 0.12
+----------------------------------
+Title = DSHS 00663    "2-(2-chlorophenyl)-1,2,3,4-tetrahydroquinazolin
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = DSHS 00724    "N1-(3,4,5-trimethoxybenzylidene)-4-fluoroanilin
+Num confs = 143  elapsed time (s) = 0.33
+----------------------------------
+Title = DSHS 00876    "5-{[(2-nitrophenyl)thio]methyl}-4-[3-(trifluoro
+Num confs = 200  elapsed time (s) = 0.14
+----------------------------------
+Title = DSHS 01050    "9b-phenyl-2,3,5,9b-tetrahydro-1H-imidazo[2,1-a]
+Num confs = 1  elapsed time (s) = 0.30
+----------------------------------
+Title = DSHS 01086    "4-(3,4-difluorophenyl)-4-azatricyclo[5.2.1.0~2,
+Num confs = 4  elapsed time (s) = 0.02
+----------------------------------
+Title = DSHS 01215    N-(3-methylphenyl)-N`-(4-pyridylmethyl)thiourea
+Num confs = 101  elapsed time (s) = 0.04
+----------------------------------
+Title = DSHS 01225    N-(2-chlorophenyl)-N`-(3-pyridylmethyl)thiourea
+Num confs = 98  elapsed time (s) = 0.04
+----------------------------------
+Title = DSHS 01236    ethyl 4-[(morpholinocarbothioyl)amino]benzoate
+Num confs = 200  elapsed time (s) = 0.31
+----------------------------------
+Title = DSHS 01254    "N4-(1,3-benzodioxol-5-yl)-3-(2-chlorophenyl)-5-
+Num confs = 61  elapsed time (s) = 0.03
+----------------------------------
+Title = DSHS 01275    "N1-(5-chloro-2-methylphenyl)-2-(1,3-benzodioxol
+Num confs = 200  elapsed time (s) = 0.40
+----------------------------------
+Title = EN 00023      "methyl N-(2,6-dichlorobenzoyl)-(methylthio)meth
+Num confs = 34  elapsed time (s) = 0.39
+----------------------------------
+Title = EN 00099      "1-(4-chlorophenyl)-3,3-di(methylthio)prop-2-en-
+Num confs = 120  elapsed time (s) = 0.14
+----------------------------------
+Title = FM 00023      n/a
+Num confs = 10  elapsed time (s) = 0.25
+----------------------------------
+Title = FM 00152      "5-isobutylimidazolidine-2,4-dione"
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = FM 00219      "N1-(2,5-dioxo-4a,5,7,7a-tetrahydro-2H-furo[3,4-
+Num confs = 8  elapsed time (s) = 0.10
+----------------------------------
+Title = FM 00302      "ethyl2-{2-[3,4-dihydronaphthalen-1(2H)-ylidene]
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'FM 00302      "ethyl2-{2-[3,4-dihydronaphthalen-1(2H)-ylidene]'
+Warning: FM 00302      "ethyl2-{2-[3,4-dihydronaphthalen-1(2H)-ylidene] failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = GK 00116      ethyl 2-amino-4-methylthiophene-3-carboxylate
+Num confs = 20  elapsed time (s) = 0.01
+----------------------------------
+Title = GK 00357      "1,4-dihydrothieno[3,2-d]pyrimidin-4-one"
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = GK 00567      ethyl2-[(3-ethoxy-3-oxopropanoyl)amino]-4-methyl
+Num confs = 200  elapsed time (s) = 0.39
+----------------------------------
+Title = GK 01237      "6-(4-chlorophenyl)pyrimidine-2,4-diamine"
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = GK 01493      1-phenyl-5-(trifluoromethyl)-1H-pyrazole-4-carbo
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = GK 01655      "methyl 2-[(7-methylthieno[3,2-d]pyrimidin-4-yl)
+Num confs = 93  elapsed time (s) = 0.02
+----------------------------------
+Title = GK 01892      "5-(3,4-dihydro-2H-chromen-2-yl)-3-[3,5-di(trifl
+Num confs = 20  elapsed time (s) = 0.03
+----------------------------------
+Title = GK 02092      1-(4-chlorophenyl)-5-(trifluoromethyl)-1H-pyrazo
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = GK 02395      methyl 3-[(cyclopropylcarbonyl)amino]thiophene-2
+Num confs = 19  elapsed time (s) = 0.03
+----------------------------------
+Title = GK 02419      ethyl 1-(4-aminophenyl)-5-(trifluoromethyl)-1H-p
+Num confs = 22  elapsed time (s) = 0.05
+----------------------------------
+Title = GK 02784      methyl 2-aminothiophene-3-carboxylate
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = GK 02978      "5-(4-nitrophenyl)-2H-1,2,3,4-tetraazole"
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = GK 03096      "methyl 4,5-dimethoxy-2-{[(4-methylphenyl)sulfon
+Num confs = 200  elapsed time (s) = 0.22
+----------------------------------
+Title = GK 03120      "methyl 2-{[(3,5-dichloroanilino)carbonyl]amino}
+Num confs = 52  elapsed time (s) = 0.15
+----------------------------------
+Title = GK 03193      "methyl 2-(2,5-dimethyl-1H-pyrrol-1-yl)-4,5-dime
+Num confs = 20  elapsed time (s) = 0.02
+----------------------------------
+Title = GK 03261      ethyl 4-[(aminocarbothioyl)amino]benzoate
+Num confs = 28  elapsed time (s) = 0.04
+----------------------------------
+Title = GK 03318      4-{[(4-chlorophenyl)sulfonyl]amino}-N-(5-methyli
+Num confs = 200  elapsed time (s) = 0.17
+----------------------------------
+Title = GK 03353      3-chloro-N-(1-methyl-1H-pyrazol-5-yl)benzenesulf
+Num confs = 37  elapsed time (s) = 0.01
+----------------------------------
+Title = GK 03365      "4-chloro-2,5-dimethyl-N-(4-{[(5-methylisoxazol-
+Num confs = 200  elapsed time (s) = 0.09
+----------------------------------
+Title = GK 03377      4-(tert-butyl)-N-(1-methyl-1H-pyrazol-5-yl)benze
+Num confs = 40  elapsed time (s) = 0.04
+----------------------------------
+Title = GK 03408      3-amino-5-[4-(tert-butyl)phenyl]thiophene-2-carb
+Num confs = 16  elapsed time (s) = 0.02
+----------------------------------
+Title = GK 03428      N-(4-{[(5-methylisoxazol-3-yl)amino]sulfonyl}phe
+Num confs = 128  elapsed time (s) = 0.11
+----------------------------------
+Title = GK 03499      "N-(3-chlorophenyl)-6,7-dimethoxyquinazolin-4-am
+Num confs = 86  elapsed time (s) = 0.03
+----------------------------------
+Title = GK 03582      "N`-({[1-methyl-5-(1H-pyrrol-1-yl)-1H-pyrazol-4-
+Num confs = 128  elapsed time (s) = 0.87
+----------------------------------
+Title = GK 03628      6-amino-2-{[4-(tert-butyl)benzyl]thio}pyrimidin-
+Num confs = 118  elapsed time (s) = 0.07
+----------------------------------
+Title = GK 03756      "methyl5-{4-[(4-methylphenyl)sulfonyl]piperazino
+Num confs = 200  elapsed time (s) = 0.66
+----------------------------------
+Title = GK 03790      "4-[(4-chlorophenyl)thio]thieno[3,2-d]pyrimidine
+Num confs = 12  elapsed time (s) = 0.01
+----------------------------------
+Title = HAN 00207     1-phenoxy-3-{[2-(2-thienyl)ethyl]amino}propan-2-
+Num confs = 200  elapsed time (s) = 0.32
+----------------------------------
+Title = HAN 00418     methyl 2-({[4-(trifluoromethyl)pyrimidin-2-yl]th
+Num confs = 200  elapsed time (s) = 0.13
+----------------------------------
+Title = HC 00065      "methyl5-fluoro-4-oxo-1-[4-(trifluoromethyl)benz
+Num confs = 49  elapsed time (s) = 0.02
+----------------------------------
+Title = HR 00070      N-bicyclo[2.2.1]hept-5-en-2-yl-N`-(3-methylpheny
+Num confs = 24  elapsed time (s) = 0.02
+----------------------------------
+Title = HR 00134      "6-chloro-3-(3,4-dimethoxyphenyl)-2-methyl-4-phe
+Num confs = 6  elapsed time (s) = 0.03
+----------------------------------
+Title = HTS 00035     "methyl 2-[2-(benzoylamino)-5-methyl-1,3-thiazol
+Num confs = 69  elapsed time (s) = 0.03
+----------------------------------
+Title = HTS 00075     "5-[4-(5-chloro-2-thienyl)-1,3-thiazol-2-yl]isox
+Num confs = 24  elapsed time (s) = 0.01
+----------------------------------
+Title = HTS 00189     "N-hexahydro[1,3]thiazolo[3,4-a]pyridin-3-yliden
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'HTS 00189     "N-hexahydro[1,3]thiazolo[3,4-a]pyridin-3-yliden'
+Warning: HTS 00189     "N-hexahydro[1,3]thiazolo[3,4-a]pyridin-3-yliden failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = HTS 00617     "ethyl6-(2-chloro-3,4-dimethoxyphenyl)-2-oxo-4-(
+Num confs = 200  elapsed time (s) = 0.91
+----------------------------------
+Title = HTS 00735     "2-{[4-(4-chlorophenyl)-4-hydroxypiperidino]meth
+Num confs = 24  elapsed time (s) = 0.06
+----------------------------------
+Title = HTS 00810     1-(phenylthio)-3-{4-[5-(trifluoromethyl)pyridin-
+Num confs = 200  elapsed time (s) = 0.46
+----------------------------------
+Title = HTS 01073     methyl5-{[4-(aminocarbonyl)piperidino]sulfonyl}-
+Num confs = 128  elapsed time (s) = 0.10
+----------------------------------
+Title = HTS 01220     "N-(2,4-difluorophenyl)-N`-({3-[4-(trifluorometh
+Num confs = 200  elapsed time (s) = 0.23
+----------------------------------
+Title = HTS 01753     methyl 5-[(benzylamino)sulfonyl]-1-methyl-1H-pyr
+Num confs = 190  elapsed time (s) = 0.16
+----------------------------------
+Title = HTS 02379     "N-{3-[5-(benzylsulfanyl)-2H-1,2,3,4-tetraazol-2
+Num confs = 200  elapsed time (s) = 0.13
+----------------------------------
+Title = HTS 03172     N-(3-chloro-4-morpholinophenyl)-4-[(4-chlorophen
+Num confs = 194  elapsed time (s) = 0.23
+----------------------------------
+Title = HTS 03870     "N-(1,3-benzodioxol-5-ylmethyl)-3-chloro-4-fluor
+Num confs = 197  elapsed time (s) = 0.03
+----------------------------------
+Title = HTS 04532     N-[4-(diethylamino)phenyl]-1-phenyl-5-propyl-1H-
+Num confs = 200  elapsed time (s) = 0.77
+----------------------------------
+Title = HTS 04975     3-({[4-(trifluoromethoxy)anilino]carbonyl}amino)
+Num confs = 79  elapsed time (s) = 0.72
+----------------------------------
+Title = HTS 05554     "6,7-dimethoxy-2-(2-thienyl)-4H-3,1-benzoxazin-4
+Num confs = 12  elapsed time (s) = 0.01
+----------------------------------
+Title = HTS 05574     "5-methyl-2-phenyl-4H-3,1-benzoxazin-4-one"
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = HTS 08869     methyl3-({2-[3-oxo-1-(2-thienylcarbonyl)-2-piper
+Num confs = 200  elapsed time (s) = 0.36
+----------------------------------
+Title = HTS 09465     "(2-anilino-4-phenyl-1,3-thiazol-5-yl)(4-methoxy
+Num confs = 145  elapsed time (s) = 0.18
+----------------------------------
+Title = HTS 11107     "4-(2,5-dimethyl-1H-pyrrol-1-yl)-N`-(6-quinoxali
+Num confs = 34  elapsed time (s) = 0.04
+----------------------------------
+Title = JA 00111      "2-(2,3-dichloro-4-hydroxyiminocyclohexa-2,5-die
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'JA 00111      "2-(2,3-dichloro-4-hydroxyiminocyclohexa-2,5-die'
+Warning: JA 00111      "2-(2,3-dichloro-4-hydroxyiminocyclohexa-2,5-die failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = JFD 00281     "5,5-di(ethylthio)pentane-1,2,3,4-tetraol"
+Num confs = 200  elapsed time (s) = 0.34
+----------------------------------
+Title = JFD 00295     "N-[3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro
+Num confs = 28  elapsed time (s) = 0.12
+----------------------------------
+Title = JFD 00823     "2,6-diiodoterephthalonitrile hydrate"
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = JFD 01356     1-(4-fluorobenzyl)-4-(2-methoxyphenyl)piperazine
+Num confs = 128  elapsed time (s) = 0.14
+----------------------------------
+Title = JFD 01498     "5-chloro-1,3-benzoxazole"
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = JFD 01619     "4-{[(2,4-dichlorobenzoyl)oxy]imino}-9-methyl-2,
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'JFD 01619     "4-{[(2,4-dichlorobenzoyl)oxy]imino}-9-methyl-2,'
+Warning: JFD 01619     "4-{[(2,4-dichlorobenzoyl)oxy]imino}-9-methyl-2, failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = JFD 01728     [4-(2-methoxyphenyl)piperazino](2-thienyl)methan
+Num confs = 154  elapsed time (s) = 0.26
+----------------------------------
+Title = JFD 01780     N1-[2-(diethylamino)ethyl]-4-aminobenzamide
+Num confs = 111  elapsed time (s) = 0.12
+----------------------------------
+Title = JFD 02096     n/a
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = JFD 02401     "2-nitro-2-phenylindane-1,3-dione"
+Num confs = 3  elapsed time (s) = 0.03
+----------------------------------
+Title = JFD 02539     N-{1-[(4-chlorophenyl)sulfonyl]piperidin-4-yl}-2
+Num confs = 200  elapsed time (s) = 0.28
+----------------------------------
+Title = JFD 02716     "5-({[(2-bromobenzoyl)oxy]imino}methyl)-1,3-benz
+Num confs = 108  elapsed time (s) = 0.09
+----------------------------------
+Title = JFD 02796     tert-butyl 4-benzylpiperazine-1-carboxylate
+Num confs = 64  elapsed time (s) = 0.13
+----------------------------------
+Title = JFD 02937     N1-{4-[(2-pyrimidinylamino)sulfonyl]phenyl}aceta
+Num confs = 30  elapsed time (s) = 0.02
+----------------------------------
+Title = JFD 03130     "5-({2-[(5-mercapto-1,3,4-thiadiazol-2-yl)thio]e
+Num confs = 200  elapsed time (s) = 0.09
+----------------------------------
+Title = JFD 03350     tert-butyl N-[1-(aminocarbonyl)-2-(benzyloxy)pro
+Num confs = 200  elapsed time (s) = 0.28
+----------------------------------
+Title = JFD 03643     "2,3,6-trimethylnaphthalene"
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = JFD 03710     2-amino-2-phenylacetic acid
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = JFD 03924     "5-(4-fluorophenyl)-2,3,5,6-tetrahydroimidazo[2,
+Num confs = 3  elapsed time (s) = 0.40
+----------------------------------
+Title = JFD 03959     "[1,1`-biphenyl]-2-ylmethanol"
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = JM 00001      "3-(methylthio)-1-phenyl-1H-1,2,4-triazol-5-amin
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = JM 00213      3-hydroxy-1-methyl-1H-pyrazole-5-carbohydrazide
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = JM 00334      "4-[(4-chlorobenzyl)thio]-1,3,5-triazin-2-amine"
+Num confs = 50  elapsed time (s) = 0.02
+----------------------------------
+Title = JP 00352      9-(4-chlorobenzylidene)-9H-fluorene
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = JP 00492      "1-chloro-5-nitro-2,4-di(phenylsulfanyl)benzene"
+Num confs = 92  elapsed time (s) = 0.08
+----------------------------------
+Title = JP 00576      ethyl 3-[(5-chloro-2-hydroxybenzylidene)amino]-4
+Num confs = 200  elapsed time (s) = 0.61
+----------------------------------
+Title = JP 00671      1-[3-nitro-4-(2-pyridylthio)phenyl]ethan-1-one
+Num confs = 98  elapsed time (s) = 0.04
+----------------------------------
+Title = JP 00914      "N-(2-cyanoethyl)-N`-[3,5-di(trifluoromethyl)phe
+Num confs = 200  elapsed time (s) = 0.61
+----------------------------------
+Title = JPV 00053     N`1-(2-thienylmethylidene)-2-(hydroxymethyl)benz
+Num confs = 149  elapsed time (s) = 0.11
+----------------------------------
+Title = KM 00021      "N-(1,3-dimethyl-1H-pyrazol-5-yl)-N`-[3-(trifluo
+Num confs = 6  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 00062      4-{2-[(4-chlorophenyl)sulfonyl]ethyl}morpholine
+Num confs = 43  elapsed time (s) = 0.03
+----------------------------------
+Title = KM 00141      "2,2,2-trichloro-N-(3-methyl-1-phenyl-1H-pyrazol
+Num confs = 10  elapsed time (s) = 0.03
+----------------------------------
+Title = KM 00241      N1-ethyl-N1-{2-[(4-methylphenyl)sulfonyl]ethyl}b
+Num confs = 200  elapsed time (s) = 0.31
+----------------------------------
+Title = KM 00359      N1-(3-phenyl-1H-pyrazol-5-yl)benzamide
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 00420      2-[(2-chloro-6-fluorobenzyl)amino]-3-[(2-thienyl
+Num confs = 200  elapsed time (s) = 0.41
+----------------------------------
+Title = KM 00447      "ethyl 4,7-dimethylpyrazolo[5,1-c][1,2,4]triazin
+Num confs = 13  elapsed time (s) = 0.03
+----------------------------------
+Title = KM 00501      "3-[2-(2-fluorophenyl)hydrazono]-1-methyl-1,2,3,
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'KM 00501      "3-[2-(2-fluorophenyl)hydrazono]-1-methyl-1,2,3,'
+Warning: KM 00501      "3-[2-(2-fluorophenyl)hydrazono]-1-methyl-1,2,3, failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 00650      "5-methyl-7-oxo-4,7-dihydropyrazolo[1,5-a]pyrimi
+Num confs = 1  elapsed time (s) = 0.12
+----------------------------------
+Title = KM 00736      "2-(tert-butyl)-5-(methoxymethyl)-4,7-dihydropyr
+Num confs = 11  elapsed time (s) = 0.16
+----------------------------------
+Title = KM 00885      1-methyl-5-(methylthio)-3-(2-thienyl)-1H-pyrazol
+Num confs = 18  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 01114      "3-[(dimethylamino)methylidene]-1-methyl-1,2,3,4
+Num confs = 2  elapsed time (s) = 0.03
+----------------------------------
+Title = KM 01166      1-[(4-chlorophenyl)sulfonyl]acetone
+Num confs = 10  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 01280      2-(2-thienylsulfonyl)acetonitrile
+Num confs = 10  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 01381      "N`2-(2,6-dichlorobenzylidene)-4-[(4-chloropheny
+Num confs = 200  elapsed time (s) = 0.40
+----------------------------------
+Title = KM 01434      3-[(4-chlorophenyl)sulfonyl]-4-(pyrimidin-2-ylam
+Num confs = 84  elapsed time (s) = 0.21
+----------------------------------
+Title = KM 01494      "ethyl 2,7-dimethylpyrazolo[1,5-a]pyrimidine-6-c
+Num confs = 16  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 01620      4-methoxythiophene-3-carboxamide
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 01751      2-hydroxyimino-2-[(4-methylphenyl)sulfonyl]aceto
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'KM 01751      2-hydroxyimino-2-[(4-methylphenyl)sulfonyl]aceto'
+Warning: KM 01751      2-hydroxyimino-2-[(4-methylphenyl)sulfonyl]aceto failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 01823      methyl2-({[2-(ethylthio)-3-pyridyl]carbonyl}amin
+Num confs = 200  elapsed time (s) = 0.26
+----------------------------------
+Title = KM 01880      2-(tert-butylsulfonyl)-3-piperidinoacrylonitrile
+Num confs = 2  elapsed time (s) = 0.22
+----------------------------------
+Title = KM 01966      "methyl 4-(4-chloroanilino)-2,5-dihydrothiophene
+Num confs = 44  elapsed time (s) = 0.05
+----------------------------------
+Title = KM 02039      "2-(tert-butyl)-6-[(4-chlorophenyl)sulfonyl]-7-m
+Num confs = 3  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 02190      3-cyclopropyl-3-oxo-2-{2-[4-(trifluoromethyl)phe
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'KM 02190      3-cyclopropyl-3-oxo-2-{2-[4-(trifluoromethyl)phe'
+Warning: KM 02190      3-cyclopropyl-3-oxo-2-{2-[4-(trifluoromethyl)phe failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 02307      "2-[4-(tert-butyl)phenyl]-5-methyl-7-(trifluorom
+Num confs = 3  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 02470      methyl 3-(4-chlorophenyl)-4-cyano-5-(ethylthio)t
+Num confs = 55  elapsed time (s) = 0.09
+----------------------------------
+Title = KM 02589      methyl3-[2-(1-cyano-2-oxo-2-phenylethylidene)hyd
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'KM 02589      methyl3-[2-(1-cyano-2-oxo-2-phenylethylidene)hyd'
+Warning: KM 02589      methyl3-[2-(1-cyano-2-oxo-2-phenylethylidene)hyd failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 02613      n/a
+Num confs = 16  elapsed time (s) = 0.03
+----------------------------------
+Title = KM 02686      n/a
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 02750      3-[(4-chlorophenyl)sulfonyl]-4-methylthiophene
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 02856      3-chloro-4-(isopropylsulfonyl)thiophene-2-carbox
+Num confs = 30  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 03010      1-[(4-chlorophenyl)thio]-2-nitro-4-(trifluoromet
+Num confs = 7  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 03231      3-(5-bromo-2-thienyl)-1H-pyrazole
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 03286      "ethyl3-(isopropylthio)-4-oxo-4,5,6,7-tetrahydro
+Num confs = 136  elapsed time (s) = 0.53
+----------------------------------
+Title = KM 03316      "1-acetyl-3-[(4-chlorobenzyl)thio]-6,6-dimethyl-
+Num confs = 200  elapsed time (s) = 0.21
+----------------------------------
+Title = KM 03378      "4-hydroxy-3-(methylthio)-4,5,6,7-tetrahydrobenz
+Num confs = 3  elapsed time (s) = 0.06
+----------------------------------
+Title = KM 03445      "ethyl4-hydroxy-3-(methylsulfonyl)-4,5,6,7-tetra
+Num confs = 90  elapsed time (s) = 0.23
+----------------------------------
+Title = KM 03517      "ethyl5-(4-chlorobenzoyl)-3,4-dimethylthieno[2,3
+Num confs = 160  elapsed time (s) = 0.38
+----------------------------------
+Title = KM 03564      3-methyl-5-(methylthio)-4-vinylthiophene-2-carbo
+Num confs = 17  elapsed time (s) = 0.03
+----------------------------------
+Title = KM 03715      (5-{2-[(4-chlorophenyl)sulfonyl]-2-cyanovinyl}-2
+Num confs = 200  elapsed time (s) = 0.20
+----------------------------------
+Title = KM 03791      "1-bromo-6,6-dimethyl-3-(methylsulfonyl)-4,5,6,7
+Num confs = 8  elapsed time (s) = 0.03
+----------------------------------
+Title = KM 03875      2-[(4-chlorophenyl)sulfonyl]-3-[{2-[(4-chlorophe
+Num confs = 200  elapsed time (s) = 0.33
+----------------------------------
+Title = KM 04031      N`2-(4-chlorobenzylidene)-5-(2-pyridyl)thiophene
+Num confs = 200  elapsed time (s) = 0.24
+----------------------------------
+Title = KM 04192      2-(phenylthio)ethanethioamide
+Num confs = 20  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 04428      "4-methyl-5-[(phenylthio)methyl]-4H-1,2,4-triazo
+Num confs = 35  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 04636      "5-[(4-bromo-3,5-dimethyl-1H-pyrazol-1-yl)methyl
+Num confs = 19  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 04847      methyl 4-[(4-chlorophenyl)thio]thiophene-3-carbo
+Num confs = 66  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 05028      "methyl1-methyl-2,2,4-trioxo-1,2,3,4-tetrahydro-
+Num confs = 9  elapsed time (s) = 0.04
+----------------------------------
+Title = KM 05178      "3-(2,3-dihydro-1,4-benzodioxin-6-ylamino)-2-{[5
+Num confs = 200  elapsed time (s) = 0.32
+----------------------------------
+Title = KM 05362      2-(methylthio)-4-phenyl-5-(1H-pyrazol-3-yl)thiop
+Num confs = 20  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 05483      ethyl 4-[(3-nitro-2-thienyl)oxy]benzoate
+Num confs = 138  elapsed time (s) = 0.20
+----------------------------------
+Title = KM 05717      4-(4-chlorophenyl)pyrimidine-2-thiol
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 06333      "ethyl2-{[2-(2,4-dichlorophenyl)-2-oxoethyl]thio
+Num confs = 200  elapsed time (s) = 0.20
+----------------------------------
+Title = KM 06379      3-[(4-chlorophenyl)thio]pyrazine-2-carbonitrile
+Num confs = 13  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 06484      "2,3-dihydro-1,4-benzodioxine-2-carbonitrile"
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 06649      2-[(2-phenoxyethyl)thio]acetic acid
+Num confs = 200  elapsed time (s) = 0.39
+----------------------------------
+Title = KM 06798      "2,1,3-benzoxadiazole-5-carbothioamide"
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 06884      "2-[(7-nitro-2,1,3-benzoxadiazol-4-yl)thio]ethyl
+Num confs = 200  elapsed time (s) = 0.14
+----------------------------------
+Title = KM 07229      "1,2,4-trichloro-5-methoxybenzene"
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 07464      "5,7-dichloro-2-(trifluoromethyl)quinolin-4-ol"
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 07670      "ethylN-{[2,4-dioxo-1-(2-thienylmethyl)-1,2,3,4-
+Num confs = 200  elapsed time (s) = 0.20
+----------------------------------
+Title = KM 07738      n/a
+Num confs = 24  elapsed time (s) = 0.03
+----------------------------------
+Title = KM 07867      "ethyl2-(5-cyano-3-isopropyl-2,6-dioxo-1,2,3,6-t
+Num confs = 112  elapsed time (s) = 0.17
+----------------------------------
+Title = KM 07984      n/a
+Num confs = 21  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 08088      4-(3-hydroxy-3-methylbut-1-ynyl)benzaldehyde oxi
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 08172      2-bromo-5-chloro-3-methylbenzo[b]thiophene
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = KM 08241      N1-phenyl-4-benzhydrylpiperazine-1-carboxamide
+Num confs = 63  elapsed time (s) = 0.20
+----------------------------------
+Title = KM 08328      5-(2-phenyleth-1-ynyl)nicotinic acid
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 08446      3-phenoxythiophene-2-carbaldehyde oxime
+Num confs = 14  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 08614      methyl 5-(2-phenyleth-1-ynyl)-2-furoate
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 08747      ethyl4-hydroxy-2-(methylthio)-8-(trifluoromethyl
+Num confs = 34  elapsed time (s) = 0.08
+----------------------------------
+Title = KM 08842      methyl 2-chloro-4-nitrobenzoate
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 09058      "N1-phenyl-2-{[(5-mercapto-4-methyl-4H-1,2,4-tri
+Num confs = 200  elapsed time (s) = 0.12
+----------------------------------
+Title = KM 09182      "1-(4-chlorophenyl)-2,4-dioxo-3-propyl-1,2,3,4-t
+Num confs = 12  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 09186      N1-acetyl-3-(4-benzylpiperazino)-2-cyanoacrylami
+Num confs = 200  elapsed time (s) = 0.49
+----------------------------------
+Title = KM 09274      3-[(3-amino-3-oxopropyl)thio]propanamide
+Num confs = 200  elapsed time (s) = 0.34
+----------------------------------
+Title = KM 09477      8-chloro-2-(trifluoromethyl)quinolin-4-ol
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 09532      "N1-(3,5-dichlorophenyl)-2-{[5-(1-hexynyl)-2-fur
+Num confs = 200  elapsed time (s) = 0.88
+----------------------------------
+Title = KM 09710      N-(2-cyanoacetyl)-N`-cyclohexyl-N-(2-fluorobenzy
+Num confs = 200  elapsed time (s) = 0.41
+----------------------------------
+Title = KM 09976      3-butoxy-4-methoxybenzoic acid
+Num confs = 200  elapsed time (s) = 0.49
+----------------------------------
+Title = KM 10142      "3-(1-benzylpiperidin-4-yl)-3H-[1,2,3]triazolo[4
+Num confs = 36  elapsed time (s) = 0.04
+----------------------------------
+Title = KM 10247      N-butyl-N`-{2-[(2-furylmethyl)thio]ethyl}urea
+Num confs = 200  elapsed time (s) = 0.32
+----------------------------------
+Title = KM 10261      "N-(3,5-dichlorophenyl)-N`-{2-[(2-furylmethyl)th
+Num confs = 200  elapsed time (s) = 0.18
+----------------------------------
+Title = KM 10290      4-chloro-N-{2-[(2-furylmethyl)thio]ethyl}benzami
+Num confs = 200  elapsed time (s) = 0.14
+----------------------------------
+Title = KM 10319      "2,5-di(2-furyl)-7-(trifluoromethyl)pyrazolo[1,5
+Num confs = 16  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 10340      "3-[6-(tert-butyl)-1,1-dimethyl-2,3-dihydro-1H-i
+Num confs = 14  elapsed time (s) = 0.04
+----------------------------------
+Title = KM 10355      "6-[5-(benzylthio)-4-methyl-4H-1,2,4-triazol-3-y
+Num confs = 157  elapsed time (s) = 0.10
+----------------------------------
+Title = KM 10379      N-{2-[(2-furylmethyl)thio]ethyl}-2-{[4-(4-methox
+Num confs = 200  elapsed time (s) = 0.53
+----------------------------------
+Title = KM 10398      "5-(4-chlorophenyl)-2-cyclopropyl-7-(trifluorome
+Num confs = 8  elapsed time (s) = 0.07
+----------------------------------
+Title = KM 10431      "3-(2-naphthyl)-5-(trifluoromethyl)-4,5-dihydro-
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'KM 10431      "3-(2-naphthyl)-5-(trifluoromethyl)-4,5-dihydro-'
+Warning: KM 10431      "3-(2-naphthyl)-5-(trifluoromethyl)-4,5-dihydro- failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 10456      "2-[(4-methyl-5-quinolin-6-yl-4H-1,2,4-triazol-3
+Num confs = 200  elapsed time (s) = 0.19
+----------------------------------
+Title = KM 10469      "N-(2,3-dihydro-1H-inden-2-yl)-N`-(3-methoxyphen
+Num confs = 36  elapsed time (s) = 0.04
+----------------------------------
+Title = KM 10481      "5-bromo-N-(2,3-dihydro-1H-inden-2-yl)nicotinami
+Num confs = 27  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 10502      "N-{4-[(2,3-dihydro-1H-inden-2-ylamino)sulfonyl]
+Num confs = 35  elapsed time (s) = 0.03
+----------------------------------
+Title = KM 10514      "2-[(2-chloro-6-fluorobenzyl)thio]-N-(2,3-dihydr
+Num confs = 200  elapsed time (s) = 0.24
+----------------------------------
+Title = KM 10554      "N-(2,3-dihydro-1H-inden-2-yl)-2-[(1-phenyl-1H-1
+Num confs = 200  elapsed time (s) = 0.28
+----------------------------------
+Title = KM 10565      "tert-butylN-[(5-mercapto-4-phenyl-4H-1,2,4-tria
+Num confs = 173  elapsed time (s) = 0.24
+----------------------------------
+Title = KM 10666      N-cyclopentyl-N`-phenylurea
+Num confs = 7  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 10712      "3-phenyl-5-(trifluoromethyl)-4,5-dihydro-1H-pyr
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'KM 10712      "3-phenyl-5-(trifluoromethyl)-4,5-dihydro-1H-pyr'
+Warning: KM 10712      "3-phenyl-5-(trifluoromethyl)-4,5-dihydro-1H-pyr failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 10784      "5-methyl-N-[2-(methylthio)-1,3-benzothiazol-6-y
+Num confs = 118  elapsed time (s) = 0.21
+----------------------------------
+Title = MB 00106      2-(4-methylphenyl)acetic acid
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = MBE 00030     methyl 5-(4-chlorophenyl)thiophene-2-carboxylate
+Num confs = 10  elapsed time (s) = 0.01
+----------------------------------
+Title = ML 00033      "4-phenyl-2-(4-pyridyl)-1,3-thiazole hydrobromid
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = ML 00058      "3-(4-[1,1`-biphenyl]-4-yl-1,3-thiazol-2-yl)pyri
+Num confs = 9  elapsed time (s) = 0.02
+----------------------------------
+Title = ML 00090      "N2-(2-chlorophenyl)-4-(3-nitrophenyl)-1,3-thiaz
+Num confs = 68  elapsed time (s) = 0.03
+----------------------------------
+Title = ML 00135      "N``,N```-di(2-chlorobenzylidene)carbonic dihydr
+Num confs = 147  elapsed time (s) = 0.19
+----------------------------------
+Title = ML 00173      "2-(3,4-dimethoxybenzylidene)hydrazine-1-carboth
+Num confs = 149  elapsed time (s) = 0.13
+----------------------------------
+Title = ML 00202      "N``,N```-di[(2-hydroxy-1-naphthyl)methylidene]c
+Num confs = 200  elapsed time (s) = 0.10
+----------------------------------
+Title = ML 00217      ethyl 2-(2-ethoxybenzylidene)hydrazine-1-carboxy
+Num confs = 200  elapsed time (s) = 0.39
+----------------------------------
+Title = ML 00229      ethyl 2-(2-thienylmethylidene)hydrazine-1-carbox
+Num confs = 40  elapsed time (s) = 0.04
+----------------------------------
+Title = ML 00252      "N1-(1,3-thiazol-2-yl)-4-nitrobenzamide"
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = ML 00268      "N1-bicyclo[2.2.1]hept-2-yl-2-(3,4,5-trimethoxyb
+Num confs = 200  elapsed time (s) = 0.60
+----------------------------------
+Title = ML 00290      "4-[1,1`-biphenyl]-4-yl-2-(4-methoxyphenyl)-1,3-
+Num confs = 12  elapsed time (s) = 0.02
+----------------------------------
+Title = ML 00317      "N1-methyl-2-(3,5-dibromo-2-hydroxybenzylidene)h
+Num confs = 46  elapsed time (s) = 0.03
+----------------------------------
+Title = ML 00346      "3-[(4-bromobenzyl)thio]-5-(2-furyl)-4-(4-methox
+Num confs = 200  elapsed time (s) = 0.26
+----------------------------------
+Title = ML 00381      N1-(3-chlorophenyl)-2-(4-pyridylcarbonyl)hydrazi
+Num confs = 59  elapsed time (s) = 0.03
+----------------------------------
+Title = ML 00405      "3a,6a-dimethylperhydroimidazo[4,5-d]imidazole-2
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = MWP 00002     5-chloro-3-methylbenzo[b]thiophene
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = MWP 00223     "4-(5-chloro-3-methylbenzo[b]thiophen-2-yl)-2-(4
+Num confs = 6  elapsed time (s) = 0.02
+----------------------------------
+Title = MWP 00911     "4-(4-chlorobenzylidene)-3-[(phenylthio)methyl]-
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'MWP 00911     "4-(4-chlorobenzylidene)-3-[(phenylthio)methyl]-'
+Warning: MWP 00911     "4-(4-chlorobenzylidene)-3-[(phenylthio)methyl]- failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = MWP 01109     2-fluoro-6-(4-fluorophenoxy)benzonitrile
+Num confs = 7  elapsed time (s) = 0.01
+----------------------------------
+Title = NH 00045      N1-[[(5-acetyl-2-methoxybenzyl)thio](3-fluoroani
+Num confs = 200  elapsed time (s) = 1.18
+----------------------------------
+Title = NH 00252      "N1-(4-cyanophenyl)-2,5-dimethoxybenzene-1-sulfo
+Num confs = 84  elapsed time (s) = 0.04
+----------------------------------
+Title = NH 00482      "N-(2,2-dimethylpropanoyl)-N`-[3-(trifluoromethy
+Num confs = 12  elapsed time (s) = 0.56
+----------------------------------
+Title = NRB 00022     N1-(4-fluorophenyl)-2-[(4-chlorophenyl)thio]acet
+Num confs = 70  elapsed time (s) = 0.04
+----------------------------------
+Title = NRB 00495     n/a
+Num confs = 10  elapsed time (s) = 0.01
+----------------------------------
+Title = NRB 00709     2-(2-iodophenyl)acetic acid
+Num confs = 7  elapsed time (s) = 0.01
+----------------------------------
+Title = NRB 01107     "3-nitroimidazo[1,2-a]pyridine"
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = NRB 01489     4-(4-chlorophenyl)-3-methylbut-3-en-2-one oxime
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = NRB 01917     3-bromoadamantane-1-carboxylic acid
+Num confs = 1  elapsed time (s) = 0.07
+----------------------------------
+Title = NRB 02318     "2-(4,4-dimethylcyclohexyl)propan-2-ol"
+Num confs = 4  elapsed time (s) = 0.04
+----------------------------------
+Title = NRB 02803     "1-methyl-2-oxo-1,2-dihydroquinolin-4-yl 4-methy
+Num confs = 13  elapsed time (s) = 0.02
+----------------------------------
+Title = NRB 03670     "10-(hydroxymethyl)-13-methyl-3-oxo-2,3,6,7,8,9,
+Num confs = 39  elapsed time (s) = 1.04
+----------------------------------
+Title = NRB 03720     3-ethylenedioxy-17-beta-hydroxyandrostane
+Num confs = 6  elapsed time (s) = 2.01
+----------------------------------
+Title = NRB 03818     "13-methyl-2,3,6,7,8,9,10,11,12,13,14,15,16,17-t
+Num confs = 1  elapsed time (s) = 0.02
+----------------------------------
+Title = NRB 04774     "4,4,6-trimethyl-1,2,3,4-tetrahydropyrimidine-2-
+Num confs = 1  elapsed time (s) = 0.09
+----------------------------------
+Title = NS 00008      "2-[(3-methyl-2-phenylmorpholino)methyl]-1H-isoi
+Num confs = 14  elapsed time (s) = 0.27
+----------------------------------
+Title = PD 00263      5-(methylthio)-4-phenyl-1-(phenylsulfonyl)-1H-py
+Num confs = 13  elapsed time (s) = 0.02
+----------------------------------
+Title = PD 00364      2-({[4-(trifluoromethyl)anilino]carbonyl}amino)b
+Num confs = 6  elapsed time (s) = 0.07
+----------------------------------
+Title = PD 00475      "2-(2-iodophenyl)-4-[(3,4,5-trimethoxyphenyl)met
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 15 of molecule 'PD 00475      "2-(2-iodophenyl)-4-[(3,4,5-trimethoxyphenyl)met'
+Warning: PD 00475      "2-(2-iodophenyl)-4-[(3,4,5-trimethoxyphenyl)met failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = PD 00506      3-[4-(trifluoromethyl)phenyl]pentanedioic acid
+Num confs = 80  elapsed time (s) = 4.44
+----------------------------------
+Title = PD 00524      5-(2-fluoro-4-iodoanilino)-5-oxo-3-[4-(trifluoro
+Num confs = 200  elapsed time (s) = 1.27
+----------------------------------
+Title = PD 00553      2-({2-[(1-benzylpiperidin-4-yl)amino]-2-oxoethyl
+Num confs = 200  elapsed time (s) = 0.62
+----------------------------------
+Title = PD 00585      4-[1-oxophthalazin-2(1H)-yl]benzenesulfonamide
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = PD 00604      "2-({[(1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl)me
+Num confs = 200  elapsed time (s) = 0.48
+----------------------------------
+Title = PD 00637      ethyl 2-({[(4-methylbenzyl)amino]carbothioyl}thi
+Num confs = 200  elapsed time (s) = 0.35
+----------------------------------
+Title = PD 00670      "4-(4-acetylphenyl)thiomorpholine-3,5-dione"
+Num confs = 13  elapsed time (s) = 0.02
+----------------------------------
+Title = PD 00718      "2-(1,3-benzodioxol-5-ylmethyl)-1-oxo-3-pyridin-
+Num confs = 76  elapsed time (s) = 0.07
+----------------------------------
+Title = PD 00781      "6-(6-hydroxyhexyl)-1,3-dimethyl-5,6,7,8-tetrahy
+Num confs = 200  elapsed time (s) = 0.64
+----------------------------------
+Title = PD 00829      "2-{[1-(3,5-dimethylphenyl)-2,5-dioxotetrahydro-
+Num confs = 98  elapsed time (s) = 0.20
+----------------------------------
+Title = PHG 00071     "3-(3,4-dimethoxyphenyl)-2-(4-methoxyphenyl)acry
+Num confs = 47  elapsed time (s) = 0.03
+----------------------------------
+Title = PHG 00249     "2-(2-hydroxyethyl)-5-nitro-1H-benzo[de]isoquino
+Num confs = 4  elapsed time (s) = 0.02
+----------------------------------
+Title = PHG 00582     2-(3-chlorophenyl)-3-(4-ethoxyphenyl)acrylonitri
+Num confs = 105  elapsed time (s) = 0.09
+----------------------------------
+Title = PHG 00727     "2-(1H-benzimidazol-2-yl)-3-(3,4-dimethoxyphenyl
+Num confs = 38  elapsed time (s) = 0.04
+----------------------------------
+Title = PHG 00883     "1-(4-aminophenyl)-3-[1,1`-biphenyl]-4-yl-2-[(3-
+Num confs = 200  elapsed time (s) = 1.48
+----------------------------------
+Title = PHG 00961     "2-(2-furylmethyl)-6-nitro-2,3-dihydro-1H-benzo[
+Num confs = 10  elapsed time (s) = 0.02
+----------------------------------
+Title = PHG 01042     "6-[(2-hydroxyethyl)thio]-2-[2-(2-pyridyl)ethyl]
+Num confs = 200  elapsed time (s) = 0.14
+----------------------------------
+Title = RB 00029      "2-[(3-chloroanilino)methyl]isoindoline-1,3-dion
+Num confs = 29  elapsed time (s) = 0.02
+----------------------------------
+Title = RB 00129      N1-(2-thienylmethylidene)-3-chloro-4-methylanili
+Num confs = 32  elapsed time (s) = 0.02
+----------------------------------
+Title = RB 00195      N-benzoyl-N`-(4-pyridylmethyl)thiourea
+Num confs = 43  elapsed time (s) = 0.02
+----------------------------------
+Title = RB 00291      N-(3-methoxyphenyl)thiourea
+Num confs = 16  elapsed time (s) = 0.01
+----------------------------------
+Title = RDP 00030     4-[4-(ethoxycarbonyl)anilino]-4-oxobutanoic acid
+Num confs = 200  elapsed time (s) = 0.99
+----------------------------------
+Title = RDP 00064     "5-nitro-2,1,3-benzothiadiazole"
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = RDP 00195     "4-chloro-6-(trifluoromethyl)-2,1,3-benzothiadia
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = RDR 00003     4-({[(3-hydroxypropyl)amino]carbothioyl}amino)ph
+Num confs = 200  elapsed time (s) = 0.35
+----------------------------------
+Title = RDR 00175     "3-(2-furylmethyl)-2-[(2-methoxyphenyl)imino]-1,
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'RDR 00175     "3-(2-furylmethyl)-2-[(2-methoxyphenyl)imino]-1,'
+Warning: RDR 00175     "3-(2-furylmethyl)-2-[(2-methoxyphenyl)imino]-1, failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = RDR 00470     "4-[2-(4-amino-1-naphthyl)diaz-1-enyl]benzene-1-
+Num confs = 16  elapsed time (s) = 0.02
+----------------------------------
+Title = RDR 00498     "N1-(8-{[3,5-di(trifluoromethyl)phenyl]imino}-1,
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 15 of molecule 'RDR 00498     "N1-(8-{[3,5-di(trifluoromethyl)phenyl]imino}-1,'
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 20 of molecule 'RDR 00498     "N1-(8-{[3,5-di(trifluoromethyl)phenyl]imino}-1,'
+Warning: RDR 00498     "N1-(8-{[3,5-di(trifluoromethyl)phenyl]imino}-1, failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = RDR 00913     N-[4-(4-chlorophenoxy)phenyl]-N`-(1-phenylethyl)
+Num confs = 200  elapsed time (s) = 0.13
+----------------------------------
+Title = RDR 00973     "3-(4-chlorophenyl)-7-methyl-5H-pyrimido[2,1-b][
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'RDR 00973     "3-(4-chlorophenyl)-7-methyl-5H-pyrimido[2,1-b]['
+Warning: RDR 00973     "3-(4-chlorophenyl)-7-methyl-5H-pyrimido[2,1-b][ failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = RDR 01147     "1-(2,6-dimethylphenyl)-5-(methylthio)-1H-1,2,3,
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = RDR 01224     N1-(3-fluorophenyl)-2-(2-propoxybenzylidene)hydr
+Num confs = 200  elapsed time (s) = 0.59
+----------------------------------
+Title = RDR 01413     2-oxo-2-phenylethyl 2-(3-fluoroanilino)benzoate
+Num confs = 200  elapsed time (s) = 0.36
+----------------------------------
+Title = RDR 01502     2-oxo-2-phenylethyl 2-benzoylbenzoate
+Num confs = 200  elapsed time (s) = 0.29
+----------------------------------
+Title = RDR 01622     N-mesityl-N`-(3-morpholinopropyl)thiourea
+Num confs = 200  elapsed time (s) = 0.12
+----------------------------------
+Title = RDR 01677     benzyl (2-methoxyanilino)methanimidothioate hydr
+Num confs = 200  elapsed time (s) = 0.20
+----------------------------------
+Title = RDR 01756     2-(4-chlorophenyl)-2-oxoethyl 2-anilinobenzoate
+Num confs = 200  elapsed time (s) = 0.34
+----------------------------------
+Title = RDR 01899     1-nitro-4-[3-(4-nitrophenoxy)propoxy]benzene
+Num confs = 200  elapsed time (s) = 0.74
+----------------------------------
+Title = RDR 02031     "N1-(4-bromo-2-chlorophenyl)-2,2,2-trichloroacet
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = RDR 02207     "N1-(2,6-dimethylphenyl)-2-(2,4-dichlorophenoxy)
+Num confs = 94  elapsed time (s) = 0.12
+----------------------------------
+Title = RDR 02498     N1-[4-(4-chlorophenoxy)phenyl]benzene-1-sulfonam
+Num confs = 117  elapsed time (s) = 0.08
+----------------------------------
+Title = RDR 02659     "N1-[3,5-di(trifluoromethyl)phenyl]-2-morpholino
+Num confs = 34  elapsed time (s) = 0.22
+----------------------------------
+Title = RDR 03089     "N1-(1,3-dithiolan-2-yliden)-2,6-dimethylaniline
+Num confs = 4  elapsed time (s) = 0.03
+----------------------------------
+Title = RDR 03731     6-methyl-2-pyridin-2-ylpyrimidin-4(3H)-one
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = RF 00139      "(4-chlorophenyl)[4,6-dimethyl-3-(1H-pyrrol-1-yl
+Num confs = 16  elapsed time (s) = 0.02
+----------------------------------
+Title = RF 00256      "N1-[3,5-di(trifluoromethyl)phenyl]-2-phenyl-2-(
+Num confs = 175  elapsed time (s) = 1.21
+----------------------------------
+Title = RF 00489      "5-phenyl-4H-1,2,4-triazole-3-thiol"
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = RF 00661      "4,6-dimethyl-2-[(4-methylphenyl)thio]-5-nitroni
+Num confs = 15  elapsed time (s) = 0.01
+----------------------------------
+Title = RF 00778      "3-phenyl-4,5-dihydroisoxazol-5-one"
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = RF 01053      6-methyl-2-(2-pyridyl)pyrimidin-4-ol
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = RF 01275      4-oxo-4H-chromene-3-carboxylic acid
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = RF 01316      "4-({[({[3-(2,6-dichlorophenyl)-5-methylisoxazol
+Num confs = 50  elapsed time (s) = 0.10
+----------------------------------
+Title = RF 01358      "bicyclo[2.2.1]hept-5-ene-2-carbaldehyde2-(3,5-d
+Num confs = 38  elapsed time (s) = 0.28
+----------------------------------
+Title = RF 01682      5-nitro-2-thiophenecarbonitrile
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = RF 01839      "4,6-diphenyl-1,3,5-triazin-2-ol"
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = RF 01964      3-({[(cyanoimino)(methylthio)methyl]amino}methyl
+Warning: RF 01964      3-({[(cyanoimino)(methylthio)methyl]amino}methyl failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = RF 02254      "methyl3-(2,6-dichlorophenyl)-5-{[(piperidinoami
+Num confs = 38  elapsed time (s) = 0.10
+----------------------------------
+Title = RF 02570      "N`-[(anilinocarbonyl)oxy]-4-(1,3-dithiolan-2-yl
+Num confs = 102  elapsed time (s) = 0.86
+----------------------------------
+Title = RF 02694      "4-(tert-butyl)-6-(methylthio)-1,3,5-triazin-2-a
+Num confs = 7  elapsed time (s) = 0.01
+----------------------------------
+Title = RF 02737      "4-(methylthio)-6-piperidino-1,3,5-triazin-2-ami
+Num confs = 40  elapsed time (s) = 0.04
+----------------------------------
+Title = RF 02989      "dimethyl pyridine-2,5-dicarboxylate"
+Num confs = 22  elapsed time (s) = 0.01
+----------------------------------
+Title = RF 03154      3-[2-(2-pyridyl)ethyl]-2-thioxoimidazolidin-4-on
+Num confs = 36  elapsed time (s) = 0.01
+----------------------------------
+Title = RF 03315      "4-methoxy-6-(methylthio)-1,3,5-triazin-2-amine"
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = RF 04149      N`-hydroxy-4-(trifluoromethyl)pyridine-3-carboxi
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 00001      9H-xanthene-9-carboxylic acid
+Num confs = 2  elapsed time (s) = 0.02
+----------------------------------
+Title = RH 00098      N1-(5-fluoro-2-methylphenyl)propanamide
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 00119      ethyl 5-amino-1-(4-fluorophenyl)-1H-pyrazole-4-c
+Num confs = 22  elapsed time (s) = 0.04
+----------------------------------
+Title = RH 00197      6-bromoquinazolin-4-ol
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = RH 00257      methyl 2-(4-acetylphenoxy)acetate
+Num confs = 105  elapsed time (s) = 0.08
+----------------------------------
+Title = RH 00293      2-fluoro-5-(trifluoromethyl)benzoic acid
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 00423      "1-(4-methoxyphenyl)ethan-1-one1-(1,4,5,6-tetrah
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'RH 00423      "1-(4-methoxyphenyl)ethan-1-one1-(1,4,5,6-tetrah'
+Warning: RH 00423      "1-(4-methoxyphenyl)ethan-1-one1-(1,4,5,6-tetrah failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = RH 00482      methyl 2-(acetylamino)-5-nitrobenzoate
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 00540      (4-methylphenyl)(2-nitrophenyl)methanone
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 00591      "2-[(7-methyl-2,3-dihydro-1H-inden-4-yl)oxy]acet
+Num confs = 72  elapsed time (s) = 0.03
+----------------------------------
+Title = RH 00662      "7-hydroxy-9-methyl-2,3-dihydro-1H,5H-pyrido[3,2
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 00695      "N1-(4,5-dimethyl-2-nitrophenyl)-2,4-dimethoxybe
+Num confs = 133  elapsed time (s) = 0.07
+----------------------------------
+Title = RH 00733      "6,11-dihydro-5H-benzo[a]carbazole"
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 00819      "6-methyl-2,3,4,9-tetrahydro-1H-carbazole"
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 00860      "2-[(2-carboxyphenyl)thio]-3,5-dinitrobenzoic ac
+Num confs = 22  elapsed time (s) = 0.04
+----------------------------------
+Title = RH 00923      "4-(1,3-dioxo-2,3-dihydro-1H-isoindol-2-yl)butyl
+Num confs = 132  elapsed time (s) = 0.10
+----------------------------------
+Title = RH 01000      "ethyl 2-(3,4-dichloroanilino)acetate"
+Num confs = 191  elapsed time (s) = 0.19
+----------------------------------
+Title = RH 01083      "4-phenyl-2-(3-pyridyl)-1,3-thiazole hydrobromid
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 01133      "ethyl2-[3-(3,5-dichlorophenyl)-7H-[1,2,4]triazo
+Num confs = 200  elapsed time (s) = 0.32
+----------------------------------
+Title = RH 01179      "N`-(4,5-dihydronaphtho[1,2-d][1,3]thiazol-2-yl)
+Num confs = 6  elapsed time (s) = 0.02
+----------------------------------
+Title = RH 01202      "9-benzyl-2,3,4,9-tetrahydro-1H-carbazol-4-one"
+Num confs = 4  elapsed time (s) = 0.02
+----------------------------------
+Title = RH 01250      5-(trifluoromethyl)-1H-benzo[d]imidazole-2-thiol
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 01325      "3-(3-methyl-5-oxo-4,5-dihydro-1H-pyrazol-1-yl)b
+Num confs = 16  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 01376      ethyl1-{[2-(trifluoromethyl)anilino]carbothioyl}
+Num confs = 200  elapsed time (s) = 0.25
+----------------------------------
+Title = RH 01402      "4-methyl-3-{[2-nitro-4-(trifluoromethyl)phenyl]
+Num confs = 24  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 01432      "N,N`-dihexylurea"
+Num confs = 200  elapsed time (s) = 0.40
+----------------------------------
+Title = RH 01461      "1-methyl-5-phenyl-1,3-dihydro-2H-1,4-benzodiaze
+Num confs = 4  elapsed time (s) = 0.02
+----------------------------------
+Title = RH 01500      (4-fluorophenyl)[4-(2-methoxyphenyl)piperidino]m
+Num confs = 39  elapsed time (s) = 0.09
+----------------------------------
+Title = RH 01524      "Methyl1,2,3,4-tetrahydropyrido[3,4-b]indol-1-sp
+Num confs = 6  elapsed time (s) = 0.75
+----------------------------------
+Title = RH 01565      "N-(5-{[2-(1,3-benzodioxol-5-ylamino)-2-oxoethyl
+Num confs = 200  elapsed time (s) = 0.20
+----------------------------------
+Title = RH 01591      N`-(4-fluorobenzoyl)-2-[(1-naphthylmethyl)thio]a
+Num confs = 200  elapsed time (s) = 0.31
+----------------------------------
+Title = RH 01612      "1,2,3,4-tetrahydropyrido[3,4-b]indol-1-spiro-2`
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'RH 01612      "1,2,3,4-tetrahydropyrido[3,4-b]indol-1-spiro-2`'
+Warning: RH 01612      "1,2,3,4-tetrahydropyrido[3,4-b]indol-1-spiro-2` failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = RH 01630      4-[(1-naphthylmethyl)amino]butanoic acid hydroch
+Num confs = 200  elapsed time (s) = 0.34
+----------------------------------
+Title = RH 01645      N-(2-chlorophenyl)-2-{2-[(1-naphthylmethyl)thio]
+Num confs = 200  elapsed time (s) = 0.54
+----------------------------------
+Title = RH 01656      "methyl 2-[(2,6-dichlorobenzoyl)amino]-3-(1H-ind
+Num confs = 190  elapsed time (s) = 0.07
+----------------------------------
+Title = RH 01687      "5-{[4-chloro-2-nitro-5-(1H-pyrrol-1-yl)phenyl]t
+Num confs = 52  elapsed time (s) = 0.02
+----------------------------------
+Title = RH 01717      "N-(1,3-benzodioxol-4-yl)-2-[(5-{[(7-methyl-2,3-
+Num confs = 200  elapsed time (s) = 0.85
+----------------------------------
+Title = RH 01737      "1-(4-fluorophenyl)-2-[(5-{[(7-methyl-2,3-dihydr
+Num confs = 200  elapsed time (s) = 0.69
+----------------------------------
+Title = RH 01748      "[1,1`-biphenyl]-4-yl(5-nitro-1-benzofuran-2-yl)
+Num confs = 24  elapsed time (s) = 0.02
+----------------------------------
+Title = RH 01768      "(5,7-dibromo-1-benzofuran-2-yl)(3-nitrophenyl)m
+Num confs = 49  elapsed time (s) = 0.02
+----------------------------------
+Title = RH 01785      "2-[(5-bromo-7-methyl-2,3-dihydro-1H-inden-4-yl)
+Num confs = 26  elapsed time (s) = 0.02
+----------------------------------
+Title = RH 01795      "4-allyl-5-{[(5-bromo-7-methyl-2,3-dihydro-1H-in
+Num confs = 163  elapsed time (s) = 0.21
+----------------------------------
+Title = RH 01823      "1-(2,2-diphenylvinyl)azetane"
+Num confs = 7  elapsed time (s) = 0.40
+----------------------------------
+Title = RH 01855      N-cyanoethyl-3-spiro(2-ethylenedioxy)oxindole
+Num confs = 7  elapsed time (s) = 0.15
+----------------------------------
+Title = RH 01893      "2,4,6-trimethyl-N-{2-[2-nitro-4-(trifluoromethy
+Num confs = 135  elapsed time (s) = 0.31
+----------------------------------
+Title = RH 01914      N-{2-[2-nitro-4-(trifluoromethyl)anilino]ethyl}t
+Num confs = 200  elapsed time (s) = 0.14
+----------------------------------
+Title = RH 01958      "4-chloro-N`-[4-(2,5-dimethyl-1H-pyrrol-1-yl)ben
+Num confs = 86  elapsed time (s) = 0.73
+----------------------------------
+Title = RH 01981      N-{2-[4-(tert-butyl)phenoxy]pyridin-3-yl}-2-(tri
+Num confs = 195  elapsed time (s) = 0.25
+----------------------------------
+Title = RH 02001      "N-(3,5-dimethoxyphenyl)propanamide"
+Num confs = 12  elapsed time (s) = 0.02
+----------------------------------
+Title = RH 02020      N-[2-(4-chlorophenoxy)pyridin-3-yl]-4-pentylbenz
+Num confs = 200  elapsed time (s) = 0.30
+----------------------------------
+Title = RH 02104      ethyl 4-hydroxy-2-phenylquinoline-6-carboxylate
+Num confs = 40  elapsed time (s) = 0.07
+----------------------------------
+Title = RH 02138      n/a
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 02163      1-(4-methoxyphenyl)-2-[4-(2-methylquinolin-4-yl)
+Num confs = 200  elapsed time (s) = 0.15
+----------------------------------
+Title = RH 02185      ethyl2-{[3-cyano-6-(2-thienyl)-4-(trifluoromethy
+Num confs = 200  elapsed time (s) = 0.45
+----------------------------------
+Title = RH 02199      "ethyl 3-(1,3-benzodioxol-5-ylamino)-2-cyanoacry
+Num confs = 200  elapsed time (s) = 0.44
+----------------------------------
+Title = RH 02213      N-(2-methylquinolin-6-yl)-2-furamide
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 02266      methyl 2-[(4-methylphenyl)thio]nicotinate
+Num confs = 68  elapsed time (s) = 0.03
+----------------------------------
+Title = RJC 00177     "ethyl 2-[(2,2-dimethyl-4-oxo-3,4-dihydro-2H-chr
+Num confs = 200  elapsed time (s) = 0.37
+----------------------------------
+Title = RJC 00752     3-(4-chlorophenoxy)propanoic acid
+Num confs = 41  elapsed time (s) = 0.03
+----------------------------------
+Title = RJC 01260     "3-heptyl-4-hydroxy-1,2-dihydroquinolin-2-one"
+Num confs = 134  elapsed time (s) = 0.04
+----------------------------------
+Title = RJC 01751     n/a
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = RJC 01899     1-[4-(2-methoxyphenyl)piperazino]-2-(2-pyridylam
+Num confs = 200  elapsed time (s) = 0.25
+----------------------------------
+Title = RJC 01963     "1,3,3-trimethyl-2-({[3-(trifluoromethyl)benzoyl
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'RJC 01963     "1,3,3-trimethyl-2-({[3-(trifluoromethyl)benzoyl'
+Warning: RJC 01963     "1,3,3-trimethyl-2-({[3-(trifluoromethyl)benzoyl failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = RJC 02161     "8-phenyl-4,5-dihydro[1,2,5]oxadiazolo[3,4-f]cin
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = RJC 02346     "2-phenyl-3-(phenylthio)imidazo[1,2-a]pyridine"
+Num confs = 18  elapsed time (s) = 0.02
+----------------------------------
+Title = RJC 02827     "8-phenyl[1,2,5]oxadiazolo[3,4-f]cinnoline"
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = RJC 03004     "N1-[1-(3,4-dichlorobenzyl)-4-piperidyl]benzamid
+Num confs = 153  elapsed time (s) = 0.09
+----------------------------------
+Title = RJC 03042     N1-(1-benzyl-4-piperidyl)-2-(2-methoxyphenyl)ace
+Num confs = 200  elapsed time (s) = 0.28
+----------------------------------
+Title = RJC 03071     1-benzyl-4-[(4-chlorophenyl)sulfonyl]piperazine
+Num confs = 53  elapsed time (s) = 0.10
+----------------------------------
+Title = RJC 03260     "N,N`-di(tert-butyl)sulfamide"
+Num confs = 8  elapsed time (s) = 0.02
+----------------------------------
+Title = RJC 03546     2-({4-bromo-2-[(methylamino)sulfonyl]phenyl}sulf
+Num confs = 19  elapsed time (s) = 0.05
+----------------------------------
+Title = RJC 03896     1-methyl-4-(4-methylphenoxy)benzene
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = RJC 04020     "ethyl2-{[(4,5-dibromo-2-hydroxyphenyl)methylene
+Num confs = 200  elapsed time (s) = 0.25
+----------------------------------
+Title = RJF 00091     "{[(3,5-dichloroanilino)(imino)methyl]amino}meth
+Num confs = 22  elapsed time (s) = 0.06
+----------------------------------
+Title = RJF 00327     "1-[2-(2-chloro-6-fluorobenzyl)-2H-1,2,3,4-tetra
+Num confs = 171  elapsed time (s) = 0.11
+----------------------------------
+Title = RJF 00463     ethyl 3-chloro-4-fluorobenzenecarboximidoate hyd
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'RJF 00463     ethyl 3-chloro-4-fluorobenzenecarboximidoate hyd'
+Warning: RJF 00463     ethyl 3-chloro-4-fluorobenzenecarboximidoate hyd failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = RJF 00638     N1-(3-chlorophenyl)-2-(cyclopropylcarbonyl)hydra
+Num confs = 200  elapsed time (s) = 0.48
+----------------------------------
+Title = RJF 00679     ({imino[2-(trifluoromethyl)anilino]methyl}amino)
+Num confs = 24  elapsed time (s) = 0.02
+----------------------------------
+Title = RJF 00755     3-({[3-(trifluoromethyl)anilino]carbothioyl}amin
+Num confs = 200  elapsed time (s) = 0.15
+----------------------------------
+Title = RJF 00843     "{[(2,3-dihydro-1,4-benzodioxin-6-ylamino)(imino
+Num confs = 48  elapsed time (s) = 0.05
+----------------------------------
+Title = RJF 00946     ({imino[(5-methylisoxazol-3-yl)amino]methyl}amin
+Num confs = 10  elapsed time (s) = 0.02
+----------------------------------
+Title = RJF 01102     "5-(3-chloro-4-methylphenyl)-2H-1,2,3,4-tetraazo
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = RJF 01321     "{[[3,5-di(trifluoromethyl)anilino](imino)methyl
+Num confs = 18  elapsed time (s) = 0.22
+----------------------------------
+Title = RJF 01422     3-{[(2-methoxyanilino)carbothioyl]amino}propanoi
+Num confs = 200  elapsed time (s) = 0.19
+----------------------------------
+Title = RJF 01566     ethyl 2-[(2-oxo-4-propyl-2H-chromen-7-yl)oxy]ace
+Num confs = 200  elapsed time (s) = 0.19
+----------------------------------
+Title = RJF 01809     5-(cyclopropylmethyl)-6-propyl-2-(2-pyridyl)pyri
+Num confs = 160  elapsed time (s) = 0.24
+----------------------------------
+Title = S 00039       "N-(3,4-dimethoxyphenethyl)-N`-(2-methoxyphenyl)
+Num confs = 200  elapsed time (s) = 0.23
+----------------------------------
+Title = S 00965       1H-benzo[d]imidazole-2-thiol
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = S 01132       N-(5-chloro-2-methylphenyl)-N`-(2-hydroxyethyl)t
+Num confs = 41  elapsed time (s) = 0.02
+----------------------------------
+Title = S 01471       "N-(2,4-dimethylphenyl)-N`-(2-hydroxyethyl)thiou
+Num confs = 39  elapsed time (s) = 0.02
+----------------------------------
+Title = S 01709       amino[(4-methylbenzyl)thio]methaniminium chlorid
+Num confs = 14  elapsed time (s) = 0.01
+----------------------------------
+Title = S 01942       "N,N`-di(3,4-dimethoxyphenethyl)thiourea"
+Num confs = 200  elapsed time (s) = 0.58
+----------------------------------
+Title = S 02172       N-benzoyl-N`-(2-pyridyl)thiourea
+Num confs = 7  elapsed time (s) = 0.01
+----------------------------------
+Title = S 02620       "N-(2,5-dichlorophenyl)thiourea"
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = S 03087       "5-(ethoxymethylidene)-3-phenethyl-2-thioxo-1,3-
+Num confs = 38  elapsed time (s) = 0.05
+----------------------------------
+Title = S 04126       "N2-(2,3-dichlorophenyl)-4,5-dihydro-1,3-thiazol
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'S 04126       "N2-(2,3-dichlorophenyl)-4,5-dihydro-1,3-thiazol'
+Warning: S 04126       "N2-(2,3-dichlorophenyl)-4,5-dihydro-1,3-thiazol failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = S 04283       1-ethoxy-2-methoxy-4-(2-nitroprop-1-enyl)benzene
+Num confs = 139  elapsed time (s) = 0.55
+----------------------------------
+Title = S 04546       "2-[(4-morpholinoanilino)methyl]isoindoline-1,3-
+Num confs = 91  elapsed time (s) = 0.25
+----------------------------------
+Title = S 05265       "N1-(2,3-dihydro-1,4-benzodioxin-6-yl)hydrazine-
+Num confs = 18  elapsed time (s) = 0.03
+----------------------------------
+Title = S 05784       N-[4-(4-chlorophenoxy)phenyl]-N`-(2-furylmethyl)
+Num confs = 200  elapsed time (s) = 0.12
+----------------------------------
+Title = S 06685       "3-(4-chlorophenyl)-2-(3-pyridyl)-1,3-thiazolan-
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = S 07294       N1-(4-methylphenyl)-2-(tert-butyl)hydrazine-1-ca
+Num confs = 34  elapsed time (s) = 0.04
+----------------------------------
+Title = S 08084       "5-(dodecylthio)-1,3,4-thiadiazol-2-amine"
+Num confs = 200  elapsed time (s) = 0.47
+----------------------------------
+Title = S 09416       "3-(4-cyclohexylphenyl)-2-(3-pyridyl)-1,3-thiazo
+Num confs = 40  elapsed time (s) = 0.05
+----------------------------------
+Title = S 10015       1-(methylthio)-4-(2-nitrovinyl)benzene
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = S 10270       ethyl 3-(4-bromophenyl)-2-cyanoacrylate
+Num confs = 67  elapsed time (s) = 0.57
+----------------------------------
+Title = S 10455       "4-(3-chloro-4-fluorophenyl)thiomorpholine-3,5-d
+Num confs = 7  elapsed time (s) = 0.01
+----------------------------------
+Title = S 10802       "5-[3,5-di(trifluoromethyl)anilino]-3,3-dimethyl
+Num confs = 182  elapsed time (s) = 16.55
+----------------------------------
+Title = S 10991       3-(2-nitrovinyl)thiophene
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = S 11211       amino[(2-chloro-6-fluorobenzyl)thio]methaniminiu
+Num confs = 17  elapsed time (s) = 0.01
+----------------------------------
+Title = S 11631       n/a
+Num confs = 154  elapsed time (s) = 0.78
+----------------------------------
+Title = S 12037       "5-(2-ethyl-6-methylanilino)-3,3-dimethyl-5-oxop
+Num confs = 200  elapsed time (s) = 0.31
+----------------------------------
+Title = S 12245       "2-(2-chloro-6-fluorophenyl)-1,2,3,4-tetrahydroq
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = S 12653       "1-(3,5-dimethoxyphenyl)-2,5-dihydro-1H-pyrrole-
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = S 12912       "2-[(5-methyl-2-furyl)methylidene]-1,2,3,4-tetra
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = S 13213       "diethyl2,6-dihydroxy-4-pyridin-3-yl-2,6-bis(tri
+Num confs = 36  elapsed time (s) = 1.51
+----------------------------------
+Title = S 13835       "1-(3,4-dichlorophenyl)pyrrolidin-2-one"
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = S 14246       "Spiro-(1,3-dioxane-2,3`-indolin)-2`-one"
+Num confs = 14  elapsed time (s) = 0.34
+----------------------------------
+Title = S 14316       ethyl 2-(4-fluoroanilino)acetate
+Num confs = 86  elapsed time (s) = 0.21
+----------------------------------
+Title = S 14637       "3-(4-methoxybenzyl)-2-(2-pyridyl)-1,3-thiazolan
+Num confs = 54  elapsed time (s) = 0.03
+----------------------------------
+Title = S 14896       2-{[2-(2-phenylhydrazono)acetyl]amino}benzoic ac
+Num confs = 170  elapsed time (s) = 0.69
+----------------------------------
+Title = S 15066       "6-phenyl-1,2,3,4-tetrahydro-2,5-benzodiazocin-1
+Num confs = 6  elapsed time (s) = 0.02
+----------------------------------
+Title = S 15252       "1,3,6-trimethyl-1,2,3,4,5,6,7,8-octahydropyrimi
+Num confs = 2  elapsed time (s) = 0.02
+----------------------------------
+Title = S 15337       2-heptyl-5-({4-[(3-heptyl-2-oxocyclopentylidene)
+Num confs = 200  elapsed time (s) = 1.24
+----------------------------------
+Title = SB 00542      fluoranthene
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = SB 00622      "2-phenylindane-1,3-dione"
+Num confs = 3  elapsed time (s) = 0.02
+----------------------------------
+Title = SEW 00050     1-{[(cyanoimino)(methylthio)methyl]amino}-4-isop
+Warning: SEW 00050     1-{[(cyanoimino)(methylthio)methyl]amino}-4-isop failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SEW 00146     "N-(2,4-difluorophenyl)-N`-{[3,5-di(methylthio)i
+Num confs = 200  elapsed time (s) = 0.17
+----------------------------------
+Title = SEW 00371     N1-methyl-2-[imino(2-pyridyl)methyl]hydrazine-1-
+Num confs = 91  elapsed time (s) = 0.38
+----------------------------------
+Title = SEW 00718     "2-(tert-butylsulfonyl)-3-(2,4-difluorophenyl)ac
+Num confs = 6  elapsed time (s) = 0.38
+----------------------------------
+Title = SEW 00806     1-(2-chlorobenzyl)-5-oxopyrrolidine-3-carboxylic
+Num confs = 78  elapsed time (s) = 0.04
+----------------------------------
+Title = SEW 01003     2-(3-chloro-4-fluorobenzylidene)hydrazine-1-carb
+Num confs = 33  elapsed time (s) = 0.02
+----------------------------------
+Title = SEW 01054     "O1-benzoyl-4-(1,2,3-thiadiazol-4-yl)benzene-1-c
+Num confs = 200  elapsed time (s) = 0.59
+----------------------------------
+Title = SEW 01270     "methyl 2-[(6-chloro-1,3-benzothiazol-2-yl)thio]
+Num confs = 96  elapsed time (s) = 0.02
+----------------------------------
+Title = SEW 01371     "ethyl 5-oxo-2,3-dihydro-5H-pyrimido[2,1-b][1,3]
+Num confs = 22  elapsed time (s) = 0.02
+----------------------------------
+Title = SEW 01541     3-(4-chlorobenzylidene)-6-fluorochroman-4-one
+Num confs = 2  elapsed time (s) = 0.08
+----------------------------------
+Title = SEW 01715     ethyl 4-amino-2-anilino-5-nitrothiophene-3-carbo
+Num confs = 108  elapsed time (s) = 0.19
+----------------------------------
+Title = SEW 02070     "dimethyl4-{5-[2-(methoxycarbonyl)-3-thienyl]-2-
+Num confs = 200  elapsed time (s) = 0.19
+----------------------------------
+Title = SEW 02215     2-acetyl-5-(thien-2-yl)thiophene
+Num confs = 20  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 02349     benzaldehyde1-[3-chloro-5-(trifluoromethyl)-2-py
+Num confs = 87  elapsed time (s) = 0.30
+----------------------------------
+Title = SEW 02504     "2-({2-oxo-2-[1-(trifluoromethyl)-2,3,4,9-tetrah
+Num confs = 200  elapsed time (s) = 0.44
+----------------------------------
+Title = SEW 02722     3-bromothiophene-2-carbonitrile
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = SEW 02826     "5-acetyl-4-(4-methoxyphenyl)-6-methyl-2-thioxo-
+Num confs = 16  elapsed time (s) = 0.28
+----------------------------------
+Title = SEW 03075     "N2-(3-pyridyl)-4-(3-chlorophenyl)-1,3-thiazol-2
+Num confs = 60  elapsed time (s) = 0.03
+----------------------------------
+Title = SEW 03166     1-(5-nitro-3-thienyl)ethan-1-one
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 03416     "1-[(4,5-dibromo-2-thienyl)sulfonyl]piperidine"
+Num confs = 26  elapsed time (s) = 0.03
+----------------------------------
+Title = SEW 03638     5-(methylthio)thiophene-2-carboxylic acid
+Num confs = 9  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 03816     "2-{[5-(trifluoromethyl)-2-pyridyl]thio}-1-[1-(t
+Num confs = 200  elapsed time (s) = 0.22
+----------------------------------
+Title = SEW 03901     3-(4-chlorophenoxy)-5-(trifluoromethyl)pyridine-
+Num confs = 7  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 03999     (4-methoxyphenyl)(4-piperidyl)methanone hydrochl
+Num confs = 28  elapsed time (s) = 0.03
+----------------------------------
+Title = SEW 04112     N-[2-bromo-4-(trifluoromethyl)phenyl]-N`-phenylu
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 04192     "4-[3,5-di(trifluoromethyl)-1H-pyrazol-1-yl]anil
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 04256     "N,N`-bis(2-fluorophenyl)thiourea"
+Num confs = 30  elapsed time (s) = 0.02
+----------------------------------
+Title = SEW 04342     {1-[2-nitro-4-(trifluoromethyl)phenyl]-4-piperid
+Num confs = 72  elapsed time (s) = 0.24
+----------------------------------
+Title = SEW 04472     "N1-[2-(acetylamino)-3,4,5,6-tetramethylphenyl]a
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 04522     "4-{4-[3,5-di(trifluoromethyl)-1H-pyrazol-1-yl]a
+Num confs = 21  elapsed time (s) = 1.07
+----------------------------------
+Title = SEW 04563     2-hydroxybenzene-1-carbohydrazide
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 04649     2-{[5-(4-methoxyphenyl)-2-thienyl]methylidene}ma
+Num confs = 75  elapsed time (s) = 0.07
+----------------------------------
+Title = SEW 04697     "2-(3,5-difluorobenzylidene)hydrazine-1-carbothi
+Num confs = 17  elapsed time (s) = 0.02
+----------------------------------
+Title = SEW 04746     "1-[(3,5-dichlorophenoxy)methyl]-3,5-difluoroben
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 04829     "2-[(5-isopropyl-3,8-dimethylazulen-1-yl)methyli
+Warning: Can't assign MMFF type to atom number     6   C
+Warning: Can't assign MMFF type to atom number    30   H
+Warning: force field setup failed due to missing parameters for molecule SEW 04829     "2-[(5-isopropyl-3,8-dimethylazulen-1-yl)methyli
+
+----------------------------------
+Title = SEW 04885     methyl 2-morpholino-5-nitrobenzoate
+Num confs = 12  elapsed time (s) = 0.03
+----------------------------------
+Title = SEW 04929     methyl 3-[(ethoxycarbonyl)amino]thiophene-2-carb
+Num confs = 18  elapsed time (s) = 0.08
+----------------------------------
+Title = SEW 04954     methyl 9-(4-chloroanilino)-9-oxononanoate
+Num confs = 200  elapsed time (s) = 0.45
+----------------------------------
+Title = SEW 04990     "N2,N2-di(4-methoxybenzyl)thiophene-2-carboxamid
+Num confs = 200  elapsed time (s) = 0.22
+----------------------------------
+Title = SEW 05135     methyl 1-[2-(methoxycarbonyl)phenyl]-1H-pyrrole-
+Num confs = 67  elapsed time (s) = 0.03
+----------------------------------
+Title = SEW 05179     2-({5-[2-chloro-5-(trifluoromethyl)phenyl]-2-fur
+Num confs = 41  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 05221     "ethyl2-(5-fluoro-2-oxo-2,3-dihydro-1H-indol-3-y
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'SEW 05221     "ethyl2-(5-fluoro-2-oxo-2,3-dihydro-1H-indol-3-y'
+Warning: SEW 05221     "ethyl2-(5-fluoro-2-oxo-2,3-dihydro-1H-indol-3-y failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SEW 05251     "methyl 2`-fluoro[1,1`-biphenyl]-4-carboxylate"
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 05275     "1-(2`-fluoro[1,1`-biphenyl]-4-yl)propan-1-oneO-
+Num confs = 200  elapsed time (s) = 0.94
+----------------------------------
+Title = SEW 05289     "3-[(dimethylamino)methylidene]-6-fluoro-3,4-dih
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 05333     4-{[4-(trifluoromethyl)phenyl]imino}pentan-2-one
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'SEW 05333     4-{[4-(trifluoromethyl)phenyl]imino}pentan-2-one'
+Warning: SEW 05333     4-{[4-(trifluoromethyl)phenyl]imino}pentan-2-one failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SEW 05380     "5-({[(6-fluoro-2,3-dihydro-4H-thiochromen-4-yli
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SEW 05380     "5-({[(6-fluoro-2,3-dihydro-4H-thiochromen-4-yli'
+Warning: SEW 05380     "5-({[(6-fluoro-2,3-dihydro-4H-thiochromen-4-yli failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SEW 05397     "2-(4-chlorophenyl)-4-(2,4-dimethylphenyl)-1,3-t
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 05445     "1-[3,5-di(trifluoromethyl)phenoxy]-2-nitro-4-(t
+Num confs = 9  elapsed time (s) = 0.05
+----------------------------------
+Title = SEW 05478     "N1-[3,5-di(trifluoromethyl)phenyl]-2-methoxy-4,
+Num confs = 10  elapsed time (s) = 0.03
+----------------------------------
+Title = SEW 05539     3-(6-phenoxy-3-pyridyl)-2-(phenylsulfonyl)acrylo
+Num confs = 68  elapsed time (s) = 0.07
+----------------------------------
+Title = SEW 05567     "3-nitro-2,6-dipiperidinopyridine"
+Num confs = 19  elapsed time (s) = 0.10
+----------------------------------
+Title = SEW 05603     N1-(4-methoxyphenyl)-2-(4-isobutylphenyl)propana
+Num confs = 140  elapsed time (s) = 0.30
+----------------------------------
+Title = SEW 05637     "N1-(3,5-dichlorophenyl)-2-(1H-2-pyrrolylcarbony
+Num confs = 36  elapsed time (s) = 0.06
+----------------------------------
+Title = SEW 05691     "{4-[3-chloro-5-(trifluoromethyl)-2-pyridyl]pipe
+Num confs = 60  elapsed time (s) = 0.09
+----------------------------------
+Title = SEW 05714     "N-(3,5-dimethyl-4-isoxazolyl)urea"
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 05774     "5-amino-2-(3-methoxyphenyl)-1,3-oxazole-4-carbo
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 05823     "N-(4-methoxyphenyl)-3,5-dimethylisoxazole-4-sul
+Num confs = 110  elapsed time (s) = 0.03
+----------------------------------
+Title = SEW 05841     "3,5-di(tert-butyl)-1-(4-nitrophenyl)-1H-pyrazol
+Num confs = 4  elapsed time (s) = 0.02
+----------------------------------
+Title = SEW 05862     "(3,5-dimethylisoxazol-4-yl)(morpholino)methanon
+Num confs = 8  elapsed time (s) = 0.02
+----------------------------------
+Title = SEW 05878     ({[3-methoxy-5-(trifluoromethyl)anilino]carbonyl
+Num confs = 142  elapsed time (s) = 0.13
+----------------------------------
+Title = SEW 05895     N-[3-methoxy-5-(trifluoromethyl)phenyl]-N`-[4-(t
+Num confs = 58  elapsed time (s) = 0.42
+----------------------------------
+Title = SEW 05907     "2,2-dimethyl-1-{4-[3-(trifluoromethyl)pyridin-2
+Num confs = 5  elapsed time (s) = 0.05
+----------------------------------
+Title = SEW 05936     [3-(2-chloro-6-fluorophenyl)-5-methylisoxazol-4-
+Num confs = 178  elapsed time (s) = 0.10
+----------------------------------
+Title = SEW 05964     "[3-(2,6-dichlorophenyl)-5-methylisoxazol-4-yl]{
+Num confs = 74  elapsed time (s) = 0.08
+----------------------------------
+Title = SEW 05989     "3-[3,5-bis(trifluoromethyl)phenyl]-5-(3,5-dimet
+Num confs = 8  elapsed time (s) = 0.02
+----------------------------------
+Title = SEW 06005     N-cyclohexyl-4-[3-(trifluoromethyl)pyridin-2-yl]
+Num confs = 83  elapsed time (s) = 0.28
+----------------------------------
+Title = SEW 06018     1-(2-methoxyphenyl)-4-{[4-(trifluoromethyl)pheny
+Num confs = 200  elapsed time (s) = 0.85
+----------------------------------
+Title = SEW 06028     "4-[3-chloro-5-(trifluoromethyl)pyridin-2-yl]-N-
+Num confs = 142  elapsed time (s) = 0.25
+----------------------------------
+Title = SEW 06041     4-[3-chloro-5-(trifluoromethyl)pyridin-2-yl]-N-p
+Num confs = 113  elapsed time (s) = 0.22
+----------------------------------
+Title = SEW 06061     "N-[2,6-bis(diethylamino)pyridin-3-yl]-2,6-diflu
+Num confs = 200  elapsed time (s) = 2.67
+----------------------------------
+Title = SEW 06091     "1-[(4-chloro-2,5-dimethylphenyl)sulfonyl]-4-(2-
+Num confs = 107  elapsed time (s) = 0.27
+----------------------------------
+Title = SEW 06103     4-[3-chloro-5-(trifluoromethyl)pyridin-2-yl]-N-(
+Num confs = 120  elapsed time (s) = 0.15
+----------------------------------
+Title = SEW 06119     N-(4-chlorophenyl)-4-[3-(trifluoromethyl)pyridin
+Num confs = 59  elapsed time (s) = 0.13
+----------------------------------
+Title = SEW 06137     "N-(3,5-dichlorophenyl)-4-(2-methoxyphenyl)tetra
+Num confs = 200  elapsed time (s) = 0.23
+----------------------------------
+Title = SEW 06154     "N-(4-chloro-2,5-dimethoxyphenyl)-4-(2-methoxyph
+Num confs = 200  elapsed time (s) = 0.37
+----------------------------------
+Title = SEW 06185     "2-{2-oxo-2-[1-(trifluoromethyl)-1,3,4,9-tetrahy
+Num confs = 94  elapsed time (s) = 0.20
+----------------------------------
+Title = SEW 06222     "2-(1,3-benzodioxol-5-yloxy)-1-{4-[3-chloro-5-(t
+Num confs = 200  elapsed time (s) = 0.20
+----------------------------------
+Title = SEW 06252     "1-[(3,4-dichlorophenyl)sulfonyl]-4-[5-(trifluor
+Num confs = 200  elapsed time (s) = 0.22
+----------------------------------
+Title = SEW 06266     (4-chlorophenyl){4-[5-(trifluoromethyl)pyridin-2
+Num confs = 54  elapsed time (s) = 0.13
+----------------------------------
+Title = SEW 06338     2-(phenylsulfonyl)-3-{1-[4-(trifluoromethoxy)phe
+Num confs = 200  elapsed time (s) = 0.76
+----------------------------------
+Title = SEW 06362     4-chloro-N-{2-[(4-chlorobenzyl)thio]ethyl}benzam
+Num confs = 200  elapsed time (s) = 0.15
+----------------------------------
+Title = SEW 06400     8-(4-nitrophenoxy)quinoline
+Num confs = 9  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 06430     "N-[4-(tert-butyl)phenyl]-2-(3,5-difluorophenyl)
+Num confs = 20  elapsed time (s) = 0.04
+----------------------------------
+Title = SEW 06449     "N-(2,4-difluorophenyl)-N`-{2-[(mesitylmethyl)th
+Num confs = 200  elapsed time (s) = 0.18
+----------------------------------
+Title = SEW 06489     N-[4-bromo-2-(trifluoromethoxy)phenyl]-N`-[5-met
+Num confs = 113  elapsed time (s) = 0.09
+----------------------------------
+Title = SEW 06533     N-{2-[(2-chlorobenzyl)thio]ethyl}-N`-(2-methoxyp
+Num confs = 200  elapsed time (s) = 0.26
+----------------------------------
+Title = SEW 06579     "2,4-dibromo-6-[({4-[3,5-di(tert-butyl)-1H-pyraz
+Num confs = 12  elapsed time (s) = 0.14
+----------------------------------
+Title = SEW 06649     "2-({[5-(5-methyl-3-phenylisoxazol-4-yl)-1,2,4-o
+Num confs = 200  elapsed time (s) = 0.25
+----------------------------------
+Title = SP 00007      "methyl 4-acetyl-2,5-dimethyl-1H-pyrrole-3-carbo
+Num confs = 18  elapsed time (s) = 0.01
+----------------------------------
+Title = SP 00082      ethyl 5-(4-aminophenyl)-2-methyl-3-furoate
+Num confs = 34  elapsed time (s) = 0.05
+----------------------------------
+Title = SP 00294      "2-methyl-1,5-diphenyl-1H-pyrrole-3-carboxylic a
+Num confs = 3  elapsed time (s) = 0.02
+----------------------------------
+Title = SP 00364      "2,6-di(tert-butyl)-4-{2-[4-(tert-butyl)phenyl]-
+Num confs = 18  elapsed time (s) = 0.79
+----------------------------------
+Title = SP 00404      "2,6-di(tert-butyl)-4-[2-(4-chlorophenyl)-1,3-th
+Num confs = 12  elapsed time (s) = 0.05
+----------------------------------
+Title = SP 00427      "2-{4-[4-(2,4-dimethylphenyl)-1,3-thiazol-2-yl]p
+Num confs = 137  elapsed time (s) = 0.08
+----------------------------------
+Title = SP 00444      "4-[2-(4-{[5-(trifluoromethyl)pyridin-2-yl]oxy}p
+Num confs = 82  elapsed time (s) = 0.13
+----------------------------------
+Title = SP 00455      "methyl 2-({2-[4-(4-nitrophenyl)-1,3-thiazol-2-y
+Num confs = 200  elapsed time (s) = 0.34
+----------------------------------
+Title = SP 00499      "4-(3,4-dihydro-2H-1,5-benzodioxepin-7-yl)-2-[4-
+Num confs = 20  elapsed time (s) = 0.02
+----------------------------------
+Title = SP 00554      "2-[4-(3,4-dimethylphenyl)-1,3-thiazol-2-yl]acet
+Num confs = 43  elapsed time (s) = 0.02
+----------------------------------
+Title = SP 00766      "3-(4-methylphenyl)-5-(4-propylphenyl)-1,2,4-oxa
+Num confs = 8  elapsed time (s) = 0.02
+----------------------------------
+Title = SP 00844      "5-(4-bromo-1-ethyl-3-methyl-1H-pyrazol-5-yl)-3-
+Num confs = 25  elapsed time (s) = 0.02
+----------------------------------
+Title = SP 01024      "N-{1-(3,4-dimethylphenyl)-3-[4-(trifluoromethox
+Num confs = 200  elapsed time (s) = 10.04
+----------------------------------
+Title = SP 01179      (2-methyl-5-phenyl-3-furyl){4-[5-(trifluoromethy
+Num confs = 200  elapsed time (s) = 0.60
+----------------------------------
+Title = SP 01215      5-(tert-butyl)-2-methyl-N-(4-nitrophenyl)-3-fura
+Num confs = 14  elapsed time (s) = 0.02
+----------------------------------
+Title = SP 01364      5-[(dimethylamino)sulfonyl]-2-methyl-3-furoic ac
+Num confs = 15  elapsed time (s) = 0.02
+----------------------------------
+Title = SPB 00033     ethyl 3-cyano-6-methyl-2-(phenylthio)isonicotina
+Num confs = 200  elapsed time (s) = 0.31
+----------------------------------
+Title = SPB 00199     "O1-{[3-(2,6-dichlorophenyl)-5-methylisoxazol-4-
+Num confs = 200  elapsed time (s) = 0.21
+----------------------------------
+Title = SPB 00370     n/a
+Num confs = 20  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 00668     "5-[4-(tert-butyl)phenyl]-4-[3-(trifluoromethyl)
+Num confs = 10  elapsed time (s) = 0.02
+----------------------------------
+Title = SPB 00822     N`-hydroxy-2-(1-naphthyl)ethanimidamide
+Num confs = 13  elapsed time (s) = 0.22
+----------------------------------
+Title = SPB 00887     "5-{[2-nitro-4-(trifluoromethyl)phenyl]thio}-1H-
+Num confs = 18  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 00989     N-(4-chlorophenyl)-N`-[(5-nitro-2-furyl)carbonyl
+Num confs = 11  elapsed time (s) = 0.02
+----------------------------------
+Title = SPB 01113     "O1-(2,2-dichloroacetyl)-2,3-dichlorobenzene-1-c
+Num confs = 121  elapsed time (s) = 0.32
+----------------------------------
+Title = SPB 01227     3-(tert-butyl)-1H-pyrazole-5-carbohydrazide
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 01326     2-(2-chlorophenoxy)ethanethioamide
+Num confs = 48  elapsed time (s) = 0.02
+----------------------------------
+Title = SPB 01432     N-(4-isopropylphenyl)-N`-[4-(trifluoromethyl)ben
+Num confs = 14  elapsed time (s) = 0.03
+----------------------------------
+Title = SPB 01622     "5-nitro-2-{[5-(2-thienyl)-4H-1,2,4-triazol-3-yl
+Num confs = 200  elapsed time (s) = 0.08
+----------------------------------
+Title = SPB 01840     1-ethyl-3-methyl-1H-pyrazole-5-carboxylic acid
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 01986     "4-allyl-5-[(5-nitro-1,3-thiazol-2-yl)thio]-4H-1
+Num confs = 200  elapsed time (s) = 0.23
+----------------------------------
+Title = SPB 01987     "5-[(5-nitro-1,3-thiazol-2-yl)thio]-4-pentyl-4H-
+Num confs = 200  elapsed time (s) = 0.07
+----------------------------------
+Title = SPB 02088     "1-(2,3-dimethylbenzyl)-4,5-dimethyl-3-(phenylsu
+Num confs = 41  elapsed time (s) = 0.03
+----------------------------------
+Title = SPB 02239     "1-benzyl-4,5-dimethyl-3-(propylsulfonyl)-1H-pyr
+Num confs = 53  elapsed time (s) = 0.14
+----------------------------------
+Title = SPB 02320     "2-methyl-4-(4-methyl-5-{[2-nitro-4-(trifluorome
+Num confs = 103  elapsed time (s) = 0.04
+----------------------------------
+Title = SPB 02402     n/a
+Num confs = 16  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 02495     "ethyl 4-hydroxy-2-(4-methylphenyl)-1,3-thiazole
+Num confs = 22  elapsed time (s) = 0.03
+----------------------------------
+Title = SPB 02572     2-{[4-(trifluoromethyl)phenyl]sulfonyl}ethanethi
+Num confs = 16  elapsed time (s) = 0.02
+----------------------------------
+Title = SPB 02706     "2-(2,4-difluorophenyl)-N`-hydroxy-1,3-thiazole-
+Num confs = 24  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 02874     O1-isoxazol-5-ylcarbonyl-4-(trifluoromethyl)benz
+Num confs = 48  elapsed time (s) = 0.09
+----------------------------------
+Title = SPB 03008     ethyl 4-{[3-chloro-5-(trifluoromethyl)-2-pyridyl
+Num confs = 106  elapsed time (s) = 0.25
+----------------------------------
+Title = SPB 03041     "5-{[(4-bromophenyl)thio]methyl}-3-[4-(trifluoro
+Num confs = 200  elapsed time (s) = 0.57
+----------------------------------
+Title = SPB 03171     "2-(1H-1,2,4-triazol-1-yl)-5-(trifluoromethyl)py
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 03333     2-benzylidenehydrazine-1-carbothioamide
+Num confs = 16  elapsed time (s) = 0.05
+----------------------------------
+Title = SPB 03489     "2-(4-chlorophenyl)-5-[2-(trifluoromethoxy)pheny
+Num confs = 48  elapsed time (s) = 0.04
+----------------------------------
+Title = SPB 03698     "1-{2-[4-(trifluoromethyl)phenyl]-1,3-thiazol-4-
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 04026     "3-[2-(tert-butyl)pyrimidin-4-yl]-1-(4-fluorophe
+Num confs = 42  elapsed time (s) = 0.03
+----------------------------------
+Title = SPB 04065     "ethyl2-{[3-methyl-6-(trifluoromethyl)-3H-imidaz
+Num confs = 200  elapsed time (s) = 0.31
+----------------------------------
+Title = SPB 04117     3-[(4-chlorophenyl)thio]-4-(dimethylamino)but-3-
+Num confs = 64  elapsed time (s) = 0.17
+----------------------------------
+Title = SPB 04126     "4-(dimethylamino)-3-{[4-methyl-5-(trifluorometh
+Num confs = 172  elapsed time (s) = 0.16
+----------------------------------
+Title = SPB 04265     n/a
+Num confs = 21  elapsed time (s) = 0.02
+----------------------------------
+Title = SPB 04584     4-methyl-5-(phenylthio)pyrimidin-2-amine
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 04930     6-(dimethoxymethyl)-2-mercaptopyrimidin-4-ol
+Num confs = 21  elapsed time (s) = 0.02
+----------------------------------
+Title = SPB 04977     N1-isopropyl-5-[3-(4-chlorophenyl)-5-methylisoxa
+Num confs = 47  elapsed time (s) = 0.34
+----------------------------------
+Title = SPB 05312     5-amino-3-methyl-4-isoxazolecarbothioamide
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 05610     "1-[6-methyl-2-(trifluoromethyl)[1,2,4]triazolo[
+Num confs = 4  elapsed time (s) = 0.02
+----------------------------------
+Title = SPB 05789     6-(4-chlorophenoxy)nicotinonitrile
+Num confs = 7  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 05973     6-(4-chlorophenoxy)pyridine-3-carbothioamide
+Num confs = 36  elapsed time (s) = 0.02
+----------------------------------
+Title = SPB 06323     diphenyl(4-pyridyl)methanol
+Num confs = 4  elapsed time (s) = 0.02
+----------------------------------
+Title = SPB 06502     "4-{[5-(3,5-dichlorophenyl)-4H-1,2,4-triazol-3-y
+Num confs = 200  elapsed time (s) = 0.04
+----------------------------------
+Title = SPB 06722     "3-[(2-oxo-2,3-dihydro-1,3-benzoxazol-3-yl)methy
+Num confs = 28  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 06875     "N1-(tert-butyl)-4-(6-chloro-1,3-benzothiazol-2-
+Num confs = 48  elapsed time (s) = 0.09
+----------------------------------
+Title = SPB 07338     3-fluoro-N`-hydroxy-4-methylbenzenecarboximidami
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 07687     N1-[4-(trifluoromethyl)phenyl]hydrazine-1-carbot
+Num confs = 18  elapsed time (s) = 0.02
+----------------------------------
+Title = SPB 07883     "4-(2,3-dihydro-1,4-benzodioxin-6-yl)-5-(2-furyl
+Num confs = 12  elapsed time (s) = 0.02
+----------------------------------
+Title = SPB 07973     "ethyl 4-(2,4-dichlorophenoxy)-3-nitrobenzoate"
+Num confs = 62  elapsed time (s) = 0.08
+----------------------------------
+Title = SPB 08002     2-(4-methoxyphenoxy)acetamide
+Num confs = 44  elapsed time (s) = 0.02
+----------------------------------
+Title = SPB 08046     "4-[4-(benzyloxy)phenyl]-3-[(2-chloro-6-fluorobe
+Num confs = 200  elapsed time (s) = 0.27
+----------------------------------
+Title = SPB 08065     "2-{[4-(2,3-dihydro-1,4-benzodioxin-6-yl)-5-(2-f
+Num confs = 200  elapsed time (s) = 0.36
+----------------------------------
+Title = SPB 08079     "2-(acetylamino)-3-(1,3-benzodioxol-5-yl)acrylic
+Num confs = 16  elapsed time (s) = 0.22
+----------------------------------
+Title = SPB 08112     n/a
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'SPB 08112     n/a'
+Warning: SPB 08112     n/a failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SPB 08126     "N`-[3,5-bis(trifluoromethyl)benzoyl]-3-(tert-bu
+Num confs = 200  elapsed time (s) = 8.90
+----------------------------------
+Title = SPB 08185     "ethyl2-({5-[3-(tert-butyl)-1-(3-methylbenzyl)-1
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SPB 08185     "ethyl2-({5-[3-(tert-butyl)-1-(3-methylbenzyl)-1'
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'SPB 08185     "ethyl2-({5-[3-(tert-butyl)-1-(3-methylbenzyl)-1'
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 18 of molecule 'SPB 08185     "ethyl2-({5-[3-(tert-butyl)-1-(3-methylbenzyl)-1'
+Warning: SPB 08185     "ethyl2-({5-[3-(tert-butyl)-1-(3-methylbenzyl)-1 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SPB 08212     9H-fluoren-9-ylmethyl N-(4-hydroxybutyl)carbamat
+Num confs = 200  elapsed time (s) = 0.27
+----------------------------------
+Title = SPB 08222     "3-(2,6-dichlorophenyl)-4-[4-(2,3-dihydro-1,4-be
+Num confs = 136  elapsed time (s) = 0.05
+----------------------------------
+Title = SPB 08260     3-(tert-butyl)-1-(mesitylmethyl)-N-[3-(trifluoro
+Num confs = 110  elapsed time (s) = 0.45
+----------------------------------
+Title = SPB 08316     "2-{[(2,4-dichloro-5-methylphenyl)sulfonyl]amino
+Num confs = 147  elapsed time (s) = 0.18
+----------------------------------
+Title = SPB 08366     "N-(3,4-dichlorophenyl)benzamide"
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 08377     "2,3-dichloro-N-pyridin-3-ylbenzamide"
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 08389     "N-(6-methoxypyridin-3-yl)-3,5-bis(trifluorometh
+Num confs = 12  elapsed time (s) = 0.02
+----------------------------------
+Title = SPB 08441     N-(1-benzylpiperidin-4-yl)-N`-(tert-butyl)thiour
+Num confs = 24  elapsed time (s) = 0.16
+----------------------------------
+Title = SS 00042      "3-(4,5-diphenyl-1,3-oxazol-2-yl)propanoic acid"
+Num confs = 176  elapsed time (s) = 0.57
+----------------------------------
+Title = SW 00055      N-ethyl-N`-(4-methoxyphenyl)-N-phenylthiourea
+Num confs = 41  elapsed time (s) = 0.05
+----------------------------------
+Title = TB 00009      1-[(4-methylphenyl)sulfonyl]-4-(2-phenoxyethyl)p
+Num confs = 172  elapsed time (s) = 0.19
+----------------------------------
+Title = TB 00028      "tert-butyl N-[1-(2,4-dichlorobenzoyl)piperidin-
+Num confs = 151  elapsed time (s) = 0.20
+----------------------------------
+Title = TG 00013      "1-methyl-5-(trifluoromethyl)-2,3-dihydro-1H-ben
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = TL 00206      "5-{[3-(trifluoromethyl)benzyl]thio}-1,3,4-thiad
+Num confs = 89  elapsed time (s) = 0.03
+----------------------------------
+Title = TL 00406      "1-{[2-(trifluoromethoxy)anilino]methyl}pyrrolid
+Num confs = 95  elapsed time (s) = 0.26
+----------------------------------
+Title = TL 00639      N1-(2-ethylphenyl)acetamide
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = TL 00729      "1-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphth
+Num confs = 4  elapsed time (s) = 0.06
+----------------------------------
+Title = TL 00786      "5-(ethylthio)-1,3,4-thiadiazol-2-amine"
+Num confs = 16  elapsed time (s) = 0.01
+----------------------------------
+Title = TL 00816      1-[(4-nitrophenyl)sulfonyl]piperidine
+Num confs = 11  elapsed time (s) = 0.03
+----------------------------------
+Title = TL 00858      1-(4-propylphenyl)ethan-1-one oxime
+Num confs = 16  elapsed time (s) = 0.01
+----------------------------------
+Title = TL 00951      tert-butyl 4-(aminocarbonyl)tetrahydropyridine-1
+Num confs = 49  elapsed time (s) = 0.12
+----------------------------------
+Title = XAX 00138     "5-{2-[(4-methylphenyl)thio]-5-nitrobenzylidene}
+Num confs = 43  elapsed time (s) = 0.02
+----------------------------------
+Title = XBX 00035     "6-(2-thienyl)-2,3,4,5-tetrahydropyridazin-3-one
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 01616     1-[2-(2-piperidyl)ethyl]piperidine dihydrochlori
+Num confs = 38  elapsed time (s) = 0.04
+----------------------------------
+Title = SEW 01856     methyl 3-(5-acetyl-2-furyl)thiophene-2-carboxyla
+Num confs = 92  elapsed time (s) = 0.03
+----------------------------------
+Title = XBX 00107     2-phenyl-2-piperidinoacetonitrile
+Num confs = 7  elapsed time (s) = 0.03
+----------------------------------
+Title = XBX 00134     2-[2-(2-pyridyloxy)ethoxy]pyridine
+Num confs = 144  elapsed time (s) = 0.14
+----------------------------------
+Title = XBX 00205     "diethyl 2-phenyl-1,3-thiazole-4,5-dicarboxylate
+Num confs = 200  elapsed time (s) = 1.31
+----------------------------------
+Title = XBX 00245     "N-benzyl-N`-(3,4-dichlorophenyl)thiourea"
+Num confs = 91  elapsed time (s) = 0.03
+----------------------------------
+Title = XBX 00296     2-phenyl-2-propylsuccinic acid
+Num confs = 41  elapsed time (s) = 0.66
+----------------------------------
+Title = XBX 00322     "2,4-dianilinocyclopent-2-en-1-one"
+Num confs = 34  elapsed time (s) = 0.09
+----------------------------------
+Number of Molecules Processed = 1000
+Number of Molecules Failed = 52
+Elapsed time (s) = 250.7
+----------------------------------
+OMEGA job complete
+Finished

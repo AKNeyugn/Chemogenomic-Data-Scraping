@@ -1,0 +1,362 @@
+FAILED 
+Molecule: BTB 00693
+
+Warning: Can't assign MMFF type to atom number     8   C
+Warning: Can't assign MMFF type to atom number    20   H
+Warning: force field setup failed due to missing parameters for molecule BTB 00693
+----------------------------------
+FAILED 
+Molecule: BTB 04275
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'BTB 04275'
+Warning: BTB 04275 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: BTB 05144
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'BTB 05144'
+Warning: BTB 05144 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: BTB 08537
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'BTB 08537'
+Warning: BTB 08537 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: BTB 09041
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 5 of molecule 'BTB 09041'
+Warning: BTB 09041 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: BTB 10320
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'BTB 10320'
+Warning: BTB 10320 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: BTB 10539
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'BTB 10539'
+Warning: BTB 10539 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: BTB 11704
+
+Warning: Can't assign MMFF type to atom number     7   C
+Warning: force field setup failed due to missing parameters for molecule BTB 11704
+----------------------------------
+FAILED 
+Molecule: BTB 13761
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'BTB 13761'
+Warning: BTB 13761 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: CD 04975
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'CD 04975'
+Warning: CD 04975 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: FM 00217
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 5 of molecule 'FM 00217'
+Warning: FM 00217 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: HTS 07278
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'HTS 07278'
+Warning: HTS 07278 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: JA 00093
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'JA 00093'
+Warning: JA 00093 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: JA 00122
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'JA 00122'
+Warning: JA 00122 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: JA 00123
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'JA 00123'
+Warning: JA 00123 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: JFD 02062
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'JFD 02062'
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'JFD 02062'
+Warning: JFD 02062 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: KM 00369
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'KM 00369'
+Warning: KM 00369 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: KM 00691
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'KM 00691'
+Warning: KM 00691 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: KM 00694
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'KM 00694'
+Warning: KM 00694 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: KM 02190
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'KM 02190'
+Warning: KM 02190 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: KM 04069
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'KM 04069'
+Warning: KM 04069 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: KM 04879
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'KM 04879'
+Warning: KM 04879 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: KM 06072
+
+Warning: Can't assign MMFF type to atom number    15   S
+Warning: force field setup failed due to missing parameters for molecule KM 06072
+----------------------------------
+FAILED 
+Molecule: KM 06357
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'KM 06357'
+Warning: KM 06357 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: KM 06494
+
+Warning: Can't assign MMFF type to atom number     2   S
+Warning: force field setup failed due to missing parameters for molecule KM 06494
+----------------------------------
+FAILED 
+Molecule: KM 06944
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'KM 06944'
+Warning: KM 06944 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: KM 06947
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'KM 06947'
+Warning: KM 06947 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: KM 07972
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'KM 07972'
+Warning: KM 07972 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: KM 10431
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'KM 10431'
+Warning: KM 10431 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: MWP 00695
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'MWP 00695'
+Warning: MWP 00695 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: MWP 00820
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'MWP 00820'
+Warning: MWP 00820 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: MWP 00898
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'MWP 00898'
+Warning: MWP 00898 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: RDR 00184
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'RDR 00184'
+Warning: RDR 00184 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: RDR 02549
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'RDR 02549'
+Warning: RDR 02549 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: RH 01818
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'RH 01818'
+Warning: RH 01818 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: RJC 00994
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'RJC 00994'
+Warning: RJC 00994 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: RJC 01781
+
+Warning: Can't assign MMFF type to atom number    13   C
+Warning: force field setup failed due to missing parameters for molecule RJC 01781
+----------------------------------
+FAILED 
+Molecule: RJC 04107
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'RJC 04107'
+Warning: RJC 04107 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: RJF 00177
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'RJF 00177'
+Warning: RJF 00177 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: RJF 01592
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'RJF 01592'
+Warning: RJF 01592 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: S 03463
+
+Warning: Can't assign MMFF type to atom number     7   C
+Warning: Can't assign MMFF type to atom number    11   C
+Warning: Can't assign MMFF type to atom number    29   H
+Warning: Can't assign MMFF type to atom number    31   H
+Warning: force field setup failed due to missing parameters for molecule S 03463
+----------------------------------
+FAILED 
+Molecule: S 11074
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'S 11074'
+Warning: S 11074 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: S 15318
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'S 15318'
+Warning: S 15318 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: SEW 00547
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SEW 00547'
+Warning: SEW 00547 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: SEW 00578
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SEW 00578'
+Warning: SEW 00578 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: SEW 02680
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'SEW 02680'
+Warning: SEW 02680 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: SEW 02955
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SEW 02955'
+Warning: SEW 02955 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: SP 01325
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'SP 01325'
+Warning: SP 01325 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: SP 01345
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SP 01345'
+Warning: SP 01345 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: SP 01461
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SP 01461'
+Warning: SP 01461 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: SPB 03738
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'SPB 03738'
+Warning: SPB 03738 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: SPB 03788
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'SPB 03788'
+Warning: SPB 03788 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: SPB 04439
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'SPB 04439'
+Warning: SPB 04439 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: SPB 06982
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'SPB 06982'
+Warning: SPB 06982 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: SPB 06987
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'SPB 06987'
+Warning: SPB 06987 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: SPB 06992
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'SPB 06992'
+Warning: SPB 06992 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: SPB 07119
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'SPB 07119'
+Warning: SPB 07119 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: XAX 00021
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'XAX 00021'
+Warning: XAX 00021 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+FAILED 
+Molecule: XAX 00022
+
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'XAX 00022'
+Warning: XAX 00022 failed due to unspecified stereochemistry with strict stereo enabled
+----------------------------------
+Number of Molecules Processed = 678
+Number of Warnings = 59
+Number of Molecules Failed = 59

@@ -1,0 +1,2198 @@
+
+          :jGf:             .d8888b. 88d8b.d8b. .d8888b. .d8888b. .d8888b.
+        :jGDDDDf:           88'  `88 88'`88'`88 88ooood8 88'  `88 88'  `88
+      ,fDDDGjLDDDf,         88.  .88 88  88  88 88.  ... 88.  .88 88.  .88
+    ,fDDLt:   :iLDDL;       `88888P' dP  dP  dP `88888P' `8888P88 `88888P8
+  ;fDLt:         :tfDG;                                       .88
+,jft:   ,ijfffji,   :iff                                  d8888P
+     .jGDDDDDDDDDGt.      
+    ;GDDGt:''':tDDDG,          Copyright (c) 2004-2018
+   .DDDG:       :GDDG.         OpenEye Scientific Software, Inc.
+   ;DDDj         tDDDi    
+   ,DDDf         fDDD,         Version: 3.0.0.1
+    LDDDt.     .fDDDj          Built:   20180213
+    .tDDDDfjtjfDDDGt           OEChem version: 2.1.2
+      :ifGDDDDDGfi.            Platform: macOS-clang++6-x64
+          .:::.                
+  ......................       
+  DDDDDDDDDDDDDDDDDDDDDD       
+  DDDDDDDDDDDDDDDDDDDDDD       
+
+  Licensed for the exclusive use of The Laboratory of Rebecca L Davis.
+  Licensed for use only in University of Manitoba.
+  License expires on April 24, 2020.
+
+
+To cite OMEGA please use the following:
+  OMEGA 3.0.0.1: OpenEye Scientific Software, Santa Fe, NM, USA.
+  http://www.eyesopen.com, 2018
+
+  Hawkins, P.C.D.; Skillman, A.G.; Warren, G.L.; Ellingson, B.A.; Stahl, M.T.
+  Conformer Generation with OMEGA: Algorithm and Validation Using High
+  Quality Structures from the Protein Databank and the Cambridge 
+  Structural Database. J. Chem. Inf. Model. 2010, 50, 572-584.
+
+----------------------------------
+Title = AW 00255
+Num confs = 200  elapsed time (s) = 0.89
+----------------------------------
+Title = AW 00421
+Num confs = 200  elapsed time (s) = 0.11
+----------------------------------
+Title = AW 00430
+Num confs = 200  elapsed time (s) = 0.09
+----------------------------------
+Title = AW 00475
+Num confs = 200  elapsed time (s) = 0.12
+----------------------------------
+Title = AW 00480
+Num confs = 200  elapsed time (s) = 0.08
+----------------------------------
+Title = AW 00519
+Num confs = 200  elapsed time (s) = 0.24
+----------------------------------
+Title = AW 00564
+Num confs = 200  elapsed time (s) = 0.09
+----------------------------------
+Title = AW 00594
+Num confs = 63  elapsed time (s) = 0.08
+----------------------------------
+Title = AW 00603
+Num confs = 82  elapsed time (s) = 0.07
+----------------------------------
+Title = AW 00637
+Num confs = 200  elapsed time (s) = 0.17
+----------------------------------
+Title = AW 00845
+Num confs = 12  elapsed time (s) = 0.01
+----------------------------------
+Title = BR 00082
+Num confs = 168  elapsed time (s) = 0.06
+----------------------------------
+Title = BTB 00693
+Warning: Can't assign MMFF type to atom number     8   C
+Warning: Can't assign MMFF type to atom number    20   H
+Warning: force field setup failed due to missing parameters for molecule BTB 00693
+
+----------------------------------
+Title = BTB 00803
+Num confs = 23  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 01259
+Num confs = 200  elapsed time (s) = 0.64
+----------------------------------
+Title = BTB 01345
+Num confs = 200  elapsed time (s) = 0.38
+----------------------------------
+Title = BTB 01397
+Num confs = 21  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 01431
+Num confs = 30  elapsed time (s) = 0.74
+----------------------------------
+Title = BTB 01473
+Num confs = 200  elapsed time (s) = 0.10
+----------------------------------
+Title = BTB 01480
+Num confs = 61  elapsed time (s) = 0.04
+----------------------------------
+Title = BTB 01594
+Num confs = 200  elapsed time (s) = 0.35
+----------------------------------
+Title = BTB 02800
+Num confs = 118  elapsed time (s) = 0.11
+----------------------------------
+Title = BTB 02837
+Num confs = 41  elapsed time (s) = 0.55
+----------------------------------
+Title = BTB 03305
+Num confs = 89  elapsed time (s) = 0.39
+----------------------------------
+Title = BTB 03433
+Num confs = 75  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 03574
+Num confs = 12  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 03608
+Num confs = 168  elapsed time (s) = 0.11
+----------------------------------
+Title = BTB 03925
+Num confs = 86  elapsed time (s) = 0.12
+----------------------------------
+Title = BTB 04194
+Num confs = 200  elapsed time (s) = 0.08
+----------------------------------
+Title = BTB 04231
+Num confs = 42  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 04275
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'BTB 04275'
+Warning: BTB 04275 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 04463
+Num confs = 64  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 04719
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 04953
+Num confs = 200  elapsed time (s) = 0.05
+----------------------------------
+Title = BTB 05020
+Num confs = 9  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 05066
+Num confs = 11  elapsed time (s) = 0.50
+----------------------------------
+Title = BTB 05122
+Num confs = 200  elapsed time (s) = 0.64
+----------------------------------
+Title = BTB 05144
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'BTB 05144'
+Warning: BTB 05144 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 05336
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 05340
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 05419
+Num confs = 37  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 05486
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 05499
+Num confs = 200  elapsed time (s) = 0.15
+----------------------------------
+Title = BTB 05661
+Num confs = 58  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 05727
+Num confs = 200  elapsed time (s) = 0.41
+----------------------------------
+Title = BTB 06084
+Num confs = 200  elapsed time (s) = 0.18
+----------------------------------
+Title = BTB 06237
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 06387
+Num confs = 61  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 06428
+Num confs = 10  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 06691
+Num confs = 200  elapsed time (s) = 0.08
+----------------------------------
+Title = BTB 06791
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 07002
+Num confs = 70  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 07082
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 07328
+Num confs = 55  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 07385
+Num confs = 26  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 07880
+Num confs = 39  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 08239
+Num confs = 28  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 08317
+Num confs = 32  elapsed time (s) = 0.20
+----------------------------------
+Title = BTB 08363
+Num confs = 200  elapsed time (s) = 0.45
+----------------------------------
+Title = BTB 08370
+Num confs = 136  elapsed time (s) = 0.31
+----------------------------------
+Title = BTB 08512
+Num confs = 200  elapsed time (s) = 0.83
+----------------------------------
+Title = BTB 08537
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'BTB 08537'
+Warning: BTB 08537 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 08545
+Num confs = 68  elapsed time (s) = 0.05
+----------------------------------
+Title = BTB 08601
+Num confs = 16  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 09041
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 5 of molecule 'BTB 09041'
+Warning: BTB 09041 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 10282
+Num confs = 7  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 10320
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'BTB 10320'
+Warning: BTB 10320 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 10323
+Num confs = 8  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 10396
+Num confs = 44  elapsed time (s) = 0.03
+----------------------------------
+Title = BTB 10539
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'BTB 10539'
+Warning: BTB 10539 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 10705
+Num confs = 82  elapsed time (s) = 0.05
+----------------------------------
+Title = XBX 00150
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 11052
+Num confs = 200  elapsed time (s) = 0.32
+----------------------------------
+Title = BTB 11704
+Warning: Can't assign MMFF type to atom number     7   C
+Warning: force field setup failed due to missing parameters for molecule BTB 11704
+
+----------------------------------
+Title = BTB 11781
+Num confs = 200  elapsed time (s) = 0.27
+----------------------------------
+Title = BTB 11850
+Num confs = 200  elapsed time (s) = 0.19
+----------------------------------
+Title = BTB 12055
+Num confs = 200  elapsed time (s) = 0.77
+----------------------------------
+Title = BTB 12761
+Num confs = 35  elapsed time (s) = 0.16
+----------------------------------
+Title = BTB 12931
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 13088
+Num confs = 17  elapsed time (s) = 0.02
+----------------------------------
+Title = BTB 13588
+Num confs = 200  elapsed time (s) = 1.21
+----------------------------------
+Title = BTB 13702
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 13761
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'BTB 13761'
+Warning: BTB 13761 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = BTB 13763
+Num confs = 200  elapsed time (s) = 0.83
+----------------------------------
+Title = BTB 13765
+Num confs = 200  elapsed time (s) = 0.24
+----------------------------------
+Title = BTB 13845
+Num confs = 40  elapsed time (s) = 0.04
+----------------------------------
+Title = BTB 14058
+Num confs = 2  elapsed time (s) = 0.44
+----------------------------------
+Title = BTB 14154
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = BTB 14688
+Num confs = 16  elapsed time (s) = 0.01
+----------------------------------
+Title = BTB 14851
+Num confs = 6  elapsed time (s) = 0.26
+----------------------------------
+Title = BTB 14852
+Num confs = 13  elapsed time (s) = 0.05
+----------------------------------
+Title = BTB 14910
+Num confs = 26  elapsed time (s) = 0.02
+----------------------------------
+Title = BTBG 00025
+Num confs = 34  elapsed time (s) = 0.77
+----------------------------------
+Title = CD 00707
+Num confs = 109  elapsed time (s) = 0.28
+----------------------------------
+Title = CD 00752
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 00756
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 00758
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 00759
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 00823
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 00995
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 01737
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 01803
+Num confs = 158  elapsed time (s) = 0.10
+----------------------------------
+Title = CD 01912
+Num confs = 200  elapsed time (s) = 1.22
+----------------------------------
+Title = CD 02044
+Num confs = 72  elapsed time (s) = 0.04
+----------------------------------
+Title = CD 02158
+Num confs = 94  elapsed time (s) = 0.12
+----------------------------------
+Title = CD 02448
+Num confs = 59  elapsed time (s) = 0.05
+----------------------------------
+Title = CD 02452
+Num confs = 69  elapsed time (s) = 0.07
+----------------------------------
+Title = CD 02506
+Num confs = 200  elapsed time (s) = 0.47
+----------------------------------
+Title = CD 02717
+Num confs = 200  elapsed time (s) = 0.27
+----------------------------------
+Title = CD 02744
+Num confs = 200  elapsed time (s) = 0.25
+----------------------------------
+Title = CD 02745
+Num confs = 200  elapsed time (s) = 0.26
+----------------------------------
+Title = CD 02761
+Num confs = 40  elapsed time (s) = 0.03
+----------------------------------
+Title = CD 02830
+Num confs = 108  elapsed time (s) = 0.12
+----------------------------------
+Title = CD 02841
+Num confs = 200  elapsed time (s) = 0.61
+----------------------------------
+Title = CD 02860
+Num confs = 200  elapsed time (s) = 0.08
+----------------------------------
+Title = CD 02966
+Num confs = 200  elapsed time (s) = 0.59
+----------------------------------
+Title = CD 03254
+Num confs = 79  elapsed time (s) = 0.31
+----------------------------------
+Title = CD 03308
+Num confs = 3  elapsed time (s) = 0.02
+----------------------------------
+Title = CD 03678
+Num confs = 49  elapsed time (s) = 0.06
+----------------------------------
+Title = CD 04032
+Num confs = 64  elapsed time (s) = 0.07
+----------------------------------
+Title = CD 04236
+Num confs = 9  elapsed time (s) = 0.06
+----------------------------------
+Title = CD 04254
+Num confs = 21  elapsed time (s) = 0.05
+----------------------------------
+Title = CD 04583
+Num confs = 10  elapsed time (s) = 0.09
+----------------------------------
+Title = CD 04975
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'CD 04975'
+Warning: CD 04975 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = CD 05071
+Num confs = 200  elapsed time (s) = 0.40
+----------------------------------
+Title = CD 05259
+Num confs = 200  elapsed time (s) = 0.68
+----------------------------------
+Title = CD 05404
+Num confs = 6  elapsed time (s) = 0.02
+----------------------------------
+Title = CD 05753
+Num confs = 200  elapsed time (s) = 2.77
+----------------------------------
+Title = CD 06082
+Num confs = 200  elapsed time (s) = 0.58
+----------------------------------
+Title = CD 06608
+Num confs = 78  elapsed time (s) = 0.02
+----------------------------------
+Title = CD 06678
+Num confs = 4  elapsed time (s) = 0.44
+----------------------------------
+Title = CD 06681
+Num confs = 2  elapsed time (s) = 0.32
+----------------------------------
+Title = CD 06828
+Num confs = 14  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 06834
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 06872
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 06919
+Num confs = 13  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 07342
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 08368
+Num confs = 20  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 08396
+Num confs = 5  elapsed time (s) = 0.02
+----------------------------------
+Title = CD 08635
+Num confs = 12  elapsed time (s) = 0.04
+----------------------------------
+Title = CD 09291
+Num confs = 200  elapsed time (s) = 0.13
+----------------------------------
+Title = CD 09658
+Num confs = 18  elapsed time (s) = 0.01
+----------------------------------
+Title = CD 09661
+Num confs = 104  elapsed time (s) = 0.22
+----------------------------------
+Title = CD 09821
+Num confs = 200  elapsed time (s) = 1.08
+----------------------------------
+Title = CD 10699
+Num confs = 175  elapsed time (s) = 0.06
+----------------------------------
+Title = CD 10742
+Num confs = 80  elapsed time (s) = 0.12
+----------------------------------
+Title = CD 10788
+Num confs = 66  elapsed time (s) = 0.19
+----------------------------------
+Title = CD 11359
+Num confs = 13  elapsed time (s) = 0.02
+----------------------------------
+Title = DFP 00056
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = DFP 00315
+Num confs = 200  elapsed time (s) = 0.05
+----------------------------------
+Title = DP 00330
+Num confs = 30  elapsed time (s) = 0.03
+----------------------------------
+Title = DP 00453
+Num confs = 189  elapsed time (s) = 0.53
+----------------------------------
+Title = DP 00477
+Num confs = 200  elapsed time (s) = 1.03
+----------------------------------
+Title = DP 00750
+Num confs = 100  elapsed time (s) = 0.21
+----------------------------------
+Title = DP 00881
+Num confs = 41  elapsed time (s) = 0.02
+----------------------------------
+Title = DP 01415
+Num confs = 10  elapsed time (s) = 0.01
+----------------------------------
+Title = DP 01417
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = DP 01887
+Num confs = 152  elapsed time (s) = 0.18
+----------------------------------
+Title = DP 01888
+Num confs = 143  elapsed time (s) = 0.03
+----------------------------------
+Title = DP 02004
+Num confs = 14  elapsed time (s) = 0.01
+----------------------------------
+Title = DSHS 00540
+Num confs = 200  elapsed time (s) = 0.19
+----------------------------------
+Title = EN 00070
+Num confs = 200  elapsed time (s) = 0.87
+----------------------------------
+Title = EN 00220
+Num confs = 200  elapsed time (s) = 0.13
+----------------------------------
+Title = FM 00211
+Num confs = 200  elapsed time (s) = 0.15
+----------------------------------
+Title = FM 00217
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 5 of molecule 'FM 00217'
+Warning: FM 00217 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = FM 00281
+Num confs = 200  elapsed time (s) = 0.32
+----------------------------------
+Title = GK 00584
+Num confs = 53  elapsed time (s) = 0.04
+----------------------------------
+Title = GK 00860
+Num confs = 10  elapsed time (s) = 0.05
+----------------------------------
+Title = GK 00898
+Num confs = 184  elapsed time (s) = 1.02
+----------------------------------
+Title = GK 01359
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = GK 01594
+Num confs = 200  elapsed time (s) = 0.18
+----------------------------------
+Title = GK 02006
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = GK 02221
+Num confs = 31  elapsed time (s) = 0.14
+----------------------------------
+Title = GK 02386
+Num confs = 120  elapsed time (s) = 0.07
+----------------------------------
+Title = GK 02445
+Num confs = 158  elapsed time (s) = 0.85
+----------------------------------
+Title = GK 02598
+Num confs = 200  elapsed time (s) = 1.41
+----------------------------------
+Title = GK 02688
+Num confs = 200  elapsed time (s) = 0.30
+----------------------------------
+Title = GK 02714
+Num confs = 200  elapsed time (s) = 1.38
+----------------------------------
+Title = GK 02719
+Num confs = 121  elapsed time (s) = 0.18
+----------------------------------
+Title = GK 03380
+Num confs = 16  elapsed time (s) = 0.02
+----------------------------------
+Title = HAN 00069
+Num confs = 18  elapsed time (s) = 0.04
+----------------------------------
+Title = HAN 00102
+Num confs = 77  elapsed time (s) = 0.02
+----------------------------------
+Title = HAN 00332
+Num confs = 200  elapsed time (s) = 0.81
+----------------------------------
+Title = HAN 00369
+Num confs = 59  elapsed time (s) = 0.34
+----------------------------------
+Title = HAN 00373
+Num confs = 200  elapsed time (s) = 2.11
+----------------------------------
+Title = HAN 00388
+Num confs = 200  elapsed time (s) = 0.45
+----------------------------------
+Title = HR 00030
+Num confs = 200  elapsed time (s) = 0.21
+----------------------------------
+Title = HTS 00002
+Num confs = 26  elapsed time (s) = 0.02
+----------------------------------
+Title = HTS 00332
+Num confs = 91  elapsed time (s) = 0.17
+----------------------------------
+Title = HTS 00945
+Num confs = 200  elapsed time (s) = 0.36
+----------------------------------
+Title = HTS 01021
+Num confs = 114  elapsed time (s) = 0.03
+----------------------------------
+Title = HTS 01155
+Num confs = 175  elapsed time (s) = 0.56
+----------------------------------
+Title = HTS 01365
+Num confs = 200  elapsed time (s) = 0.27
+----------------------------------
+Title = HTS 01522
+Num confs = 7  elapsed time (s) = 0.39
+----------------------------------
+Title = HTS 01570
+Num confs = 58  elapsed time (s) = 0.03
+----------------------------------
+Title = HTS 01707
+Num confs = 22  elapsed time (s) = 0.23
+----------------------------------
+Title = HTS 01770
+Num confs = 124  elapsed time (s) = 0.03
+----------------------------------
+Title = HTS 01796
+Num confs = 17  elapsed time (s) = 0.02
+----------------------------------
+Title = HTS 01884
+Num confs = 116  elapsed time (s) = 0.22
+----------------------------------
+Title = HTS 01888
+Num confs = 200  elapsed time (s) = 0.10
+----------------------------------
+Title = HTS 02290
+Num confs = 200  elapsed time (s) = 0.19
+----------------------------------
+Title = HTS 02696
+Num confs = 200  elapsed time (s) = 0.11
+----------------------------------
+Title = HTS 03200
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = HTS 03395
+Num confs = 200  elapsed time (s) = 0.27
+----------------------------------
+Title = HTS 03520
+Num confs = 133  elapsed time (s) = 0.09
+----------------------------------
+Title = HTS 03640
+Num confs = 98  elapsed time (s) = 0.02
+----------------------------------
+Title = HTS 03642
+Num confs = 82  elapsed time (s) = 0.02
+----------------------------------
+Title = HTS 03649
+Num confs = 68  elapsed time (s) = 0.02
+----------------------------------
+Title = HTS 03656
+Num confs = 60  elapsed time (s) = 0.02
+----------------------------------
+Title = HTS 03658
+Num confs = 39  elapsed time (s) = 0.02
+----------------------------------
+Title = HTS 03826
+Num confs = 18  elapsed time (s) = 0.07
+----------------------------------
+Title = HTS 03843
+Num confs = 193  elapsed time (s) = 0.13
+----------------------------------
+Title = HTS 03872
+Num confs = 67  elapsed time (s) = 0.02
+----------------------------------
+Title = HTS 03942
+Num confs = 200  elapsed time (s) = 0.82
+----------------------------------
+Title = HTS 04041
+Num confs = 197  elapsed time (s) = 0.36
+----------------------------------
+Title = HTS 04228
+Num confs = 200  elapsed time (s) = 0.09
+----------------------------------
+Title = HTS 04271
+Num confs = 68  elapsed time (s) = 0.12
+----------------------------------
+Title = HTS 04496
+Num confs = 87  elapsed time (s) = 0.03
+----------------------------------
+Title = HTS 04857
+Num confs = 44  elapsed time (s) = 0.03
+----------------------------------
+Title = HTS 05029
+Num confs = 66  elapsed time (s) = 0.02
+----------------------------------
+Title = HTS 05109
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = HTS 05340
+Num confs = 200  elapsed time (s) = 0.09
+----------------------------------
+Title = HTS 05483
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = HTS 05532
+Num confs = 200  elapsed time (s) = 0.12
+----------------------------------
+Title = HTS 05534
+Num confs = 200  elapsed time (s) = 0.23
+----------------------------------
+Title = HTS 05535
+Num confs = 200  elapsed time (s) = 0.18
+----------------------------------
+Title = HTS 05583
+Num confs = 29  elapsed time (s) = 0.02
+----------------------------------
+Title = HTS 05647
+Num confs = 51  elapsed time (s) = 0.02
+----------------------------------
+Title = HTS 05668
+Num confs = 92  elapsed time (s) = 0.02
+----------------------------------
+Title = HTS 05759
+Num confs = 200  elapsed time (s) = 0.19
+----------------------------------
+Title = HTS 06154
+Num confs = 74  elapsed time (s) = 0.02
+----------------------------------
+Title = HTS 06155
+Num confs = 91  elapsed time (s) = 0.02
+----------------------------------
+Title = HTS 06168
+Num confs = 30  elapsed time (s) = 0.03
+----------------------------------
+Title = HTS 06170
+Num confs = 40  elapsed time (s) = 0.02
+----------------------------------
+Title = HTS 06460
+Num confs = 200  elapsed time (s) = 0.09
+----------------------------------
+Title = HTS 06578
+Num confs = 200  elapsed time (s) = 0.22
+----------------------------------
+Title = HTS 06803
+Num confs = 200  elapsed time (s) = 0.18
+----------------------------------
+Title = HTS 07134
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = HTS 07278
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'HTS 07278'
+Warning: HTS 07278 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = HTS 07280
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = HTS 07401
+Num confs = 200  elapsed time (s) = 0.12
+----------------------------------
+Title = HTS 07682
+Num confs = 26  elapsed time (s) = 0.02
+----------------------------------
+Title = HTS 07814
+Num confs = 34  elapsed time (s) = 0.20
+----------------------------------
+Title = HTS 07816
+Num confs = 46  elapsed time (s) = 0.03
+----------------------------------
+Title = HTS 08734
+Num confs = 200  elapsed time (s) = 0.11
+----------------------------------
+Title = HTS 09993
+Num confs = 10  elapsed time (s) = 0.02
+----------------------------------
+Title = JA 00093
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'JA 00093'
+Warning: JA 00093 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = JA 00122
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'JA 00122'
+Warning: JA 00122 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = JA 00123
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'JA 00123'
+Warning: JA 00123 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = JFD 00022
+Num confs = 63  elapsed time (s) = 0.68
+----------------------------------
+Title = JFD 00150
+Num confs = 200  elapsed time (s) = 0.20
+----------------------------------
+Title = JFD 00422
+Num confs = 21  elapsed time (s) = 0.01
+----------------------------------
+Title = JFD 00597
+Num confs = 90  elapsed time (s) = 0.03
+----------------------------------
+Title = JFD 00950
+Num confs = 10  elapsed time (s) = 0.06
+----------------------------------
+Title = JFD 00972
+Num confs = 34  elapsed time (s) = 0.03
+----------------------------------
+Title = JFD 01192
+Num confs = 144  elapsed time (s) = 0.21
+----------------------------------
+Title = JFD 01208
+Num confs = 20  elapsed time (s) = 0.10
+----------------------------------
+Title = JFD 01516
+Num confs = 200  elapsed time (s) = 0.53
+----------------------------------
+Title = JFD 01755
+Num confs = 1  elapsed time (s) = 0.02
+----------------------------------
+Title = JFD 01898
+Num confs = 200  elapsed time (s) = 0.12
+----------------------------------
+Title = JFD 01986
+Num confs = 44  elapsed time (s) = 0.02
+----------------------------------
+Title = JFD 02062
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'JFD 02062'
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'JFD 02062'
+Warning: JFD 02062 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = JFD 02125
+Num confs = 29  elapsed time (s) = 0.06
+----------------------------------
+Title = JFD 02170
+Num confs = 62  elapsed time (s) = 0.62
+----------------------------------
+Title = JFD 02331
+Num confs = 190  elapsed time (s) = 0.28
+----------------------------------
+Title = JFD 02393
+Num confs = 4  elapsed time (s) = 0.02
+----------------------------------
+Title = JFD 02584
+Num confs = 18  elapsed time (s) = 0.31
+----------------------------------
+Title = JFD 02882
+Num confs = 26  elapsed time (s) = 0.01
+----------------------------------
+Title = JFD 03027
+Num confs = 200  elapsed time (s) = 0.28
+----------------------------------
+Title = JFD 03028
+Num confs = 200  elapsed time (s) = 0.14
+----------------------------------
+Title = JFD 03033
+Num confs = 44  elapsed time (s) = 0.03
+----------------------------------
+Title = JFD 03155
+Num confs = 200  elapsed time (s) = 0.34
+----------------------------------
+Title = JFD 03196
+Num confs = 200  elapsed time (s) = 0.56
+----------------------------------
+Title = JFD 03398
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = JFD 03446
+Num confs = 46  elapsed time (s) = 0.02
+----------------------------------
+Title = JFD 03520
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = JFD 03916
+Num confs = 12  elapsed time (s) = 0.01
+----------------------------------
+Title = JP 00319
+Num confs = 12  elapsed time (s) = 0.01
+----------------------------------
+Title = JP 00336
+Num confs = 12  elapsed time (s) = 0.02
+----------------------------------
+Title = JP 00414
+Num confs = 19  elapsed time (s) = 0.01
+----------------------------------
+Title = JP 00451
+Num confs = 200  elapsed time (s) = 0.12
+----------------------------------
+Title = JP 00512
+Num confs = 93  elapsed time (s) = 0.18
+----------------------------------
+Title = JP 00697
+Num confs = 40  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 00261
+Num confs = 45  elapsed time (s) = 0.22
+----------------------------------
+Title = KM 00313
+Num confs = 200  elapsed time (s) = 0.43
+----------------------------------
+Title = KM 00369
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'KM 00369'
+Warning: KM 00369 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 00512
+Num confs = 9  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 00593
+Num confs = 200  elapsed time (s) = 0.38
+----------------------------------
+Title = KM 00691
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'KM 00691'
+Warning: KM 00691 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 00694
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'KM 00694'
+Warning: KM 00694 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 00792
+Num confs = 103  elapsed time (s) = 0.58
+----------------------------------
+Title = KM 00799
+Num confs = 200  elapsed time (s) = 0.07
+----------------------------------
+Title = KM 00887
+Num confs = 50  elapsed time (s) = 0.49
+----------------------------------
+Title = KM 01046
+Num confs = 48  elapsed time (s) = 0.24
+----------------------------------
+Title = KM 01284
+Num confs = 76  elapsed time (s) = 0.06
+----------------------------------
+Title = KM 02067
+Num confs = 138  elapsed time (s) = 0.03
+----------------------------------
+Title = KM 02190
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'KM 02190'
+Warning: KM 02190 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 02224
+Num confs = 200  elapsed time (s) = 0.14
+----------------------------------
+Title = KM 02231
+Num confs = 93  elapsed time (s) = 0.08
+----------------------------------
+Title = KM 03772
+Num confs = 200  elapsed time (s) = 0.13
+----------------------------------
+Title = KM 03965
+Num confs = 200  elapsed time (s) = 0.11
+----------------------------------
+Title = KM 04019
+Num confs = 200  elapsed time (s) = 0.23
+----------------------------------
+Title = KM 04031
+Num confs = 200  elapsed time (s) = 0.41
+----------------------------------
+Title = KM 04069
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'KM 04069'
+Warning: KM 04069 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 04177
+Num confs = 79  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 04680
+Num confs = 200  elapsed time (s) = 0.16
+----------------------------------
+Title = KM 04879
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'KM 04879'
+Warning: KM 04879 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 04991
+Num confs = 107  elapsed time (s) = 0.11
+----------------------------------
+Title = KM 05302
+Num confs = 200  elapsed time (s) = 0.12
+----------------------------------
+Title = KM 05362
+Num confs = 20  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 05490
+Num confs = 22  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 05662
+Num confs = 7  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 05872
+Num confs = 200  elapsed time (s) = 0.25
+----------------------------------
+Title = KM 05969
+Num confs = 200  elapsed time (s) = 0.43
+----------------------------------
+Title = KM 05978
+Num confs = 200  elapsed time (s) = 0.36
+----------------------------------
+Title = KM 05992
+Num confs = 200  elapsed time (s) = 0.29
+----------------------------------
+Title = KM 06072
+Warning: Can't assign MMFF type to atom number    15   S
+Warning: force field setup failed due to missing parameters for molecule KM 06072
+
+----------------------------------
+Title = KM 06357
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'KM 06357'
+Warning: KM 06357 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 06408
+Num confs = 200  elapsed time (s) = 0.39
+----------------------------------
+Title = KM 06494
+Warning: Can't assign MMFF type to atom number     2   S
+Warning: force field setup failed due to missing parameters for molecule KM 06494
+
+----------------------------------
+Title = KM 06508
+Num confs = 200  elapsed time (s) = 0.33
+----------------------------------
+Title = KM 06529
+Num confs = 99  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 06598
+Num confs = 200  elapsed time (s) = 0.33
+----------------------------------
+Title = KM 06623
+Num confs = 64  elapsed time (s) = 0.05
+----------------------------------
+Title = KM 06760
+Num confs = 186  elapsed time (s) = 0.10
+----------------------------------
+Title = KM 06859
+Num confs = 200  elapsed time (s) = 0.10
+----------------------------------
+Title = KM 06944
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'KM 06944'
+Warning: KM 06944 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 06947
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'KM 06947'
+Warning: KM 06947 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 06986
+Num confs = 200  elapsed time (s) = 0.71
+----------------------------------
+Title = KM 07115
+Num confs = 62  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 07522
+Num confs = 200  elapsed time (s) = 0.29
+----------------------------------
+Title = KM 07972
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'KM 07972'
+Warning: KM 07972 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 08102
+Num confs = 46  elapsed time (s) = 0.12
+----------------------------------
+Title = KM 08103
+Num confs = 94  elapsed time (s) = 0.13
+----------------------------------
+Title = KM 08197
+Num confs = 1  elapsed time (s) = 0.00
+----------------------------------
+Title = KM 08240
+Num confs = 200  elapsed time (s) = 0.16
+----------------------------------
+Title = KM 08355
+Num confs = 15  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 08451
+Num confs = 176  elapsed time (s) = 0.13
+----------------------------------
+Title = KM 08487
+Num confs = 6  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 08488
+Num confs = 6  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 08871
+Num confs = 200  elapsed time (s) = 7.24
+----------------------------------
+Title = KM 08947
+Num confs = 13  elapsed time (s) = 0.04
+----------------------------------
+Title = KM 09016
+Num confs = 137  elapsed time (s) = 0.12
+----------------------------------
+Title = KM 09752
+Num confs = 40  elapsed time (s) = 0.02
+----------------------------------
+Title = KM 09853
+Num confs = 70  elapsed time (s) = 0.06
+----------------------------------
+Title = KM 10126
+Num confs = 14  elapsed time (s) = 0.04
+----------------------------------
+Title = KM 10139
+Num confs = 44  elapsed time (s) = 0.06
+----------------------------------
+Title = KM 10261
+Num confs = 200  elapsed time (s) = 0.16
+----------------------------------
+Title = KM 10376
+Num confs = 4  elapsed time (s) = 0.08
+----------------------------------
+Title = KM 10431
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'KM 10431'
+Warning: KM 10431 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = KM 10664
+Num confs = 3  elapsed time (s) = 0.03
+----------------------------------
+Title = KM 11032
+Num confs = 47  elapsed time (s) = 0.08
+----------------------------------
+Title = KM 11072
+Num confs = 14  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 11080
+Num confs = 16  elapsed time (s) = 0.01
+----------------------------------
+Title = KM 11083
+Num confs = 101  elapsed time (s) = 0.12
+----------------------------------
+Title = MBE 00086
+Num confs = 39  elapsed time (s) = 0.03
+----------------------------------
+Title = MGH 00136
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = MGH 00152
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = MGH 00233
+Num confs = 106  elapsed time (s) = 0.10
+----------------------------------
+Title = ML 00034
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = ML 00059
+Num confs = 12  elapsed time (s) = 0.01
+----------------------------------
+Title = ML 00079
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = ML 00080
+Num confs = 9  elapsed time (s) = 0.01
+----------------------------------
+Title = ML 00220
+Num confs = 68  elapsed time (s) = 0.12
+----------------------------------
+Title = ML 00239
+Num confs = 199  elapsed time (s) = 0.54
+----------------------------------
+Title = MWP 00307
+Num confs = 114  elapsed time (s) = 0.02
+----------------------------------
+Title = MWP 00545
+Num confs = 134  elapsed time (s) = 0.03
+----------------------------------
+Title = MWP 00695
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'MWP 00695'
+Warning: MWP 00695 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = MWP 00776
+Num confs = 13  elapsed time (s) = 0.02
+----------------------------------
+Title = MWP 00820
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'MWP 00820'
+Warning: MWP 00820 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = MWP 00898
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'MWP 00898'
+Warning: MWP 00898 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = MWP 00917
+Num confs = 148  elapsed time (s) = 0.12
+----------------------------------
+Title = MWP 00918
+Num confs = 146  elapsed time (s) = 0.12
+----------------------------------
+Title = NH 00081
+Num confs = 88  elapsed time (s) = 0.56
+----------------------------------
+Title = NH 00308
+Num confs = 21  elapsed time (s) = 0.01
+----------------------------------
+Title = NH 00472
+Num confs = 39  elapsed time (s) = 0.33
+----------------------------------
+Title = NH 00699
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = P 00093
+Num confs = 14  elapsed time (s) = 0.20
+----------------------------------
+Title = PD 00357
+Num confs = 133  elapsed time (s) = 0.04
+----------------------------------
+Title = PD 00616
+Num confs = 193  elapsed time (s) = 0.19
+----------------------------------
+Title = PD 00617
+Num confs = 20  elapsed time (s) = 0.02
+----------------------------------
+Title = PD 00637
+Num confs = 200  elapsed time (s) = 0.32
+----------------------------------
+Title = PHG 00723
+Num confs = 13  elapsed time (s) = 0.68
+----------------------------------
+Title = PHG 00954
+Num confs = 11  elapsed time (s) = 0.39
+----------------------------------
+Title = PHG 01048
+Num confs = 83  elapsed time (s) = 0.19
+----------------------------------
+Title = RB 00030
+Num confs = 15  elapsed time (s) = 0.15
+----------------------------------
+Title = RDR 00184
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'RDR 00184'
+Warning: RDR 00184 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = RDR 00515
+Num confs = 96  elapsed time (s) = 0.66
+----------------------------------
+Title = RDR 00803
+Num confs = 200  elapsed time (s) = 0.08
+----------------------------------
+Title = RDR 00835
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = RDR 00909
+Num confs = 113  elapsed time (s) = 0.05
+----------------------------------
+Title = XAX 00144
+Num confs = 30  elapsed time (s) = 0.19
+----------------------------------
+Title = RDR 00913
+Num confs = 200  elapsed time (s) = 0.12
+----------------------------------
+Title = RDR 01044
+Num confs = 1  elapsed time (s) = 0.08
+----------------------------------
+Title = RDR 01070
+Num confs = 14  elapsed time (s) = 0.05
+----------------------------------
+Title = RDR 01132
+Num confs = 200  elapsed time (s) = 0.80
+----------------------------------
+Title = RDR 01178
+Num confs = 68  elapsed time (s) = 0.46
+----------------------------------
+Title = RDR 01267
+Num confs = 200  elapsed time (s) = 0.21
+----------------------------------
+Title = RDR 01299
+Num confs = 200  elapsed time (s) = 0.05
+----------------------------------
+Title = RDR 01685
+Num confs = 116  elapsed time (s) = 0.19
+----------------------------------
+Title = RDR 01792
+Num confs = 137  elapsed time (s) = 0.06
+----------------------------------
+Title = RDR 01818
+Num confs = 20  elapsed time (s) = 0.01
+----------------------------------
+Title = RDR 02549
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'RDR 02549'
+Warning: RDR 02549 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = RDR 02630
+Num confs = 200  elapsed time (s) = 0.37
+----------------------------------
+Title = RDR 03295
+Num confs = 200  elapsed time (s) = 0.41
+----------------------------------
+Title = RDR 03443
+Num confs = 200  elapsed time (s) = 0.23
+----------------------------------
+Title = RDR 03520
+Num confs = 132  elapsed time (s) = 0.28
+----------------------------------
+Title = RDR 03667
+Num confs = 200  elapsed time (s) = 0.56
+----------------------------------
+Title = RDR 03804
+Num confs = 200  elapsed time (s) = 0.27
+----------------------------------
+Title = RDR 03950
+Num confs = 93  elapsed time (s) = 0.05
+----------------------------------
+Title = RDR 03984
+Num confs = 193  elapsed time (s) = 0.11
+----------------------------------
+Title = RF 00040
+Num confs = 15  elapsed time (s) = 0.10
+----------------------------------
+Title = RF 00797
+Num confs = 200  elapsed time (s) = 0.27
+----------------------------------
+Title = RF 01585
+Num confs = 75  elapsed time (s) = 0.30
+----------------------------------
+Title = RF 01765
+Num confs = 200  elapsed time (s) = 0.90
+----------------------------------
+Title = RF 02458
+Num confs = 73  elapsed time (s) = 0.04
+----------------------------------
+Title = RF 02465
+Num confs = 62  elapsed time (s) = 0.04
+----------------------------------
+Title = RF 03281
+Num confs = 200  elapsed time (s) = 0.15
+----------------------------------
+Title = RF 03485
+Num confs = 102  elapsed time (s) = 0.04
+----------------------------------
+Title = RF 03487
+Num confs = 200  elapsed time (s) = 0.14
+----------------------------------
+Title = RF 03928
+Num confs = 61  elapsed time (s) = 0.08
+----------------------------------
+Title = RF 03973
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = RF 04603
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = RF 04939
+Num confs = 200  elapsed time (s) = 0.20
+----------------------------------
+Title = RF 04999
+Num confs = 103  elapsed time (s) = 0.12
+----------------------------------
+Title = RF 05131
+Num confs = 41  elapsed time (s) = 0.37
+----------------------------------
+Title = RF 05391
+Num confs = 16  elapsed time (s) = 0.01
+----------------------------------
+Title = RF 05472
+Num confs = 17  elapsed time (s) = 0.02
+----------------------------------
+Title = RH 00102
+Num confs = 2  elapsed time (s) = 0.02
+----------------------------------
+Title = RH 00127
+Num confs = 62  elapsed time (s) = 0.20
+----------------------------------
+Title = RH 00151
+Num confs = 54  elapsed time (s) = 0.02
+----------------------------------
+Title = RH 00463
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 00511
+Num confs = 99  elapsed time (s) = 0.06
+----------------------------------
+Title = RH 00590
+Num confs = 200  elapsed time (s) = 0.11
+----------------------------------
+Title = RH 00646
+Num confs = 170  elapsed time (s) = 0.15
+----------------------------------
+Title = RH 00679
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 00801
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 01057
+Num confs = 16  elapsed time (s) = 0.13
+----------------------------------
+Title = RH 01143
+Num confs = 12  elapsed time (s) = 0.02
+----------------------------------
+Title = RH 01393
+Num confs = 200  elapsed time (s) = 0.09
+----------------------------------
+Title = RH 01446
+Num confs = 200  elapsed time (s) = 0.32
+----------------------------------
+Title = RH 01505
+Num confs = 200  elapsed time (s) = 0.19
+----------------------------------
+Title = RH 01625
+Num confs = 192  elapsed time (s) = 0.14
+----------------------------------
+Title = RH 01646
+Num confs = 200  elapsed time (s) = 0.56
+----------------------------------
+Title = RH 01669
+Num confs = 200  elapsed time (s) = 0.25
+----------------------------------
+Title = RH 01676
+Num confs = 200  elapsed time (s) = 0.09
+----------------------------------
+Title = RH 01739
+Num confs = 200  elapsed time (s) = 0.14
+----------------------------------
+Title = RH 01796
+Num confs = 32  elapsed time (s) = 0.01
+----------------------------------
+Title = RH 01805
+Num confs = 26  elapsed time (s) = 0.02
+----------------------------------
+Title = RH 01818
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'RH 01818'
+Warning: RH 01818 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = RH 02105
+Num confs = 200  elapsed time (s) = 0.12
+----------------------------------
+Title = RH 02128
+Num confs = 89  elapsed time (s) = 0.02
+----------------------------------
+Title = RJC 00145
+Num confs = 2  elapsed time (s) = 0.07
+----------------------------------
+Title = RJC 00155
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = RJC 00245
+Num confs = 47  elapsed time (s) = 0.16
+----------------------------------
+Title = RJC 00252
+Num confs = 46  elapsed time (s) = 0.16
+----------------------------------
+Title = RJC 00331
+Num confs = 31  elapsed time (s) = 0.09
+----------------------------------
+Title = RJC 00417
+Num confs = 192  elapsed time (s) = 0.08
+----------------------------------
+Title = RJC 00588
+Num confs = 6  elapsed time (s) = 0.13
+----------------------------------
+Title = RJC 00807
+Num confs = 9  elapsed time (s) = 0.17
+----------------------------------
+Title = RJC 00994
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'RJC 00994'
+Warning: RJC 00994 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = RJC 01442
+Num confs = 200  elapsed time (s) = 0.37
+----------------------------------
+Title = RJC 01539
+Num confs = 108  elapsed time (s) = 0.64
+----------------------------------
+Title = RJC 01734
+Num confs = 10  elapsed time (s) = 0.02
+----------------------------------
+Title = RJC 01781
+Warning: Can't assign MMFF type to atom number    13   C
+Warning: force field setup failed due to missing parameters for molecule RJC 01781
+
+----------------------------------
+Title = RJC 01829
+Num confs = 32  elapsed time (s) = 0.16
+----------------------------------
+Title = RJC 02711
+Num confs = 200  elapsed time (s) = 0.41
+----------------------------------
+Title = RJC 02988
+Num confs = 200  elapsed time (s) = 0.12
+----------------------------------
+Title = RJC 03048
+Num confs = 194  elapsed time (s) = 0.11
+----------------------------------
+Title = RJC 03423
+Num confs = 21  elapsed time (s) = 0.05
+----------------------------------
+Title = RJC 03612
+Num confs = 6  elapsed time (s) = 0.84
+----------------------------------
+Title = RJC 03734
+Num confs = 12  elapsed time (s) = 0.01
+----------------------------------
+Title = RJC 04020
+Num confs = 200  elapsed time (s) = 0.22
+----------------------------------
+Title = RJC 04043
+Num confs = 27  elapsed time (s) = 0.61
+----------------------------------
+Title = RJC 04107
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'RJC 04107'
+Warning: RJC 04107 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = RJF 00096
+Num confs = 16  elapsed time (s) = 0.01
+----------------------------------
+Title = RJF 00101
+Num confs = 200  elapsed time (s) = 0.83
+----------------------------------
+Title = RJF 00177
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'RJF 00177'
+Warning: RJF 00177 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = RJF 00373
+Num confs = 83  elapsed time (s) = 0.02
+----------------------------------
+Title = RJF 00692
+Num confs = 48  elapsed time (s) = 0.07
+----------------------------------
+Title = RJF 00962
+Num confs = 127  elapsed time (s) = 0.05
+----------------------------------
+Title = RJF 01592
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'RJF 01592'
+Warning: RJF 01592 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = RJF 01611
+Num confs = 42  elapsed time (s) = 0.04
+----------------------------------
+Title = RJF 01673
+Num confs = 174  elapsed time (s) = 0.11
+----------------------------------
+Title = RJF 01707
+Num confs = 200  elapsed time (s) = 0.26
+----------------------------------
+Title = RJF 01809
+Num confs = 160  elapsed time (s) = 0.21
+----------------------------------
+Title = RJF 01910
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = S 00827
+Num confs = 46  elapsed time (s) = 0.02
+----------------------------------
+Title = S 00988
+Num confs = 7  elapsed time (s) = 0.01
+----------------------------------
+Title = S 02187
+Num confs = 30  elapsed time (s) = 0.01
+----------------------------------
+Title = S 02337
+Num confs = 200  elapsed time (s) = 0.46
+----------------------------------
+Title = S 02347
+Num confs = 49  elapsed time (s) = 0.04
+----------------------------------
+Title = S 02357
+Num confs = 3  elapsed time (s) = 0.02
+----------------------------------
+Title = S 02362
+Num confs = 21  elapsed time (s) = 0.02
+----------------------------------
+Title = S 02850
+Num confs = 14  elapsed time (s) = 0.02
+----------------------------------
+Title = S 02991
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = S 03341
+Num confs = 8  elapsed time (s) = 0.02
+----------------------------------
+Title = S 03463
+Warning: Can't assign MMFF type to atom number     7   C
+Warning: Can't assign MMFF type to atom number    11   C
+Warning: Can't assign MMFF type to atom number    29   H
+Warning: Can't assign MMFF type to atom number    31   H
+Warning: force field setup failed due to missing parameters for molecule S 03463
+
+----------------------------------
+Title = S 03549
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = S 03773
+Num confs = 38  elapsed time (s) = 0.04
+----------------------------------
+Title = S 03882
+Num confs = 65  elapsed time (s) = 0.13
+----------------------------------
+Title = S 04283
+Num confs = 139  elapsed time (s) = 0.30
+----------------------------------
+Title = S 04361
+Num confs = 3  elapsed time (s) = 0.72
+----------------------------------
+Title = S 04527
+Num confs = 25  elapsed time (s) = 0.02
+----------------------------------
+Title = S 04718
+Num confs = 200  elapsed time (s) = 0.10
+----------------------------------
+Title = S 04720
+Num confs = 200  elapsed time (s) = 0.10
+----------------------------------
+Title = S 04777
+Num confs = 48  elapsed time (s) = 0.02
+----------------------------------
+Title = S 04914
+Num confs = 14  elapsed time (s) = 0.01
+----------------------------------
+Title = S 07044
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = S 07358
+Num confs = 200  elapsed time (s) = 0.12
+----------------------------------
+Title = S 08525
+Num confs = 5  elapsed time (s) = 0.02
+----------------------------------
+Title = S 08581
+Num confs = 46  elapsed time (s) = 0.08
+----------------------------------
+Title = S 09920
+Num confs = 4  elapsed time (s) = 0.10
+----------------------------------
+Title = S 10770
+Num confs = 180  elapsed time (s) = 0.09
+----------------------------------
+Title = S 10991
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = S 11074
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'S 11074'
+Warning: S 11074 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = S 11082
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = S 11468
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = S 11644
+Num confs = 8  elapsed time (s) = 0.27
+----------------------------------
+Title = S 11645
+Num confs = 10  elapsed time (s) = 0.01
+----------------------------------
+Title = S 11729
+Num confs = 6  elapsed time (s) = 0.02
+----------------------------------
+Title = S 12164
+Num confs = 17  elapsed time (s) = 0.26
+----------------------------------
+Title = S 12785
+Num confs = 8  elapsed time (s) = 0.02
+----------------------------------
+Title = S 13087
+Num confs = 16  elapsed time (s) = 0.02
+----------------------------------
+Title = S 13216
+Num confs = 18  elapsed time (s) = 0.65
+----------------------------------
+Title = S 13644
+Num confs = 17  elapsed time (s) = 0.54
+----------------------------------
+Title = S 13711
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = S 14382
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = S 14676
+Num confs = 200  elapsed time (s) = 0.21
+----------------------------------
+Title = S 14817
+Num confs = 61  elapsed time (s) = 0.23
+----------------------------------
+Title = S 14963
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = S 15169
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = S 15318
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'S 15318'
+Warning: S 15318 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = S 15517
+Num confs = 2  elapsed time (s) = 0.56
+----------------------------------
+Title = SEW 00547
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SEW 00547'
+Warning: SEW 00547 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SEW 00578
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SEW 00578'
+Warning: SEW 00578 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SEW 00747
+Num confs = 200  elapsed time (s) = 0.59
+----------------------------------
+Title = SEW 00834
+Num confs = 92  elapsed time (s) = 0.04
+----------------------------------
+Title = SEW 01049
+Num confs = 24  elapsed time (s) = 0.06
+----------------------------------
+Title = SEW 01145
+Num confs = 44  elapsed time (s) = 0.12
+----------------------------------
+Title = SEW 01165
+Num confs = 109  elapsed time (s) = 0.07
+----------------------------------
+Title = SEW 01297
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 01395
+Num confs = 83  elapsed time (s) = 0.36
+----------------------------------
+Title = SEW 01771
+Num confs = 200  elapsed time (s) = 0.14
+----------------------------------
+Title = SEW 01818
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 01917
+Num confs = 31  elapsed time (s) = 0.04
+----------------------------------
+Title = SEW 02447
+Num confs = 6  elapsed time (s) = 0.44
+----------------------------------
+Title = SEW 02506
+Num confs = 200  elapsed time (s) = 1.25
+----------------------------------
+Title = SEW 02609
+Num confs = 48  elapsed time (s) = 0.09
+----------------------------------
+Title = SEW 02632
+Num confs = 142  elapsed time (s) = 0.06
+----------------------------------
+Title = SEW 02680
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'SEW 02680'
+Warning: SEW 02680 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SEW 02817
+Num confs = 8  elapsed time (s) = 0.02
+----------------------------------
+Title = SEW 02955
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SEW 02955'
+Warning: SEW 02955 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SEW 02957
+Num confs = 200  elapsed time (s) = 0.63
+----------------------------------
+Title = SEW 02973
+Num confs = 137  elapsed time (s) = 0.08
+----------------------------------
+Title = SEW 03124
+Num confs = 200  elapsed time (s) = 0.38
+----------------------------------
+Title = SEW 03231
+Num confs = 103  elapsed time (s) = 0.06
+----------------------------------
+Title = SEW 03236
+Num confs = 45  elapsed time (s) = 0.06
+----------------------------------
+Title = SEW 03247
+Num confs = 137  elapsed time (s) = 0.10
+----------------------------------
+Title = SEW 03591
+Num confs = 144  elapsed time (s) = 0.09
+----------------------------------
+Title = SEW 03887
+Num confs = 148  elapsed time (s) = 0.22
+----------------------------------
+Title = SEW 04022
+Num confs = 200  elapsed time (s) = 3.52
+----------------------------------
+Title = SEW 04397
+Num confs = 152  elapsed time (s) = 0.05
+----------------------------------
+Title = SEW 04401
+Num confs = 200  elapsed time (s) = 0.26
+----------------------------------
+Title = SEW 04443
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 04461
+Num confs = 200  elapsed time (s) = 3.11
+----------------------------------
+Title = SEW 04667
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 04981
+Num confs = 32  elapsed time (s) = 0.06
+----------------------------------
+Title = SEW 05143
+Num confs = 14  elapsed time (s) = 0.02
+----------------------------------
+Title = SEW 05288
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 05290
+Num confs = 8  elapsed time (s) = 0.02
+----------------------------------
+Title = SEW 05298
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 05335
+Num confs = 1  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 05400
+Num confs = 3  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 05540
+Num confs = 18  elapsed time (s) = 0.02
+----------------------------------
+Title = SEW 05596
+Num confs = 4  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 05604
+Num confs = 200  elapsed time (s) = 0.31
+----------------------------------
+Title = SEW 05885
+Num confs = 200  elapsed time (s) = 0.08
+----------------------------------
+Title = SEW 05894
+Num confs = 12  elapsed time (s) = 0.04
+----------------------------------
+Title = SEW 05914
+Num confs = 200  elapsed time (s) = 0.17
+----------------------------------
+Title = SEW 05917
+Num confs = 200  elapsed time (s) = 0.31
+----------------------------------
+Title = SEW 05918
+Num confs = 200  elapsed time (s) = 0.30
+----------------------------------
+Title = SEW 05919
+Num confs = 200  elapsed time (s) = 0.38
+----------------------------------
+Title = SEW 05920
+Num confs = 200  elapsed time (s) = 0.27
+----------------------------------
+Title = SEW 05965
+Num confs = 43  elapsed time (s) = 0.05
+----------------------------------
+Title = SEW 06158
+Num confs = 16  elapsed time (s) = 0.03
+----------------------------------
+Title = SEW 06266
+Num confs = 54  elapsed time (s) = 0.12
+----------------------------------
+Title = SEW 06339
+Num confs = 71  elapsed time (s) = 0.37
+----------------------------------
+Title = SEW 06408
+Num confs = 200  elapsed time (s) = 0.13
+----------------------------------
+Title = SEW 06561
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = SEW 06562
+Num confs = 200  elapsed time (s) = 0.16
+----------------------------------
+Title = SEW 06581
+Num confs = 15  elapsed time (s) = 0.02
+----------------------------------
+Title = SJC 00125
+Num confs = 179  elapsed time (s) = 0.08
+----------------------------------
+Title = SJC 00128
+Num confs = 174  elapsed time (s) = 0.10
+----------------------------------
+Title = SJC 00146
+Num confs = 178  elapsed time (s) = 0.10
+----------------------------------
+Title = SJC 00180
+Num confs = 200  elapsed time (s) = 0.21
+----------------------------------
+Title = SJC 00207
+Num confs = 200  elapsed time (s) = 0.83
+----------------------------------
+Title = SJC 00209
+Num confs = 200  elapsed time (s) = 0.65
+----------------------------------
+Title = SJC 00210
+Num confs = 200  elapsed time (s) = 0.63
+----------------------------------
+Title = SJC 00213
+Num confs = 200  elapsed time (s) = 0.67
+----------------------------------
+Title = SJC 00393
+Num confs = 70  elapsed time (s) = 0.03
+----------------------------------
+Title = SP 00221
+Num confs = 22  elapsed time (s) = 0.02
+----------------------------------
+Title = SP 00413
+Num confs = 28  elapsed time (s) = 0.10
+----------------------------------
+Title = SP 00988
+Num confs = 200  elapsed time (s) = 0.23
+----------------------------------
+Title = SP 00994
+Num confs = 24  elapsed time (s) = 0.02
+----------------------------------
+Title = SP 01006
+Num confs = 200  elapsed time (s) = 0.19
+----------------------------------
+Title = SP 01057
+Num confs = 200  elapsed time (s) = 0.61
+----------------------------------
+Title = SP 01086
+Num confs = 37  elapsed time (s) = 0.02
+----------------------------------
+Title = SP 01104
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = SP 01325
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'SP 01325'
+Warning: SP 01325 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SP 01345
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SP 01345'
+Warning: SP 01345 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SP 01461
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SP 01461'
+Warning: SP 01461 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SPB 00192
+Num confs = 100  elapsed time (s) = 0.05
+----------------------------------
+Title = SPB 00258
+Num confs = 38  elapsed time (s) = 0.61
+----------------------------------
+Title = SPB 00265
+Num confs = 200  elapsed time (s) = 1.46
+----------------------------------
+Title = SPB 00414
+Num confs = 200  elapsed time (s) = 0.08
+----------------------------------
+Title = SPB 00429
+Num confs = 9  elapsed time (s) = 0.03
+----------------------------------
+Title = SPB 00432
+Num confs = 200  elapsed time (s) = 0.37
+----------------------------------
+Title = SPB 00506
+Num confs = 64  elapsed time (s) = 0.03
+----------------------------------
+Title = SPB 00525
+Num confs = 43  elapsed time (s) = 0.02
+----------------------------------
+Title = SPB 00526
+Num confs = 23  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 00828
+Num confs = 186  elapsed time (s) = 0.12
+----------------------------------
+Title = SPB 00849
+Num confs = 80  elapsed time (s) = 0.06
+----------------------------------
+Title = SPB 00970
+Num confs = 108  elapsed time (s) = 0.18
+----------------------------------
+Title = SPB 01018
+Num confs = 34  elapsed time (s) = 0.03
+----------------------------------
+Title = SPB 01044
+Num confs = 200  elapsed time (s) = 0.31
+----------------------------------
+Title = SPB 01291
+Num confs = 148  elapsed time (s) = 0.16
+----------------------------------
+Title = SPB 01674
+Num confs = 200  elapsed time (s) = 0.71
+----------------------------------
+Title = SPB 01895
+Num confs = 200  elapsed time (s) = 0.11
+----------------------------------
+Title = SPB 02109
+Num confs = 200  elapsed time (s) = 0.18
+----------------------------------
+Title = SPB 02129
+Num confs = 200  elapsed time (s) = 0.75
+----------------------------------
+Title = SPB 02138
+Num confs = 134  elapsed time (s) = 0.14
+----------------------------------
+Title = SPB 02669
+Num confs = 200  elapsed time (s) = 0.17
+----------------------------------
+Title = SPB 02720
+Num confs = 200  elapsed time (s) = 0.07
+----------------------------------
+Title = SPB 02722
+Num confs = 200  elapsed time (s) = 0.12
+----------------------------------
+Title = SPB 03034
+Num confs = 200  elapsed time (s) = 2.55
+----------------------------------
+Title = SPB 03081
+Num confs = 200  elapsed time (s) = 0.10
+----------------------------------
+Title = SPB 03084
+Num confs = 68  elapsed time (s) = 0.09
+----------------------------------
+Title = SPB 03086
+Num confs = 74  elapsed time (s) = 0.04
+----------------------------------
+Title = SPB 03384
+Num confs = 200  elapsed time (s) = 0.34
+----------------------------------
+Title = SPB 03738
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'SPB 03738'
+Warning: SPB 03738 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SPB 03788
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'SPB 03788'
+Warning: SPB 03788 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SPB 03907
+Num confs = 200  elapsed time (s) = 0.13
+----------------------------------
+Title = SPB 03918
+Num confs = 200  elapsed time (s) = 0.41
+----------------------------------
+Title = SPB 03922
+Num confs = 200  elapsed time (s) = 0.27
+----------------------------------
+Title = SPB 03924
+Num confs = 200  elapsed time (s) = 0.20
+----------------------------------
+Title = SPB 04439
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'SPB 04439'
+Warning: SPB 04439 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SPB 05266
+Num confs = 52  elapsed time (s) = 0.15
+----------------------------------
+Title = SPB 05487
+Num confs = 74  elapsed time (s) = 0.08
+----------------------------------
+Title = SPB 05564
+Num confs = 200  elapsed time (s) = 0.05
+----------------------------------
+Title = SPB 05679
+Num confs = 6  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 05768
+Num confs = 14  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 05804
+Num confs = 54  elapsed time (s) = 0.06
+----------------------------------
+Title = SPB 06061
+Num confs = 200  elapsed time (s) = 0.13
+----------------------------------
+Title = SPB 06907
+Num confs = 114  elapsed time (s) = 0.08
+----------------------------------
+Title = SPB 06942
+Num confs = 153  elapsed time (s) = 0.58
+----------------------------------
+Title = SPB 06982
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'SPB 06982'
+Warning: SPB 06982 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SPB 06987
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'SPB 06987'
+Warning: SPB 06987 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SPB 06992
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'SPB 06992'
+Warning: SPB 06992 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SPB 06999
+Num confs = 12  elapsed time (s) = 0.38
+----------------------------------
+Title = SPB 07111
+Num confs = 200  elapsed time (s) = 0.26
+----------------------------------
+Title = SPB 07119
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'SPB 07119'
+Warning: SPB 07119 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = SPB 07213
+Num confs = 200  elapsed time (s) = 0.23
+----------------------------------
+Title = SPB 07246
+Num confs = 200  elapsed time (s) = 0.66
+----------------------------------
+Title = SPB 07320
+Num confs = 117  elapsed time (s) = 0.11
+----------------------------------
+Title = SPB 07373
+Num confs = 165  elapsed time (s) = 0.09
+----------------------------------
+Title = SPB 07384
+Num confs = 25  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 07427
+Num confs = 200  elapsed time (s) = 0.19
+----------------------------------
+Title = SPB 07504
+Num confs = 8  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 07592
+Num confs = 200  elapsed time (s) = 0.11
+----------------------------------
+Title = SPB 07708
+Num confs = 149  elapsed time (s) = 0.20
+----------------------------------
+Title = SPB 07912
+Num confs = 5  elapsed time (s) = 0.01
+----------------------------------
+Title = SPB 08046
+Num confs = 200  elapsed time (s) = 0.24
+----------------------------------
+Title = TG 00130
+Num confs = 20  elapsed time (s) = 0.08
+----------------------------------
+Title = TL 00165
+Num confs = 2  elapsed time (s) = 0.01
+----------------------------------
+Title = XAX 00021
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'XAX 00021'
+Warning: XAX 00021 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = XAX 00022
+Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'XAX 00022'
+Warning: XAX 00022 failed due to unspecified stereochemistry with strict stereo enabled
+
+----------------------------------
+Title = XAX 00043
+Num confs = 200  elapsed time (s) = 0.04
+----------------------------------
+Number of Molecules Processed = 678
+Number of Molecules Failed = 59
+Elapsed time (s) = 160.6
+----------------------------------
+OMEGA job complete
+Finished
