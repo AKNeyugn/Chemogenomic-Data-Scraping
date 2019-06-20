@@ -1,11 +1,9 @@
-Molecule: SPE00100002   11alpha-ACETOXYKHIVORIN
-
+Molecule: SPE00100002
 Warning: atom stereo specified for planar atom 49 in [c][C@H]1[C@@]2(C[C@@H]([C@H]3[C@]4([C@H](C[C@H]([C@@]3([C@@]25[C@H](O5)C(=O)O1)C)O)C([C@@H](C[C@@H]4O)O)(C)C)C)O)C
 Warning: atom stereo specified for planar atom 39 in [c][C@H]1[C@@]2(C[C@@H]([C@H]3[C@]4([C@H](C[C@H]([C@@]3([C@@]25[C@H](O5)C(=O)O1)C)O)C([C@@H](C[C@@H]4O)O)(C)C)C)O)C
 ----------------------------------
 FAILED 
-Molecule: SPE00100058   6-HYDROXYANGOLENSIC ACID METHYL ESTER
-
+Molecule: SPE00100058
 Warning: Can't assign MMFF type to atom number    25   C
 Warning: Can't assign MMFF type to atom number    26   C
 Warning: Can't assign MMFF type to atom number    55   H
@@ -13,14 +11,12 @@ Warning: Can't assign MMFF type to atom number    56   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100058   6-HYDROXYANGOLENSIC ACID METHYL ESTER
 ----------------------------------
 FAILED 
-Molecule: SPE00100094   SWIETENOLIDE-3-ACETATE
-
+Molecule: SPE00100094
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'SPE00100094   SWIETENOLIDE-3-ACETATE'
 Warning: SPE00100094   SWIETENOLIDE-3-ACETATE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100126   "3-CHLORO-8beta-HYDROXYCARAPIN, 3,8-HEMIACETAL"
-
+Molecule: SPE00100126
 Warning: Can't assign MMFF type to atom number     7   C
 Warning: Can't assign MMFF type to atom number    15   C
 Warning: Can't assign MMFF type to atom number    18   C
@@ -28,29 +24,25 @@ Warning: Can't assign MMFF type to atom number    50   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100126   "3-CHLORO-8beta-HYDROXYCARAPIN, 3,8-HEMIACETAL"
 ----------------------------------
 FAILED 
-Molecule: SPE00100024   DIHYDROGEDUNIN
-
+Molecule: SPE00100024
 Warning: Can't assign MMFF type to atom number    17   C
 Warning: Can't assign MMFF type to atom number    29   C
 Warning: Can't assign MMFF type to atom number    33   O
 Warning: Can't assign MMFF type to atom number    56   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100024   DIHYDROGEDUNIN
 ----------------------------------
-Molecule: SPE00100195   ISOGEDUNIN
-
+Molecule: SPE00100195
 Warning: atom stereo specified for planar atom 38 in [c][C@H]1[C@]2(CC[C@@H]3[C@@]4([C@H](C[C@@H]([C@@]3([C@]25[C@@H](O5)C(=O)O1)C)O)C(C=CC4=O)(C)C)C)C
 Warning: atom stereo specified for planar atom 46 in [c][C@H]1[C@]2(CC[C@@H]3[C@@]4([C@H](C[C@@H]([C@@]3([C@]25[C@@H](O5)C(=O)O1)C)O)C(C=CC4=O)(C)C)C)C
 ----------------------------------
 FAILED 
-Molecule: SPE00100005   ANTHOTHECOL
-
+Molecule: SPE00100005
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 18 of molecule 'SPE00100005   ANTHOTHECOL'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 25 of molecule 'SPE00100005   ANTHOTHECOL'
 Warning: SPE00100005   ANTHOTHECOL failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100066   OBACUNOL
-
+Molecule: SPE00100066
 Warning: Can't assign MMFF type to atom number     7   C
 Warning: Can't assign MMFF type to atom number     8   C
 Warning: Can't assign MMFF type to atom number    40   H
@@ -58,8 +50,7 @@ Warning: Can't assign MMFF type to atom number    41   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100066   OBACUNOL
 ----------------------------------
 FAILED 
-Molecule: SPE00100098   TRICHILENONE
-
+Molecule: SPE00100098
 Warning: Can't assign MMFF type to atom number    26   C
 Warning: Can't assign MMFF type to atom number    27   C
 Warning: Can't assign MMFF type to atom number    60   H
@@ -67,73 +58,61 @@ Warning: Can't assign MMFF type to atom number    61   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100098   TRICHILENONE
 ----------------------------------
 FAILED 
-Molecule: SPE00100139   DEOXYKHIVORIN
-
+Molecule: SPE00100139
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 28 of molecule 'SPE00100139   DEOXYKHIVORIN'
 Warning: SPE00100139   DEOXYKHIVORIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100201   3-DEOXO-3beta-ACETOXYDEOXYDIHYDROGEDUNIN
-
+Molecule: SPE00100201
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 24 of molecule 'SPE00100201   3-DEOXO-3beta-ACETOXYDEOXYDIHYDROGEDUNIN'
 Warning: SPE00100201   3-DEOXO-3beta-ACETOXYDEOXYDIHYDROGEDUNIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100315   TIGOGENIN
-
+Molecule: SPE00100315
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SPE00100315   TIGOGENIN'
 Warning: SPE00100315   TIGOGENIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100006   BUSSEIN
-
+Molecule: SPE00100006
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 30 of molecule 'SPE00100006   BUSSEIN'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 31 of molecule 'SPE00100006   BUSSEIN'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 59 of molecule 'SPE00100006   BUSSEIN'
 Warning: SPE00100006   BUSSEIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: SPE00100034   HAVANENSIN TRIACETATE
-
+Molecule: SPE00100034
 Warning: atom stereo specified for planar atom 51 in [c][C@@H]1C[C@@H]2[C@]3([C@@]1(CC[C@H]4[C@]3([C@@H](C[C@@H]5[C@@]4([C@H](C[C@@H](C5(C)C)O)O)C)O)C)C)O2
 ----------------------------------
 FAILED 
-Molecule: SPE00100140   7-DEACETOXY-7-OXODEOXYGEDUNIN
-
+Molecule: SPE00100140
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 18 of molecule 'SPE00100140   7-DEACETOXY-7-OXODEOXYGEDUNIN'
 Warning: SPE00100140   7-DEACETOXY-7-OXODEOXYGEDUNIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100205   3alpha-ACETOXYDIHYDRODEOXYGEDUNIN
-
+Molecule: SPE00100205
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 24 of molecule 'SPE00100205   3alpha-ACETOXYDIHYDRODEOXYGEDUNIN'
 Warning: SPE00100205   3alpha-ACETOXYDIHYDRODEOXYGEDUNIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100318   DIOSGENIN
-
+Molecule: SPE00100318
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SPE00100318   DIOSGENIN'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 14 of molecule 'SPE00100318   DIOSGENIN'
 Warning: SPE00100318   DIOSGENIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100008   CARAPIN
-
+Molecule: SPE00100008
 Warning: Can't assign MMFF type to atom number    24   C
 Warning: Can't assign MMFF type to atom number    60   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100008   CARAPIN
 ----------------------------------
-Molecule: SPE00100047   DEACETOXY-7-OXOGEDUNIN
-
+Molecule: SPE00100047
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 20 of molecule 'SPE00100047   DEACETOXY-7-OXOGEDUNIN'
 Warning: atom stereo specified for planar atom 37 in [c][C@@H]1[C@]2(CC[C@@H]3[C@@]4(C=CC(=O)C([C@H]4CC(=O)[C@]3(C25[C@@H](O5)C(=O)O1)C)(C)C)C)C
 ----------------------------------
-Molecule: SPE00100146   "7-DESACETOXY-6,7-DEHYDROGEDUNIN"
-
+Molecule: SPE00100146
 Warning: atom stereo specified for planar atom 44 in [c][C@@H]1[C@]2(CC[C@@H]3[C@@]4(C=CC(=O)C([C@@H]4C=C[C@]3([C@]25[C@@H](O5)C(=O)O1)C)(C)C)C)C
 ----------------------------------
 FAILED 
-Molecule: SPE00100218   DEOXODEOXYDIHYDROGEDUNIN
-
+Molecule: SPE00100218
 Warning: Can't assign MMFF type to atom number     7   C
 Warning: Can't assign MMFF type to atom number    13   C
 Warning: Can't assign MMFF type to atom number    40   H
@@ -142,8 +121,7 @@ Warning: Can't assign MMFF type to atom number    52   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100218   DEOXODEOXYDIHYDROGEDUNIN
 ----------------------------------
 FAILED 
-Molecule: SPE00100290   "2,3-DIHYDROISOGEDUNIN"
-
+Molecule: SPE00100290
 Warning: Can't assign MMFF type to atom number    17   C
 Warning: Can't assign MMFF type to atom number    29   C
 Warning: Can't assign MMFF type to atom number    33   O
@@ -151,52 +129,44 @@ Warning: Can't assign MMFF type to atom number    56   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100290   "2,3-DIHYDROISOGEDUNIN"
 ----------------------------------
 FAILED 
-Molecule: SPE00100009   CEDRELONE
-
+Molecule: SPE00100009
 Warning: Can't assign MMFF type to atom number     6   C
 Warning: Can't assign MMFF type to atom number     7   C
 Warning: Can't assign MMFF type to atom number    38   H
 Warning: Can't assign MMFF type to atom number    39   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100009   CEDRELONE
 ----------------------------------
-Molecule: SPE00100076   SWIETENINE
-
+Molecule: SPE00100076
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 18 of molecule 'SPE00100076   SWIETENINE'
 ----------------------------------
 FAILED 
-Molecule: SPE00100156   8beta-HYDROXYCARAPIN
-
+Molecule: SPE00100156
 Warning: Can't assign MMFF type to atom number    25   C
 Warning: Can't assign MMFF type to atom number    61   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100156   8beta-HYDROXYCARAPIN
 ----------------------------------
 FAILED 
-Molecule: SPE00100081   UTILIN
-
+Molecule: SPE00100081
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 22 of molecule 'SPE00100081   UTILIN'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 51 of molecule 'SPE00100081   UTILIN'
 Warning: SPE00100081   UTILIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: SPE00100223   "1,2alpha-EPOXYDEACETOXYDIHYDROGEDUNIN"
-
+Molecule: SPE00100223
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 20 of molecule 'SPE00100223   "1,2alpha-EPOXYDEACETOXYDIHYDROGEDUNIN"'
 ----------------------------------
 FAILED 
-Molecule: SPE00100298   SMILAGENIN ACETATE
-
+Molecule: SPE00100298
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SPE00100298   SMILAGENIN ACETATE'
 Warning: SPE00100298   SMILAGENIN ACETATE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100012   DEACETYLGEDUNIN
-
+Molecule: SPE00100012
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'SPE00100012   DEACETYLGEDUNIN'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 20 of molecule 'SPE00100012   DEACETYLGEDUNIN'
 Warning: SPE00100012   DEACETYLGEDUNIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100105   "8beta-HYDROXYCARAPIN, 3,8-HEMIACETAL"
-
+Molecule: SPE00100105
 Warning: Can't assign MMFF type to atom number     7   C
 Warning: Can't assign MMFF type to atom number    15   C
 Warning: Can't assign MMFF type to atom number    18   C
@@ -204,58 +174,48 @@ Warning: Can't assign MMFF type to atom number    51   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100105   "8beta-HYDROXYCARAPIN, 3,8-HEMIACETAL"
 ----------------------------------
 FAILED 
-Molecule: SPE00100301   TOMATIDINE HYDROCHLORIDE
-
+Molecule: SPE00100301
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 15 of molecule 'SPE00100301   TOMATIDINE HYDROCHLORIDE'
 Warning: SPE00100301   TOMATIDINE HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100114   3alpha-HYDROXY-3-DEOXYANGOLENSIC ACID METHYL EST
-
+Molecule: SPE00100114
 Warning: SPE00100114   3alpha-HYDROXY-3-DEOXYANGOLENSIC ACID METHYL EST failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100360   beta-AMYRIN
-
+Molecule: SPE00100360
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 24 of molecule 'SPE00100360   beta-AMYRIN'
 Warning: SPE00100360   beta-AMYRIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100117   HYDROLYSIS PRODUCT OF BUSSEIN
-
+Molecule: SPE00100117
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SPE00100117   HYDROLYSIS PRODUCT OF BUSSEIN'
 Warning: SPE00100117   HYDROLYSIS PRODUCT OF BUSSEIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100190   3-alpha-HYDROXYDEOXYGEDININ
-
+Molecule: SPE00100190
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 16 of molecule 'SPE00100190   3-alpha-HYDROXYDEOXYGEDININ'
 Warning: SPE00100190   3-alpha-HYDROXYDEOXYGEDININ failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100304   3beta-ACETOXY-23-BROMO-ISOALLOSPIROST-9 (11)-ENE
-
+Molecule: SPE00100304
 Warning: SPE00100304   3beta-ACETOXY-23-BROMO-ISOALLOSPIROST-9 (11)-ENE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100368   "EPOXY (1,2alpha)-7-DEACETOXY-7-OXO-DEOXYDIHYDRO
-
+Molecule: SPE00100368
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 18 of molecule 'SPE00100368   "EPOXY (1,2alpha)-7-DEACETOXY-7-OXO-DEOXYDIHYDRO'
 Warning: SPE00100368   "EPOXY (1,2alpha)-7-DEACETOXY-7-OXO-DEOXYDIHYDRO failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: SPE00100375   alpha-DIHYDROGEDUNOL
-
+Molecule: SPE00100375
 Warning: atom stereo specified for planar atom 47 in [c][C@H]1[C@]2(CC[C@@H]3[C@]4(C=C[C@H](C([C@H]4C[C@@H]([C@@]3([C@]25[C@@H](O5)C(=O)O1)C)O)(C)C)O)C)C
 ----------------------------------
 FAILED 
-Molecule: SPE00100537   SOLASODINE
-
+Molecule: SPE00100537
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 14 of molecule 'SPE00100537   SOLASODINE'
 Warning: SPE00100537   SOLASODINE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100378   "1,3-DIDEACETYLKHIVORIN"
-
+Molecule: SPE00100378
 Warning: Can't assign MMFF type to atom number    18   C
 Warning: Can't assign MMFF type to atom number    30   C
 Warning: Can't assign MMFF type to atom number    34   O
@@ -263,8 +223,7 @@ Warning: Can't assign MMFF type to atom number    59   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100378   "1,3-DIDEACETYLKHIVORIN"
 ----------------------------------
 FAILED 
-Molecule: SPE00100455   MEROGEDUNIN
-
+Molecule: SPE00100455
 Warning: Can't assign MMFF type to atom number     8   C
 Warning: Can't assign MMFF type to atom number     9   C
 Warning: Can't assign MMFF type to atom number    37   H
@@ -272,8 +231,7 @@ Warning: Can't assign MMFF type to atom number    38   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100455   MEROGEDUNIN
 ----------------------------------
 FAILED 
-Molecule: SPE00100423   DEACETOXY-7-OXISOGEDUNIN
-
+Molecule: SPE00100423
 Warning: Can't assign MMFF type to atom number     4   C
 Warning: Can't assign MMFF type to atom number     5   C
 Warning: Can't assign MMFF type to atom number    39   H
@@ -281,99 +239,83 @@ Warning: Can't assign MMFF type to atom number    40   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100423   DEACETOXY-7-OXISOGEDUNIN
 ----------------------------------
 FAILED 
-Molecule: SPE00100615   CHUKRASIN METHYL ETHER
-
+Molecule: SPE00100615
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 16 of molecule 'SPE00100615   CHUKRASIN METHYL ETHER'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 48 of molecule 'SPE00100615   CHUKRASIN METHYL ETHER'
 Warning: SPE00100615   CHUKRASIN METHYL ETHER failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00102058   OLEANOLIC ACID ACETATE
-
+Molecule: SPE00102058
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 17 of molecule 'SPE00102058   OLEANOLIC ACID ACETATE'
 Warning: SPE00102058   OLEANOLIC ACID ACETATE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00200010   HAEMATOXYLIN
-
+Molecule: SPE00200010
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 19 of molecule 'SPE00200010   HAEMATOXYLIN'
 Warning: SPE00200010   HAEMATOXYLIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: SPE00100424   XYLOCARPUS A
-
+Molecule: SPE00100424
 Warning: atom stereo specified for planar atom 42 in [c][C@H]1[C@]2(CC[C@@H]3[C@]4([C@H](C([C@H]([C@@H]5[C@]4(O[C@]3([C@@H]5O)C2=CC(=O)O1)O)O)(C)C)C)C)C
 ----------------------------------
 FAILED 
-Molecule: SPE00100551   FRIEDELIN
-
+Molecule: SPE00100551
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 18 of molecule 'SPE00100551   FRIEDELIN'
 Warning: SPE00100551   FRIEDELIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100580   "3-ACETOXYPREGN-16-EN-12,20-DIONE"
-
+Molecule: SPE00100580
 Warning: Can't assign MMFF type to atom number    16   C
 Warning: Can't assign MMFF type to atom number    48   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100580   "3-ACETOXYPREGN-16-EN-12,20-DIONE"
 ----------------------------------
 FAILED 
-Molecule: SPE00107023   SITOSTERYL ACETATE
-
+Molecule: SPE00107023
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'SPE00107023   SITOSTERYL ACETATE'
 Warning: SPE00107023   SITOSTERYL ACETATE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100432   DEOXYGEDUNIN
-
+Molecule: SPE00100432
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 16 of molecule 'SPE00100432   DEOXYGEDUNIN'
 Warning: SPE00100432   DEOXYGEDUNIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100550   OLEANOIC ACID
-
+Molecule: SPE00100550
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 23 of molecule 'SPE00100550   OLEANOIC ACID'
 Warning: SPE00100550   OLEANOIC ACID failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100475   DESFURANYL-17-OXOKHIVORIN
-
+Molecule: SPE00100475
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 29 of molecule 'SPE00100475   DESFURANYL-17-OXOKHIVORIN'
 Warning: SPE00100475   DESFURANYL-17-OXOKHIVORIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100552   beta-AMYRIN ACETATE
-
+Molecule: SPE00100552
 Warning: Can't assign MMFF type to atom number    17   C
 Warning: Can't assign MMFF type to atom number    57   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100552   beta-AMYRIN ACETATE
 ----------------------------------
 FAILED 
-Molecule: SPE00100439   1 (2)alpha-EPOXYDEOXYDIHYDROGEDUNIN
-
+Molecule: SPE00100439
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 22 of molecule 'SPE00100439   1 (2)alpha-EPOXYDEOXYDIHYDROGEDUNIN'
 Warning: SPE00100439   1 (2)alpha-EPOXYDEOXYDIHYDROGEDUNIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100520   LUNARINE
-
+Molecule: SPE00100520
 Warning: SPE00100520   LUNARINE failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE00107015   SMILAGENONE
-
+Molecule: SPE00107015
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SPE00107015   SMILAGENONE'
 Warning: SPE00107015   SMILAGENONE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00201505   METHYL 7-DESHYDROXYPYROGALLIN-4-CARBOXYLATE
-
+Molecule: SPE00201505
 Warning: Can't assign MMFF type to atom number     6   C
 Warning: Can't assign MMFF type to atom number    23   H
 Warning: force field setup failed due to missing parameters for molecule SPE00201505   METHYL 7-DESHYDROXYPYROGALLIN-4-CARBOXYLATE
 ----------------------------------
 FAILED 
-Molecule: SPE00100901   3beta-HYDROXYDEOXYDESACETOXY-7-OXOGEDUNIN
-
+Molecule: SPE00100901
 Warning: Can't assign MMFF type to atom number     6   C
 Warning: Can't assign MMFF type to atom number     7   C
 Warning: Can't assign MMFF type to atom number    41   H
@@ -381,13 +323,11 @@ Warning: Can't assign MMFF type to atom number    42   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100901   3beta-HYDROXYDEOXYDESACETOXY-7-OXOGEDUNIN
 ----------------------------------
 FAILED 
-Molecule: SPE00100517   ENTANDROPHRAGMIN
-
+Molecule: SPE00100517
 Warning: SPE00100517   ENTANDROPHRAGMIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100567   3alpha-HYDROXYDEOXODIHYDROGEDUNIN
-
+Molecule: SPE00100567
 Warning: Can't assign MMFF type to atom number    17   C
 Warning: Can't assign MMFF type to atom number    29   C
 Warning: Can't assign MMFF type to atom number    33   O
@@ -395,16 +335,14 @@ Warning: Can't assign MMFF type to atom number    58   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100567   3alpha-HYDROXYDEOXODIHYDROGEDUNIN
 ----------------------------------
 FAILED 
-Molecule: SPE00100651   "3beta-ACETOXYDEOXYANGOLENSIC ACID, METHYL ESTER
-
+Molecule: SPE00100651
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'SPE00100651   "3beta-ACETOXYDEOXYANGOLENSIC ACID, METHYL ESTER'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 20 of molecule 'SPE00100651   "3beta-ACETOXYDEOXYANGOLENSIC ACID, METHYL ESTER'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 29 of molecule 'SPE00100651   "3beta-ACETOXYDEOXYANGOLENSIC ACID, METHYL ESTER'
 Warning: SPE00100651   "3beta-ACETOXYDEOXYANGOLENSIC ACID, METHYL ESTER failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00102035   3beta-HYDROXYDEOXODIHYDRODEOXYGEDUNIN
-
+Molecule: SPE00102035
 Warning: Can't assign MMFF type to atom number    14   C
 Warning: Can't assign MMFF type to atom number    17   C
 Warning: Can't assign MMFF type to atom number    52   H
@@ -412,65 +350,55 @@ Warning: Can't assign MMFF type to atom number    53   H
 Warning: Can't assign MMFF type to atom number    57   H
 Warning: force field setup failed due to missing parameters for molecule SPE00102035   3beta-HYDROXYDEOXODIHYDRODEOXYGEDUNIN
 ----------------------------------
-Molecule: SPE00300119   2-HYDROXY-5 (6)EPOXY-TETRAHYDROCARYOPHYLLENE
-
+Molecule: SPE00300119
 Warning: atom stereo specified for planar atom 35 in C[C@]12CC[C@H]3[C@@H](CC3(C)C)[C@](CC[C@H]1O2)(C)O
 Warning: atom stereo specified for planar atom 33 in C[C@]12CC[C@H]3[C@@H](CC3(C)C)[C@](CC[C@H]1O2)(C)O
 ----------------------------------
 FAILED 
-Molecule: SPE00200031   "GAMBOGINIC ACID, METHYL ESTER"
-
+Molecule: SPE00200031
 Warning: Can't assign MMFF type to atom number    14   C
 Warning: Can't assign MMFF type to atom number    64   H
 Warning: force field setup failed due to missing parameters for molecule SPE00200031   "GAMBOGINIC ACID, METHYL ESTER"
 ----------------------------------
 FAILED 
-Molecule: SPE00200255   RETUSOQUINONE
-
+Molecule: SPE00200255
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SPE00200255   RETUSOQUINONE'
 Warning: SPE00200255   RETUSOQUINONE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: SPE00300101   "EPOXY (1,11)HUMULENE"
-
+Molecule: SPE00300101
 Warning: atom stereo specified for planar atom 34 in C/C/1=C\CC(/C=C/C[C@]2([C@H](O2)CC1)C)(C)C
 Warning: atom stereo specified for planar atom 32 in C/C/1=C\CC(/C=C/C[C@]2([C@H](O2)CC1)C)(C)C
 ----------------------------------
 FAILED 
-Molecule: SPE00300021   GIBBERELLIC ACID
-
+Molecule: SPE00300021
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'SPE00300021   GIBBERELLIC ACID'
 Warning: SPE00300021   GIBBERELLIC ACID failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00200107   MACLUROXANTHONE
-
+Molecule: SPE00200107
 Warning: Can't assign MMFF type to atom number    15   C
 Warning: Can't assign MMFF type to atom number    39   H
 Warning: force field setup failed due to missing parameters for molecule SPE00200107   MACLUROXANTHONE
 ----------------------------------
 FAILED 
-Molecule: SPE00300160   3-PINANONE OXIME
-
+Molecule: SPE00300160
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'SPE00300160   3-PINANONE OXIME'
 Warning: SPE00300160   3-PINANONE OXIME failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00200111   THEAFLAVIN
-
+Molecule: SPE00200111
 Warning: Can't assign MMFF type to atom number    15   C
 Warning: Can't assign MMFF type to atom number    51   H
 Warning: force field setup failed due to missing parameters for molecule SPE00200111   THEAFLAVIN
 ----------------------------------
 FAILED 
-Molecule: SPE00211709   THEAFLAVANIN
-
+Molecule: SPE00211709
 Warning: Can't assign MMFF type to atom number    25   C
 Warning: Can't assign MMFF type to atom number    42   H
 Warning: force field setup failed due to missing parameters for molecule SPE00211709   THEAFLAVANIN
 ----------------------------------
 FAILED 
-Molecule: SPE00201524   DIHYDROGAMBOGIC ACID
-
+Molecule: SPE00201524
 Warning: Can't assign MMFF type to atom number    31   C
 Warning: Can't assign MMFF type to atom number    32   C
 Warning: Can't assign MMFF type to atom number    76   H
@@ -478,15 +406,13 @@ Warning: Can't assign MMFF type to atom number    77   H
 Warning: force field setup failed due to missing parameters for molecule SPE00201524   DIHYDROGAMBOGIC ACID
 ----------------------------------
 FAILED 
-Molecule: SPE00210242   THEAFLAVIN MONOGALLATES
-
+Molecule: SPE00210242
 Warning: Can't assign MMFF type to atom number    25   C
 Warning: Can't assign MMFF type to atom number    66   H
 Warning: force field setup failed due to missing parameters for molecule SPE00210242   THEAFLAVIN MONOGALLATES
 ----------------------------------
 FAILED 
-Molecule: SPE00201539   GARCINOLIC ACID
-
+Molecule: SPE00201539
 Warning: Can't assign MMFF type to atom number    31   C
 Warning: Can't assign MMFF type to atom number    32   C
 Warning: Can't assign MMFF type to atom number    78   H
@@ -494,8 +420,7 @@ Warning: Can't assign MMFF type to atom number    79   H
 Warning: force field setup failed due to missing parameters for molecule SPE00201539   GARCINOLIC ACID
 ----------------------------------
 FAILED 
-Molecule: SPE00201540   TETRAHYDROGAMBOGIC ACID
-
+Molecule: SPE00201540
 Warning: Can't assign MMFF type to atom number    22   C
 Warning: Can't assign MMFF type to atom number    24   C
 Warning: Can't assign MMFF type to atom number    45   C
@@ -507,198 +432,165 @@ Warning: Can't assign MMFF type to atom number    94   H
 Warning: force field setup failed due to missing parameters for molecule SPE00201540   TETRAHYDROGAMBOGIC ACID
 ----------------------------------
 FAILED 
-Molecule: SPE00210505   PURPUROGALLIN
-
+Molecule: SPE00210505
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'SPE00210505   PURPUROGALLIN'
 Warning: SPE00210505   PURPUROGALLIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: SPE00201662   GRAYANOTOXIN I
-
+Molecule: SPE00201662
 Warning: atom stereo specified for planar atom 45 in C[C@@]1(C[C@@]23C[C@H]([C@@]4([C@@H](C[C@@H](C4(C)C)O)[C@@]([C@@H]2CC[C@@H]1[C@@H]3O)(C)O)O)O)O
 ----------------------------------
 FAILED 
-Molecule: SPE00210522   "7-DESOXYPURPUROGALLIN-7-CARBOXYLIC ACID, METHYL
-
+Molecule: SPE00210522
 Warning: Can't assign MMFF type to atom number     6   C
 Warning: Can't assign MMFF type to atom number    26   H
 Warning: force field setup failed due to missing parameters for molecule SPE00210522   "7-DESOXYPURPUROGALLIN-7-CARBOXYLIC ACID, METHYL
 ----------------------------------
 FAILED 
-Molecule: SPE00300003   SOLIDAGENONE
-
+Molecule: SPE00300003
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'SPE00300003   SOLIDAGENONE'
 Warning: SPE00300003   SOLIDAGENONE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE10100009   DIMETHYL GAMBOGATE
-
+Molecule: SPE10100009
 Warning: need to optimize with C[C@]1(Oc2c(cc3c(c2)O[C@@]45[C@@]6(OC([C@H]4C[C@H](C6=O)C=C5C3=O)(C)C)C)C=C1)C constraints
 Warning: Unable to generate 3D conformer for C[C@]1(Oc2c(cc3c(c2)O[C@@]45[C@@]6(OC([C@H]4C[C@H](C6=O)C=C5C3=O)(C)C)C)C=C1)C.
 Warning: failed to build structure for molecule SPE10100009   DIMETHYL GAMBOGATE
 ----------------------------------
 FAILED 
-Molecule: SPE01504018   HEDERACOSIDE C
-
+Molecule: SPE01504018
 Warning: need to optimize with C[C@]1([C@H](CC[C@]2([C@H]1CC[C@@]3([C@@H]2CC=C4[C@]3(CC[C@@]5([C@@H]4CC(CC5)(C)C)[CH2])C)C)C)O)C constraints
 Warning: Unable to generate 3D conformer for C[C@]1([C@H](CC[C@]2([C@H]1CC[C@@]3([C@@H]2CC=C4[C@]3(CC[C@@]5([C@@H]4CC(CC5)(C)C)[CH2])C)C)C)O)C.
 Warning: failed to build structure for molecule SPE01504018   HEDERACOSIDE C
 ----------------------------------
 FAILED 
-Molecule: SPE01800031   URSOLIC ACID
-
+Molecule: SPE01800031
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 22 of molecule 'SPE01800031   URSOLIC ACID'
 Warning: SPE01800031   URSOLIC ACID failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500655   ACONITINE
-
+Molecule: SPE01500655
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'SPE01500655   ACONITINE'
 Warning: SPE01500655   ACONITINE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01504156   ANABASAMINE HYDROCHLORIDE
-
+Molecule: SPE01504156
 Warning: Can't assign MMFF type to atom number     1  Cl
 Warning: Can't assign MMFF type to atom number    21   H
 Warning: force field setup failed due to missing parameters for molecule SPE01504156   ANABASAMINE HYDROCHLORIDE
 ----------------------------------
 FAILED 
-Molecule: SPE01504016   HEDERAGENIN
-
+Molecule: SPE01504016
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 24 of molecule 'SPE01504016   HEDERAGENIN'
 Warning: SPE01504016   HEDERAGENIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01701001   "ANDROSTA-1,4-DIEN-3,17-DIONE"
-
+Molecule: SPE01701001
 Warning: Can't assign MMFF type to atom number    10   C
 Warning: Can't assign MMFF type to atom number    35   H
 Warning: force field setup failed due to missing parameters for molecule SPE01701001   "ANDROSTA-1,4-DIEN-3,17-DIONE"
 ----------------------------------
 FAILED 
-Molecule: SPE01800123   ECHINOCYSTIC ACID
-
+Molecule: SPE01800123
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 24 of molecule 'SPE01800123   ECHINOCYSTIC ACID'
 Warning: SPE01800123   ECHINOCYSTIC ACID failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00307045   11-OXOURSOLIC ACID ACETATE
-
+Molecule: SPE00307045
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'SPE00307045   11-OXOURSOLIC ACID ACETATE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 26 of molecule 'SPE00307045   11-OXOURSOLIC ACID ACETATE'
 Warning: SPE00307045   11-OXOURSOLIC ACID ACETATE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01502020   FOLIC ACID
-
+Molecule: SPE01502020
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'SPE01502020   FOLIC ACID'
 Warning: SPE01502020   FOLIC ACID failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: SPE01503674   ANTHERAXANTHIN
-
+Molecule: SPE01503674
 Warning: atom stereo specified for planar atom 23 in C[C@]12C[C@@H](CC([C@]1(O2)[CH2])(C)C)O
 ----------------------------------
 FAILED 
-Molecule: SPE01504017   SAPINDOSIDE A
-
+Molecule: SPE01504017
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 27 of molecule 'SPE01504017   SAPINDOSIDE A'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 38 of molecule 'SPE01504017   SAPINDOSIDE A'
 Warning: SPE01504017   SAPINDOSIDE A failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01503815   CEVADINE 80%
-
+Molecule: SPE01503815
 Warning: SPE01503815   CEVADINE 80% failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500854   7-OXOCHOLESTEROL
-
+Molecule: SPE01500854
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'SPE01500854   7-OXOCHOLESTEROL'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'SPE01500854   7-OXOCHOLESTEROL'
 Warning: SPE01500854   7-OXOCHOLESTEROL failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: SPE01504013   UBIDECARENEONE
-
+Molecule: SPE01504013
 Warning: fragment generation time limit exceeded
 ----------------------------------
-Molecule: SPE00307043   "DEHYDRO (11,12)URSOLIC ACID LACTONE"
-
+Molecule: SPE00307043
 Warning: atom stereo specified for planar atom 63 in C[C@H]1CC[C@@]23CC[C@@]4([C@@]5(CC[C@@H]6[C@]([C@@H]5C=C[C@]4([C@@H]2[C@H]1C)OC3=O)(CC[C@H](C6(C)C)O)C)C)C
 ----------------------------------
-Molecule: SPE00100346   PICROTIN
-
+Molecule: SPE00100346
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 15 of molecule 'SPE00100346   PICROTIN'
 ----------------------------------
 FAILED 
-Molecule: SPE00300024   HYDROCORTISONE
-
+Molecule: SPE00300024
 Warning: SPE00300024   HYDROCORTISONE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00310006   HYDRASTININE HYDROCHLORIDE
-
+Molecule: SPE00310006
 Warning: Can't assign MMFF type to atom number     1  Cl
 Warning: Can't assign MMFF type to atom number    17   H
 Warning: force field setup failed due to missing parameters for molecule SPE00310006   HYDRASTININE HYDROCHLORIDE
 ----------------------------------
 FAILED 
-Molecule: SPE01500157   CAPREOMYCIN SULFATE
-
+Molecule: SPE01500157
 Warning: SPE01500157   CAPREOMYCIN SULFATE failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01500134   BACITRACIN
-
+Molecule: SPE01500134
 Warning: SPE01500134   BACITRACIN failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE00210186   CITRININ
-
+Molecule: SPE00210186
 Warning: Can't assign MMFF type to atom number     4   C
 Warning: Can't assign MMFF type to atom number    23   H
 Warning: force field setup failed due to missing parameters for molecule SPE00210186   CITRININ
 ----------------------------------
 FAILED 
-Molecule: SPE01504139   AUSTRICINE
-
+Molecule: SPE01504139
 Warning: Can't assign MMFF type to atom number    17   C
 Warning: Can't assign MMFF type to atom number    37   H
 Warning: force field setup failed due to missing parameters for molecule SPE01504139   AUSTRICINE
 ----------------------------------
 FAILED 
-Molecule: SPE01504149   LEUCODIN
-
+Molecule: SPE01504149
 Warning: Can't assign MMFF type to atom number    16   C
 Warning: Can't assign MMFF type to atom number    36   H
 Warning: force field setup failed due to missing parameters for molecule SPE01504149   LEUCODIN
 ----------------------------------
 FAILED 
-Molecule: SPE01600300   CREATININE
-
+Molecule: SPE01600300
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'SPE01600300   CREATININE'
 Warning: SPE01600300   CREATININE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01601000   COMPACTIN
-
+Molecule: SPE01601000
 Warning: Can't assign MMFF type to atom number    13   C
 Warning: Can't assign MMFF type to atom number    14   C
 Warning: Can't assign MMFF type to atom number    44   H
 Warning: Can't assign MMFF type to atom number    45   H
 Warning: force field setup failed due to missing parameters for molecule SPE01601000   COMPACTIN
 ----------------------------------
-Molecule: SPE00100015   7-DEACETOXY-3-DEACETYL-7-OXOKHIVORIN
-
+Molecule: SPE00100015
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 28 of molecule 'SPE00100015   7-DEACETOXY-3-DEACETYL-7-OXOKHIVORIN'
 ----------------------------------
 FAILED 
-Molecule: SPE00300037   CRASSIN ACETATE
-
+Molecule: SPE00300037
 Warning: SPE00300037   CRASSIN ACETATE failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE00201522   GAMBOGIC ACID AMIDE
-
+Molecule: SPE00201522
 Warning: Can't assign MMFF type to atom number    31   C
 Warning: Can't assign MMFF type to atom number    32   C
 Warning: Can't assign MMFF type to atom number    76   H
@@ -706,13 +598,11 @@ Warning: Can't assign MMFF type to atom number    77   H
 Warning: force field setup failed due to missing parameters for molecule SPE00201522   GAMBOGIC ACID AMIDE
 ----------------------------------
 FAILED 
-Molecule: SPE01500122   AMPHOTERICIN B
-
+Molecule: SPE01500122
 Warning: SPE01500122   AMPHOTERICIN B failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01500272   EMETINE
-
+Molecule: SPE01500272
 Warning: Can't assign MMFF type to atom number     2   C
 Warning: Can't assign MMFF type to atom number     4   C
 Warning: Can't assign MMFF type to atom number    39   H
@@ -722,79 +612,65 @@ Warning: Can't assign MMFF type to atom number    43   H
 Warning: force field setup failed due to missing parameters for molecule SPE01500272   EMETINE
 ----------------------------------
 FAILED 
-Molecule: SPE01504238   "2,3,29-TRIACETOXY-24-NOR-1,3,5,7-FRIEDELATETRAE
-
+Molecule: SPE01504238
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 37 of molecule 'SPE01504238   "2,3,29-TRIACETOXY-24-NOR-1,3,5,7-FRIEDELATETRAE'
 Warning: SPE01504238   "2,3,29-TRIACETOXY-24-NOR-1,3,5,7-FRIEDELATETRAE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01701028   CORTISONE
-
+Molecule: SPE01701028
 Warning: SPE01701028   CORTISONE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: SPE01500832   CARYLOPHYLLENE OXIDE
-
+Molecule: SPE01500832
 Warning: atom stereo specified for planar atom 30 in C[C@]12CC[C@H]3[C@@H](CC3(C)C)C(=C)C[C@H]1O2
 ----------------------------------
-Molecule: SPE01504023   THERMOPSINE PERCHLORATE
-
+Molecule: SPE01504023
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 21 of molecule 'SPE01504023   THERMOPSINE PERCHLORATE'
 ----------------------------------
 FAILED 
-Molecule: SPE01503662   VERATRIDINE
-
+Molecule: SPE01503662
 Warning: SPE01503662   VERATRIDINE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01502229   ABIETIC ACID
-
+Molecule: SPE01502229
 Warning: Can't assign MMFF type to atom number    22   C
 Warning: Can't assign MMFF type to atom number    52   H
 Warning: force field setup failed due to missing parameters for molecule SPE01502229   ABIETIC ACID
 ----------------------------------
 FAILED 
-Molecule: SPE01504073   UVAOL
-
+Molecule: SPE01504073
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 24 of molecule 'SPE01504073   UVAOL'
 Warning: SPE01504073   UVAOL failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500849   CHOLEST-5-EN-3-ONE
-
+Molecule: SPE01500849
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 23 of molecule 'SPE01500849   CHOLEST-5-EN-3-ONE'
 Warning: SPE01500849   CHOLEST-5-EN-3-ONE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500815   BETULIN
-
+Molecule: SPE01500815
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'SPE01500815   BETULIN'
 Warning: SPE01500815   BETULIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: SPE01500984   GINKGOLIDE A
-
+Molecule: SPE01500984
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'SPE01500984   GINKGOLIDE A'
 ----------------------------------
 FAILED 
-Molecule: SPE01503990   CONESSINE
-
+Molecule: SPE01503990
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'SPE01503990   CONESSINE'
 Warning: SPE01503990   CONESSINE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500616   ACETARSOL
-
+Molecule: SPE01500616
 Warning: Can't assign MMFF type to atom number    12  As
 Warning: force field setup failed due to missing parameters for molecule SPE01500616   ACETARSOL
 ----------------------------------
 FAILED 
-Molecule: SPE01500990   ENOXOLONE
-
+Molecule: SPE01500990
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 19 of molecule 'SPE01500990   ENOXOLONE'
 Warning: SPE01500990   ENOXOLONE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00200007   GAMBOGIC ACID
-
+Molecule: SPE00200007
 Warning: Can't assign MMFF type to atom number    31   C
 Warning: Can't assign MMFF type to atom number    32   C
 Warning: Can't assign MMFF type to atom number    76   H
@@ -802,54 +678,46 @@ Warning: Can't assign MMFF type to atom number    77   H
 Warning: force field setup failed due to missing parameters for molecule SPE00200007   GAMBOGIC ACID
 ----------------------------------
 FAILED 
-Molecule: SPE00241155   EPITHEAFLAVIN MONOGALLATE
-
+Molecule: SPE00241155
 Warning: Can't assign MMFF type to atom number    25   C
 Warning: Can't assign MMFF type to atom number    66   H
 Warning: force field setup failed due to missing parameters for molecule SPE00241155   EPITHEAFLAVIN MONOGALLATE
 ----------------------------------
 FAILED 
-Molecule: SPE01504030   beta-ESCIN
-
+Molecule: SPE01504030
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 69 of molecule 'SPE01504030   beta-ESCIN'
 Warning: SPE01504030   beta-ESCIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01505250   MADECASSIC ACID
-
+Molecule: SPE01505250
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 24 of molecule 'SPE01505250   MADECASSIC ACID'
 Warning: SPE01505250   MADECASSIC ACID failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100010   CHUKRASIN
-
+Molecule: SPE00100010
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 16 of molecule 'SPE00100010   CHUKRASIN'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 48 of molecule 'SPE00100010   CHUKRASIN'
 Warning: SPE00100010   CHUKRASIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00500071   LYCOPODINE PERCHLORATE
-
+Molecule: SPE00500071
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'SPE00500071   LYCOPODINE PERCHLORATE'
 Warning: SPE00500071   LYCOPODINE PERCHLORATE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500679   AMINOPTERIN
-
+Molecule: SPE01500679
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'SPE01500679   AMINOPTERIN'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SPE01500679   AMINOPTERIN'
 Warning: SPE01500679   AMINOPTERIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01504059   CHRYSANTHELLIN A
-
+Molecule: SPE01504059
 Warning: Can't assign MMFF type to atom number    18   C
 Warning: Can't assign MMFF type to atom number   108   H
 Warning: force field setup failed due to missing parameters for molecule SPE01504059   CHRYSANTHELLIN A
 ----------------------------------
 FAILED 
-Molecule: SPE00100198   DEOXODIHYDROGEDUNIN
-
+Molecule: SPE00100198
 Warning: Can't assign MMFF type to atom number    16   C
 Warning: Can't assign MMFF type to atom number    28   C
 Warning: Can't assign MMFF type to atom number    32   O
@@ -857,34 +725,29 @@ Warning: Can't assign MMFF type to atom number    57   H
 Warning: force field setup failed due to missing parameters for molecule SPE00100198   DEOXODIHYDROGEDUNIN
 ----------------------------------
 FAILED 
-Molecule: SPE01500129   APOMORPHINE HYDROCHLORIDE
-
+Molecule: SPE01500129
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'SPE01500129   APOMORPHINE HYDROCHLORIDE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'SPE01500129   APOMORPHINE HYDROCHLORIDE'
 Warning: SPE01500129   APOMORPHINE HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500529   RIFAMPIN
-
+Molecule: SPE01500529
 Warning: SPE01500529   RIFAMPIN failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE00310300   VERATRINE SULFATE
-
+Molecule: SPE00310300
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 31 of molecule 'SPE00310300   VERATRINE SULFATE'
 Warning: SPE00310300   VERATRINE SULFATE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500124   AMPROLIUM
-
+Molecule: SPE01500124
 Warning: Can't assign MMFF type to atom number     2   C
 Warning: Can't assign MMFF type to atom number    22   H
 Warning: Can't assign MMFF type to atom number    23   H
 Warning: force field setup failed due to missing parameters for molecule SPE01500124   AMPROLIUM
 ----------------------------------
 FAILED 
-Molecule: SPE01500260   PYRITHIONE ZINC
-
+Molecule: SPE01500260
 Warning: Can't assign MMFF type to atom number     4   C
 Warning: Can't assign MMFF type to atom number     5   C
 Warning: Can't assign MMFF type to atom number     9  Zn
@@ -899,8 +762,7 @@ Warning: Can't assign MMFF type to atom number    26   H
 Warning: force field setup failed due to missing parameters for molecule SPE01500260   PYRITHIONE ZINC
 ----------------------------------
 FAILED 
-Molecule: SPE00270029   PRASTERONE ACETATE
-
+Molecule: SPE00270029
 Warning: Can't assign MMFF type to atom number    12   C
 Warning: Can't assign MMFF type to atom number    15   C
 Warning: Can't assign MMFF type to atom number    18   C
@@ -910,64 +772,53 @@ Warning: Can't assign MMFF type to atom number    44   H
 Warning: force field setup failed due to missing parameters for molecule SPE00270029   PRASTERONE ACETATE
 ----------------------------------
 FAILED 
-Molecule: SPE01500266   DOXYCYCLINE HYDROCHLORIDE
-
+Molecule: SPE01500266
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'SPE01500266   DOXYCYCLINE HYDROCHLORIDE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'SPE01500266   DOXYCYCLINE HYDROCHLORIDE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'SPE01500266   DOXYCYCLINE HYDROCHLORIDE'
 Warning: SPE01500266   DOXYCYCLINE HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: SPE01500213   CYCLOPHOSPHAMIDE HYDRATE
-
+Molecule: SPE01500213
 Warning: atom stereo specified for planar atom 18 in C[N+]1([N@H+]2[P@@]1(=O)OCCC2)C
 ----------------------------------
 FAILED 
-Molecule: SPE01504144   DIRITHROMYCIN
-
+Molecule: SPE01504144
 Warning: SPE01504144   DIRITHROMYCIN failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01500379   MEDROXYPROGESTERONE ACETATE
-
+Molecule: SPE01500379
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'SPE01500379   MEDROXYPROGESTERONE ACETATE'
 Warning: SPE01500379   MEDROXYPROGESTERONE ACETATE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500311   FUSIDIC ACID
-
+Molecule: SPE01500311
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'SPE01500311   FUSIDIC ACID'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 18 of molecule 'SPE01500311   FUSIDIC ACID'
 Warning: SPE01500311   FUSIDIC ACID failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500380   MEDRYSONE
-
+Molecule: SPE01500380
 Warning: SPE01500380   MEDRYSONE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500279   ERYTHROMYCIN ETHYLSUCCINATE
-
+Molecule: SPE01500279
 Warning: SPE01500279   ERYTHROMYCIN ETHYLSUCCINATE failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01500312   GALLAMINE TRIETHIODIDE
-
+Molecule: SPE01500312
 Warning: SPE01500312   GALLAMINE TRIETHIODIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500339   HYDROCORTISONE HEMISUCCINATE
-
+Molecule: SPE01500339
 Warning: SPE01500339   HYDROCORTISONE HEMISUCCINATE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500364   LEUCOVORIN CALCIUM
-
+Molecule: SPE01500364
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 21 of molecule 'SPE01500364   LEUCOVORIN CALCIUM'
 Warning: SPE01500364   LEUCOVORIN CALCIUM failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500331   HISTAMINE DIHYDROCHLORIDE
-
+Molecule: SPE01500331
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 5 of molecule 'SPE01500331   HISTAMINE DIHYDROCHLORIDE'
 Warning: Can't assign MMFF type to atom number     2   C
 Warning: Can't assign MMFF type to atom number    11   H
@@ -975,32 +826,27 @@ Warning: Can't assign MMFF type to atom number    12   H
 Warning: force field setup failed due to missing parameters for molecule SPE01500331   HISTAMINE DIHYDROCHLORIDE
 ----------------------------------
 FAILED 
-Molecule: SPE01500332   HOMATROPINE BROMIDE
-
+Molecule: SPE01500332
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'SPE01500332   HOMATROPINE BROMIDE'
 Warning: SPE01500332   HOMATROPINE BROMIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500398   METHOTREXATE(+/-)
-
+Molecule: SPE01500398
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'SPE01500398   METHOTREXATE(+/-)'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'SPE01500398   METHOTREXATE(+/-)'
 Warning: SPE01500398   METHOTREXATE(+/-) failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01503639   RAUWOLSCINE HYDROCHLORIDE
-
+Molecule: SPE01503639
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 26 of molecule 'SPE01503639   RAUWOLSCINE HYDROCHLORIDE'
 Warning: SPE01503639   RAUWOLSCINE HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01502260   ABAMECTIN
-
+Molecule: SPE01502260
 Warning: SPE01502260   ABAMECTIN failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01503253   METHYLBENZETHONIUM CHLORIDE
-
+Molecule: SPE01503253
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'SPE01503253   METHYLBENZETHONIUM CHLORIDE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'SPE01503253   METHYLBENZETHONIUM CHLORIDE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 19 of molecule 'SPE01503253   METHYLBENZETHONIUM CHLORIDE'
@@ -1008,25 +854,21 @@ Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry
 Warning: SPE01503253   METHYLBENZETHONIUM CHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01503111   CEFTRIAXONE SODIUM TRIHYDRATE
-
+Molecule: SPE01503111
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'SPE01503111   CEFTRIAXONE SODIUM TRIHYDRATE'
 Warning: SPE01503111   CEFTRIAXONE SODIUM TRIHYDRATE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01503423   SPIRAMYCIN
-
+Molecule: SPE01503423
 Warning: SPE01503423   SPIRAMYCIN failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01502107   CISPLATIN
-
+Molecule: SPE01502107
 Warning: Can't assign MMFF type to atom number     2  Pt
 Warning: force field setup failed due to missing parameters for molecule SPE01502107   CISPLATIN
 ----------------------------------
 FAILED 
-Molecule: SPE01502249   GUAIAZULENE
-
+Molecule: SPE01502249
 Warning: Can't assign MMFF type to atom number     5   C
 Warning: Can't assign MMFF type to atom number     6   C
 Warning: Can't assign MMFF type to atom number    23   H
@@ -1034,108 +876,91 @@ Warning: Can't assign MMFF type to atom number    24   H
 Warning: force field setup failed due to missing parameters for molecule SPE01502249   GUAIAZULENE
 ----------------------------------
 FAILED 
-Molecule: SPE01503203   CHLORPROTHIXENE HYDROCHLORIDE
-
+Molecule: SPE01503203
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'SPE01503203   CHLORPROTHIXENE HYDROCHLORIDE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'SPE01503203   CHLORPROTHIXENE HYDROCHLORIDE'
 Warning: SPE01503203   CHLORPROTHIXENE HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01502005   CARBENOXOLONE SODIUM
-
+Molecule: SPE01502005
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 24 of molecule 'SPE01502005   CARBENOXOLONE SODIUM'
 Warning: SPE01502005   CARBENOXOLONE SODIUM failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01502203   TROLEANDOMYCIN
-
+Molecule: SPE01502203
 Warning: SPE01502203   TROLEANDOMYCIN failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01502106   CARBOPLATIN
-
+Molecule: SPE01502106
 Warning: Can't assign MMFF type to atom number     4  Pt
 Warning: force field setup failed due to missing parameters for molecule SPE01502106   CARBOPLATIN
 ----------------------------------
 FAILED 
-Molecule: SPE01503276   ROXITHROMYCIN
-
+Molecule: SPE01503276
 Warning: SPE01503276   ROXITHROMYCIN failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01501199   ZAPRINAST
-
+Molecule: SPE01501199
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SPE01501199   ZAPRINAST'
 Warning: SPE01501199   ZAPRINAST failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01503806   HOMIDIUM BROMIDE
-
+Molecule: SPE01503806
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 19 of molecule 'SPE01503806   HOMIDIUM BROMIDE'
 Warning: SPE01503806   HOMIDIUM BROMIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01501149   RITODRINE HYDROCHLORIDE
-
+Molecule: SPE01501149
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 15 of molecule 'SPE01501149   RITODRINE HYDROCHLORIDE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 17 of molecule 'SPE01501149   RITODRINE HYDROCHLORIDE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 18 of molecule 'SPE01501149   RITODRINE HYDROCHLORIDE'
 Warning: SPE01501149   RITODRINE HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01501151   RANITIDINE
-
+Molecule: SPE01501151
 Warning: SPE01501151   RANITIDINE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01501176   ERYTHROMYCIN ESTOLATE
-
+Molecule: SPE01501176
 Warning: SPE01501176   ERYTHROMYCIN ESTOLATE failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01502085   CYCLOCREATINE
-
+Molecule: SPE01502085
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'SPE01502085   CYCLOCREATINE'
 Warning: SPE01502085   CYCLOCREATINE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500507   PROCYCLIDINE HYDROCHLORIDE
-
+Molecule: SPE01500507
 Warning: Can't assign MMFF type to atom number    17   C
 Warning: Can't assign MMFF type to atom number    46   H
 Warning: force field setup failed due to missing parameters for molecule SPE01500507   PROCYCLIDINE HYDROCHLORIDE
 ----------------------------------
 FAILED 
-Molecule: SPE01500496   PREDNISOLONE
-
+Molecule: SPE01500496
 Warning: Can't assign MMFF type to atom number    11   C
 Warning: Can't assign MMFF type to atom number    40   H
 Warning: force field setup failed due to missing parameters for molecule SPE01500496   PREDNISOLONE
 ----------------------------------
 FAILED 
-Molecule: SPE01500499   PREDNISONE
-
+Molecule: SPE01500499
 Warning: Can't assign MMFF type to atom number    11   C
 Warning: Can't assign MMFF type to atom number    38   H
 Warning: force field setup failed due to missing parameters for molecule SPE01500499   PREDNISONE
 ----------------------------------
 FAILED 
-Molecule: SPE01500576   THIOTHIXENE
-
+Molecule: SPE01500576
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'SPE01500576   THIOTHIXENE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'SPE01500576   THIOTHIXENE'
 Warning: SPE01500576   THIOTHIXENE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500586   TRIAMCINOLONE
-
+Molecule: SPE01500586
 Warning: Can't assign MMFF type to atom number    12   C
 Warning: Can't assign MMFF type to atom number    41   H
 Warning: force field setup failed due to missing parameters for molecule SPE01500586   TRIAMCINOLONE
 ----------------------------------
 FAILED 
-Molecule: SPE01500453   OXYMETAZOLINE HYDROCHLORIDE
-
+Molecule: SPE01500453
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'SPE01500453   OXYMETAZOLINE HYDROCHLORIDE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SPE01500453   OXYMETAZOLINE HYDROCHLORIDE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'SPE01500453   OXYMETAZOLINE HYDROCHLORIDE'
@@ -1144,59 +969,49 @@ Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry
 Warning: SPE01500453   OXYMETAZOLINE HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500523   QUINIDINE GLUCONATE
-
+Molecule: SPE01500523
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SPE01500523   QUINIDINE GLUCONATE'
 Warning: SPE01500523   QUINIDINE GLUCONATE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500422   NALOXONE HYDROCHLORIDE
-
+Molecule: SPE01500422
 Warning: SPE01500422   NALOXONE HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500538   SPECTINOMYCIN HYDROCHLORIDE
-
+Molecule: SPE01500538
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'SPE01500538   SPECTINOMYCIN HYDROCHLORIDE'
 Warning: SPE01500538   SPECTINOMYCIN HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: SPE01503802   AZADIRACHTIN
-
+Molecule: SPE01503802
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 24 of molecule 'SPE01503802   AZADIRACHTIN'
 ----------------------------------
 FAILED 
-Molecule: SPE01500492   POLYMYXIN B SULFATE
-
+Molecule: SPE01500492
 Warning: SPE01500492   POLYMYXIN B SULFATE failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01500446   NYSTATIN
-
+Molecule: SPE01500446
 Warning: SPE01500446   NYSTATIN failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01500557   TAMOXIFEN CITRATE
-
+Molecule: SPE01500557
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'SPE01500557   TAMOXIFEN CITRATE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'SPE01500557   TAMOXIFEN CITRATE'
 Warning: SPE01500557   TAMOXIFEN CITRATE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01501118   MECLOCYCLINE SULFOSALICYLATE
-
+Molecule: SPE01501118
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 20 of molecule 'SPE01501118   MECLOCYCLINE SULFOSALICYLATE'
 Warning: SPE01501118   MECLOCYCLINE SULFOSALICYLATE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01503921   CYPROTERONE
-
+Molecule: SPE01503921
 Warning: Can't assign MMFF type to atom number    10   C
 Warning: Can't assign MMFF type to atom number    37   H
 Warning: force field setup failed due to missing parameters for molecule SPE01503921   CYPROTERONE
 ----------------------------------
 FAILED 
-Molecule: SPE00211031   "EPOXY (4,5alpha)-4,5-DIHYDROSANTONIN"
-
+Molecule: SPE00211031
 Warning: Can't assign MMFF type to atom number     8   C
 Warning: Can't assign MMFF type to atom number     9   C
 Warning: Can't assign MMFF type to atom number    32   H
@@ -1204,43 +1019,36 @@ Warning: Can't assign MMFF type to atom number    33   H
 Warning: force field setup failed due to missing parameters for molecule SPE00211031   "EPOXY (4,5alpha)-4,5-DIHYDROSANTONIN"
 ----------------------------------
 FAILED 
-Molecule: SPE01503678   CELECOXIB
-
+Molecule: SPE01503678
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'SPE01503678   CELECOXIB'
 Warning: SPE01503678   CELECOXIB failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500844   COENZYME B12
-
+Molecule: SPE01500844
 Warning: SPE01500844   COENZYME B12 failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01504174   BUPROPION
-
+Molecule: SPE01504174
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'SPE01504174   BUPROPION'
 Warning: SPE01504174   BUPROPION failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01504185   TETRANDRINE
-
+Molecule: SPE01504185
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 36 of molecule 'SPE01504185   TETRANDRINE'
 Warning: SPE01504185   TETRANDRINE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500989   18alpha-GLYCYRRHETINIC ACID
-
+Molecule: SPE01500989
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 19 of molecule 'SPE01500989   18alpha-GLYCYRRHETINIC ACID'
 Warning: SPE01500989   18alpha-GLYCYRRHETINIC ACID failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01504259   IRBESARTAN
-
+Molecule: SPE01504259
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'SPE01504259   IRBESARTAN'
 Warning: SPE01504259   IRBESARTAN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE02300176   PHENOXYBENZAMINE HYDROCHLORIDE
-
+Molecule: SPE02300176
 Warning: Can't assign MMFF type to atom number     6   C
 Warning: Can't assign MMFF type to atom number     7   C
 Warning: Can't assign MMFF type to atom number    13   C
@@ -1251,19 +1059,16 @@ Warning: Can't assign MMFF type to atom number    36   H
 Warning: force field setup failed due to missing parameters for molecule SPE02300176   PHENOXYBENZAMINE HYDROCHLORIDE
 ----------------------------------
 FAILED 
-Molecule: SPE01500760   HECOGENIN
-
+Molecule: SPE01500760
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SPE01500760   HECOGENIN'
 Warning: SPE01500760   HECOGENIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE02300270   PINACIDIL
-
+Molecule: SPE02300270
 Warning: SPE02300270   PINACIDIL failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500828   "CANRENOIC ACID, POTASSIUM SALT"
-
+Molecule: SPE01500828
 Warning: Can't assign MMFF type to atom number    12   C
 Warning: Can't assign MMFF type to atom number    13   C
 Warning: Can't assign MMFF type to atom number    38   H
@@ -1271,14 +1076,12 @@ Warning: Can't assign MMFF type to atom number    39   H
 Warning: force field setup failed due to missing parameters for molecule SPE01500828   "CANRENOIC ACID, POTASSIUM SALT"
 ----------------------------------
 FAILED 
-Molecule: SPE01500938   PROTOVERATRINE B
-
+Molecule: SPE01500938
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SPE01500938   PROTOVERATRINE B'
 Warning: SPE01500938   PROTOVERATRINE B failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01503977   LOVASTATIN
-
+Molecule: SPE01503977
 Warning: Can't assign MMFF type to atom number    14   C
 Warning: Can't assign MMFF type to atom number    15   C
 Warning: Can't assign MMFF type to atom number    47   H
@@ -1286,56 +1089,48 @@ Warning: Can't assign MMFF type to atom number    48   H
 Warning: force field setup failed due to missing parameters for molecule SPE01503977   LOVASTATIN
 ----------------------------------
 FAILED 
-Molecule: SPE01500994   FLUPHENAZINE HYDROCHLORIDE
-
+Molecule: SPE01500994
 Warning: Can't assign MMFF type to atom number     2   C
 Warning: Can't assign MMFF type to atom number    32   H
 Warning: Can't assign MMFF type to atom number    33   H
 Warning: force field setup failed due to missing parameters for molecule SPE01500994   FLUPHENAZINE HYDROCHLORIDE
 ----------------------------------
 FAILED 
-Molecule: SPE00100007   CANDOLLEIN
-
+Molecule: SPE00100007
 Warning: need to optimize with [c][C@H]1[C@]2(C[C@@H]([C@]34[C@]5([C@@H]([C@]6(C[C@@]5([C@]([C@@H]6O)([C@@H]([C@@]37[C@@]2(CC(=O)O1)O[C@](O4)(O7)C)O)O)O)C)[CH2])C)O)C constraints
 Warning: Unable to generate 3D conformer for [c][C@H]1[C@]2(C[C@@H]([C@]34[C@]5([C@@H]([C@]6(C[C@@]5([C@]([C@@H]6O)([C@@H]([C@@]37[C@@]2(CC(=O)O1)O[C@](O4)(O7)C)O)O)O)C)[CH2])C)O)C.
 Warning: failed to build structure for molecule SPE00100007   CANDOLLEIN
 ----------------------------------
 FAILED 
-Molecule: SPE01500669   BENFLUOREX HYDROCHLORIDE
-
+Molecule: SPE01500669
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SPE01500669   BENFLUOREX HYDROCHLORIDE'
 Warning: SPE01500669   BENFLUOREX HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500684   CIMETIDINE
-
+Molecule: SPE01500684
 Warning: SPE01500684   CIMETIDINE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01501115   NALBUPHINE HYDROCHLORIDE
-
+Molecule: SPE01501115
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'SPE01501115   NALBUPHINE HYDROCHLORIDE'
 Warning: SPE01501115   NALBUPHINE HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500592   TRIHEXYPHENIDYL HYDROCHLORIDE
-
+Molecule: SPE01500592
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 18 of molecule 'SPE01500592   TRIHEXYPHENIDYL HYDROCHLORIDE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 21 of molecule 'SPE01500592   TRIHEXYPHENIDYL HYDROCHLORIDE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 22 of molecule 'SPE01500592   TRIHEXYPHENIDYL HYDROCHLORIDE'
 Warning: SPE01500592   TRIHEXYPHENIDYL HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01501021   FENSPIRIDE HYDROCHLORIDE
-
+Molecule: SPE01501021
 Warning: Can't assign MMFF type to atom number     5   C
 Warning: Can't assign MMFF type to atom number    12   C
 Warning: Can't assign MMFF type to atom number    31   H
 Warning: force field setup failed due to missing parameters for molecule SPE01501021   FENSPIRIDE HYDROCHLORIDE
 ----------------------------------
 FAILED 
-Molecule: SPE01500614   XYLOMETAZOLINE HYDROCHLORIDE
-
+Molecule: SPE01500614
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'SPE01500614   XYLOMETAZOLINE HYDROCHLORIDE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SPE01500614   XYLOMETAZOLINE HYDROCHLORIDE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'SPE01500614   XYLOMETAZOLINE HYDROCHLORIDE'
@@ -1343,47 +1138,39 @@ Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SPE01500614   XYLOMETAZOLINE HYDROCHLORIDE'
 Warning: SPE01500614   XYLOMETAZOLINE HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: SPE01501107   PICROTOXININ
-
+Molecule: SPE01501107
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 14 of molecule 'SPE01501107   PICROTOXININ'
 ----------------------------------
 FAILED 
-Molecule: SPE01501114   PIMETHIXENE MALEATE
-
+Molecule: SPE01501114
 Warning: Can't assign MMFF type to atom number     8   C
 Warning: force field setup failed due to missing parameters for molecule SPE01501114   PIMETHIXENE MALEATE
 ----------------------------------
 FAILED 
-Molecule: SPE01500668   KETOTIFEN FUMARATE
-
+Molecule: SPE01500668
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 17 of molecule 'SPE01500668   KETOTIFEN FUMARATE'
 Warning: SPE01500668   KETOTIFEN FUMARATE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500675   OLEANDOMYCIN PHOSPHATE
-
+Molecule: SPE01500675
 Warning: SPE01500675   OLEANDOMYCIN PHOSPHATE failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01500151   BROMOCRIPTINE MESYLATE
-
+Molecule: SPE01500151
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 19 of molecule 'SPE01500151   BROMOCRIPTINE MESYLATE'
 Warning: SPE01500151   BROMOCRIPTINE MESYLATE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500424   NAPHAZOLINE HYDROCHLORIDE
-
+Molecule: SPE01500424
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'SPE01500424   NAPHAZOLINE HYDROCHLORIDE'
 Warning: SPE01500424   NAPHAZOLINE HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500206   COLISTIMETHATE SODIUM
-
+Molecule: SPE01500206
 Warning: SPE01500206   COLISTIMETHATE SODIUM failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01504236   SIMVASTATIN
-
+Molecule: SPE01504236
 Warning: Can't assign MMFF type to atom number    15   C
 Warning: Can't assign MMFF type to atom number    16   C
 Warning: Can't assign MMFF type to atom number    50   H
@@ -1391,64 +1178,53 @@ Warning: Can't assign MMFF type to atom number    51   H
 Warning: force field setup failed due to missing parameters for molecule SPE01504236   SIMVASTATIN
 ----------------------------------
 FAILED 
-Molecule: SPE01504148   MEPIVACAINE HYDROCHLORIDE
-
+Molecule: SPE01504148
 Warning: Can't assign MMFF type to atom number     1  Cl
 Warning: Can't assign MMFF type to atom number    20   H
 Warning: force field setup failed due to missing parameters for molecule SPE01504148   MEPIVACAINE HYDROCHLORIDE
 ----------------------------------
 FAILED 
-Molecule: SPE01500281   ERYTHROMYCIN STEARATE
-
+Molecule: SPE01500281
 Warning: SPE01500281   ERYTHROMYCIN STEARATE failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01500680   ARECOLINE HYDROBROMIDE
-
+Molecule: SPE01500680
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'SPE01500680   ARECOLINE HYDROBROMIDE'
 Warning: SPE01500680   ARECOLINE HYDROBROMIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01505207   CEFTIBUTEN
-
+Molecule: SPE01505207
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'SPE01505207   CEFTIBUTEN'
 Warning: SPE01505207   CEFTIBUTEN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01505208   CEFDINIR
-
+Molecule: SPE01505208
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'SPE01505208   CEFDINIR'
 Warning: SPE01505208   CEFDINIR failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: SPE01500651   STRYCHNINE
-
+Molecule: SPE01500651
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'SPE01500651   STRYCHNINE'
 ----------------------------------
 FAILED 
-Molecule: SPE01500603   TYROTHRICIN
-
+Molecule: SPE01500603
 Warning: SPE01500603   TYROTHRICIN failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01500607   VANCOMYCIN HYDROCHLORIDE
-
+Molecule: SPE01500607
 Warning: SPE01500607   VANCOMYCIN HYDROCHLORIDE failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01503947   CACODYLIC ACID
-
+Molecule: SPE01503947
 Warning: Can't assign MMFF type to atom number     2 AS   on residue (null)  1
 Warning: force field setup failed due to missing parameters for molecule SPE01503947   CACODYLIC ACID
 ----------------------------------
 FAILED 
-Molecule: SPE02300336   3-HYDROXYBENZYLHYDRAZINE DIHYDROCHLORIDE
-
+Molecule: SPE02300336
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'SPE02300336   3-HYDROXYBENZYLHYDRAZINE DIHYDROCHLORIDE'
 Warning: SPE02300336   3-HYDROXYBENZYLHYDRAZINE DIHYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500572   THIMEROSAL
-
+Molecule: SPE01500572
 Warning: Can't assign MMFF type to atom number     5   C
 Warning: Can't assign MMFF type to atom number     6   C
 Warning: Can't assign MMFF type to atom number     7   C
@@ -1461,74 +1237,62 @@ Warning: Can't assign MMFF type to atom number    17   H
 Warning: force field setup failed due to missing parameters for molecule SPE01500572   THIMEROSAL
 ----------------------------------
 FAILED 
-Molecule: SPE01503245   LEVAMISOLE HYDROCHLORIDE
-
+Molecule: SPE01503245
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SPE01503245   LEVAMISOLE HYDROCHLORIDE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'SPE01503245   LEVAMISOLE HYDROCHLORIDE'
 Warning: SPE01503245   LEVAMISOLE HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01504231   CLARITHROMYCIN
-
+Molecule: SPE01504231
 Warning: SPE01504231   CLARITHROMYCIN failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01500909   PROTOVERATRINE A
-
+Molecule: SPE01500909
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 20 of molecule 'SPE01500909   PROTOVERATRINE A'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 23 of molecule 'SPE01500909   PROTOVERATRINE A'
 Warning: SPE01500909   PROTOVERATRINE A failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100648   "14-METHOXY-4,4-BISNOR-4,8,11,13-PODOCARPATETRAE
-
+Molecule: SPE00100648
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SPE00100648   "14-METHOXY-4,4-BISNOR-4,8,11,13-PODOCARPATETRAE'
 Warning: SPE00100648   "14-METHOXY-4,4-BISNOR-4,8,11,13-PODOCARPATETRAE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00300049   5-HYDROXYIMINOISOCARYOPHYLLENE
-
+Molecule: SPE00300049
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SPE00300049   5-HYDROXYIMINOISOCARYOPHYLLENE'
 Warning: SPE00300049   5-HYDROXYIMINOISOCARYOPHYLLENE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500319   GRAMICIDIN
-
+Molecule: SPE01500319
 Warning: SPE01500319   GRAMICIDIN failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01505222   DERACOXIB
-
+Molecule: SPE01505222
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'SPE01505222   DERACOXIB'
 Warning: SPE01505222   DERACOXIB failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00330001   DACTINOMYCIN
-
+Molecule: SPE00330001
 Warning: SPE00330001   DACTINOMYCIN failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE00240889   PURPUROGALLIN TETRAMETHYL ETHER
-
+Molecule: SPE00240889
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'SPE00240889   PURPUROGALLIN TETRAMETHYL ETHER'
 Warning: SPE00240889   PURPUROGALLIN TETRAMETHYL ETHER failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00330002   MITOMYCIN C
-
+Molecule: SPE00330002
 Warning: need to optimize with C[C@H]1c2ccccc2[N@]3[C@]1([C@H]4[C@H](C3)N4)O constraints
 Warning: Unable to generate 3D conformer for C[C@H]1c2ccccc2[N@]3[C@]1([C@H]4[C@H](C3)N4)O.
 Warning: failed to build structure for molecule SPE00330002   MITOMYCIN C
 ----------------------------------
 FAILED 
-Molecule: SPE01503712   LORATADINE
-
+Molecule: SPE01503712
 Warning: Can't assign MMFF type to atom number    27   C
 Warning: force field setup failed due to missing parameters for molecule SPE01503712   LORATADINE
 ----------------------------------
 FAILED 
-Molecule: SPE02300292   MIANSERIN HYDROCHLORIDE
-
+Molecule: SPE02300292
 Warning: Can't assign MMFF type to atom number     1  Cl
 Warning: Can't assign MMFF type to atom number     4   C
 Warning: Can't assign MMFF type to atom number     5   C
@@ -1545,49 +1309,41 @@ Warning: Can't assign MMFF type to atom number    32   H
 Warning: force field setup failed due to missing parameters for molecule SPE02300292   MIANSERIN HYDROCHLORIDE
 ----------------------------------
 FAILED 
-Molecule: SPE00201125   "RESISTOMYCIN, TETRAMETHYL ETHER"
-
+Molecule: SPE00201125
 Warning: Can't assign MMFF type to atom number    13   C
 Warning: force field setup failed due to missing parameters for molecule SPE00201125   "RESISTOMYCIN, TETRAMETHYL ETHER"
 ----------------------------------
 FAILED 
-Molecule: SPE00201508   7-DESHYDROXYPYROGALLIN-4-CARBOXYLIC ACID
-
+Molecule: SPE00201508
 Warning: Can't assign MMFF type to atom number     5   C
 Warning: Can't assign MMFF type to atom number    20   H
 Warning: force field setup failed due to missing parameters for molecule SPE00201508   7-DESHYDROXYPYROGALLIN-4-CARBOXYLIC ACID
 ----------------------------------
 FAILED 
-Molecule: SPE01501105   PUROMYCIN HYDROCHLORIDE
-
+Molecule: SPE01501105
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'SPE01501105   PUROMYCIN HYDROCHLORIDE'
 Warning: SPE01501105   PUROMYCIN HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: SPE01503640   PARTHENOLIDE
-
+Molecule: SPE01503640
 Warning: atom stereo specified for planar atom 31 in C/C/1=C\CC[C@@]2([C@@H](O2)[C@H]3[C@@H](CC1)C(=C)C(=O)O3)C
 ----------------------------------
 FAILED 
-Molecule: SPE01500530   ROXARSONE
-
+Molecule: SPE01500530
 Warning: Can't assign MMFF type to atom number    11  As
 Warning: force field setup failed due to missing parameters for molecule SPE01500530   ROXARSONE
 ----------------------------------
 FAILED 
-Molecule: SPE00100199   DEOXYGEDUNOL ACETATE
-
+Molecule: SPE00100199
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 19 of molecule 'SPE00100199   DEOXYGEDUNOL ACETATE'
 Warning: SPE00100199   DEOXYGEDUNOL ACETATE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00102034   "3beta,7beta-DIACETOXYDEOXODEACETOXYDEOXYDIHYDRO
-
+Molecule: SPE00102034
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 24 of molecule 'SPE00102034   "3beta,7beta-DIACETOXYDEOXODEACETOXYDEOXYDIHYDRO'
 Warning: SPE00102034   "3beta,7beta-DIACETOXYDEOXODEACETOXYDEOXYDIHYDRO failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500637   MERBROMIN
-
+Molecule: SPE01500637
 Warning: Can't assign MMFF type to atom number     5   C
 Warning: Can't assign MMFF type to atom number     6   C
 Warning: Can't assign MMFF type to atom number     7   C
@@ -1607,58 +1363,48 @@ Warning: Can't assign MMFF type to atom number    37   H
 Warning: force field setup failed due to missing parameters for molecule SPE01500637   MERBROMIN
 ----------------------------------
 FAILED 
-Molecule: SPE01500644   PHENYLMERCURIC ACETATE
-
+Molecule: SPE01500644
 Warning: Can't assign MMFF type to atom number     5  Hg
 Warning: force field setup failed due to missing parameters for molecule SPE01500644   PHENYLMERCURIC ACETATE
 ----------------------------------
 FAILED 
-Molecule: SPE01504253   CYTOCHALASIN B
-
+Molecule: SPE01504253
 Warning: SPE01504253   CYTOCHALASIN B failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01504252   CYTOCHALASIN A
-
+Molecule: SPE01504252
 Warning: SPE01504252   CYTOCHALASIN A failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
-Molecule: SPE01505255   HUPERZINE A
-
+Molecule: SPE01505255
 Warning: atom stereo specified for planar atom 28 in CC1=C[C@H]2CC3=C(C=CC(=O)N3)[C@](C1)(C2=C)N
 ----------------------------------
 FAILED 
-Molecule: SPE00201515   THEAFLAVIN DIGALLATE
-
+Molecule: SPE00201515
 Warning: Can't assign MMFF type to atom number    26   C
 Warning: Can't assign MMFF type to atom number    77   H
 Warning: force field setup failed due to missing parameters for molecule SPE00201515   THEAFLAVIN DIGALLATE
 ----------------------------------
 FAILED 
-Molecule: SPE01900004   CHLORDIAZEPOXIDE
-
+Molecule: SPE01900004
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SPE01900004   CHLORDIAZEPOXIDE'
 Warning: SPE01900004   CHLORDIAZEPOXIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00100035   HEUDELOTTIN C
-
+Molecule: SPE00100035
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 15 of molecule 'SPE00100035   HEUDELOTTIN C'
 Warning: SPE00100035   HEUDELOTTIN C failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00330006   CADMIUM ACETATE
-
+Molecule: SPE00330006
 Warning: Can't assign MMFF type to atom number     5  Cd
 Warning: force field setup failed due to missing parameters for molecule SPE00330006   CADMIUM ACETATE
 ----------------------------------
 FAILED 
-Molecule: SPE01503679   AZITHROMYCIN
-
+Molecule: SPE01503679
 Warning: SPE01503679   AZITHROMYCIN failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE00400011   PUNCTAPORIN B
-
+Molecule: SPE00400011
 Warning: Can't assign MMFF type to atom number    17   C
 Warning: Can't assign MMFF type to atom number    18   C
 Warning: Can't assign MMFF type to atom number    41   H
@@ -1666,26 +1412,22 @@ Warning: Can't assign MMFF type to atom number    42   H
 Warning: force field setup failed due to missing parameters for molecule SPE00400011   PUNCTAPORIN B
 ----------------------------------
 FAILED 
-Molecule: SPE01503216   FILIPIN
-
+Molecule: SPE01503216
 Warning: SPE01503216   FILIPIN failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01503432   MEPARTRICIN
-
+Molecule: SPE01503432
 Warning: SPE01503432   MEPARTRICIN failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01501188   EBSELEN
-
+Molecule: SPE01501188
 Warning: no MMFF stretch parameters for bonded atoms 3 4 (atom types 10 83)
 Warning: no MMFF bend parameters for atoms 2 3 4
 Warning: no MMFF stretch-bend parameters for atoms 3 4 5
 Warning: force field setup failed due to missing parameters for molecule SPE01501188   EBSELEN
 ----------------------------------
 FAILED 
-Molecule: SPE01501202   GALANTHAMINE HYDROBROMIDE
-
+Molecule: SPE01501202
 Warning: Can't assign MMFF type to atom number    13   C
 Warning: Can't assign MMFF type to atom number    14   C
 Warning: Can't assign MMFF type to atom number    36   H
@@ -1693,34 +1435,29 @@ Warning: Can't assign MMFF type to atom number    37   H
 Warning: force field setup failed due to missing parameters for molecule SPE01501202   GALANTHAMINE HYDROBROMIDE
 ----------------------------------
 FAILED 
-Molecule: SPE01502034   METAMPICILLIN SODIUM
-
+Molecule: SPE01502034
 Warning: Can't assign MMFF type to atom number    17  C6  on residue UNK  1
 Warning: Can't assign MMFF type to atom number    37  H62 on residue UNK  1
 Warning: Can't assign MMFF type to atom number    38  H63 on residue UNK  1
 Warning: force field setup failed due to missing parameters for molecule SPE01502034   METAMPICILLIN SODIUM
 ----------------------------------
 FAILED 
-Molecule: SPE00310003   AMBRETTOLIDE
-
+Molecule: SPE00310003
 Warning: SPE00310003   AMBRETTOLIDE failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: SPE01500381   MEGESTROL ACETATE
-
+Molecule: SPE01500381
 Warning: Can't assign MMFF type to atom number    10   C
 Warning: Can't assign MMFF type to atom number    38   H
 Warning: force field setup failed due to missing parameters for molecule SPE01500381   MEGESTROL ACETATE
 ----------------------------------
 FAILED 
-Molecule: SPE01500691   PHENTOLAMINE HYDROCHLORIDE
-
+Molecule: SPE01500691
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'SPE01500691   PHENTOLAMINE HYDROCHLORIDE'
 Warning: SPE01500691   PHENTOLAMINE HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00500019   "EPOXY (4,5alpha)-4,5-DIHYDROSANTONIN"
-
+Molecule: SPE00500019
 Warning: Can't assign MMFF type to atom number     8   C
 Warning: Can't assign MMFF type to atom number     9   C
 Warning: Can't assign MMFF type to atom number    32   H
@@ -1728,54 +1465,45 @@ Warning: Can't assign MMFF type to atom number    33   H
 Warning: force field setup failed due to missing parameters for molecule SPE00500019   "EPOXY (4,5alpha)-4,5-DIHYDROSANTONIN"
 ----------------------------------
 FAILED 
-Molecule: SPE01502002   ACIVICIN
-
+Molecule: SPE01502002
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'SPE01502002   ACIVICIN'
 Warning: SPE01502002   ACIVICIN failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01500580   TOLAZOLINE HYDROCHLORIDE
-
+Molecule: SPE01500580
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'SPE01500580   TOLAZOLINE HYDROCHLORIDE'
 Warning: SPE01500580   TOLAZOLINE HYDROCHLORIDE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01502202   CYCLOSPORINE
-
+Molecule: SPE01502202
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 36 of molecule 'SPE01502202   CYCLOSPORINE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 38 of molecule 'SPE01502202   CYCLOSPORINE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 78 of molecule 'SPE01502202   CYCLOSPORINE'
 Warning: SPE01502202   CYCLOSPORINE failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: SPE01503986   CAFESTOL ACETATE
-
+Molecule: SPE01503986
 Warning: atom stereo specified for planar atom 41 in C[C@@]12CCc3c(cco3)[C@@H]1CC[C@@]45[C@H]2CC[C@@H](C4)[C@](C5)(C)O
 ----------------------------------
 FAILED 
-Molecule: SPE01500277   ERGONOVINE MALEATE
-
+Molecule: SPE01500277
 Warning: Can't assign MMFF type to atom number    23  C18 on residue UNK  1
 Warning: Can't assign MMFF type to atom number    47  H18 on residue UNK  1
 Warning: force field setup failed due to missing parameters for molecule SPE01500277   ERGONOVINE MALEATE
 ----------------------------------
-Molecule: SPE00100470   "7-DEACETOXY-7-OXO-KHIVORINIC ACID, METHYL ESTER
-
+Molecule: SPE00100470
 Warning: atom stereo specified for planar atom 40 in C[C@]12CC[C@@H]3[C@]4([C@H](C[C@H](C([C@@H]4CC(=O)[C@]3([C@]15[C@@H](O5)C(=O)O[C@@H]2[CH2])C)(C)C)O)O)C
 ----------------------------------
 FAILED 
-Molecule: SPE00100326   "METHYL 3beta,12-DIHYDROXY-11-KETOISOALLOSPIROST
-
+Molecule: SPE00100326
 Warning: SPE00100326   "METHYL 3beta,12-DIHYDROXY-11-KETOISOALLOSPIROST failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE00330060   METHOMYL
-
+Molecule: SPE00330060
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'SPE00330060   METHOMYL'
 Warning: SPE00330060   METHOMYL failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPE01505251   IMIDACLOPRIDE
-
+Molecule: SPE01505251
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'SPE01505251   IMIDACLOPRIDE'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'SPE01505251   IMIDACLOPRIDE'
 Warning: SPE01505251   IMIDACLOPRIDE failed due to unspecified stereochemistry with strict stereo enabled

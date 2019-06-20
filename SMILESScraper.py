@@ -32,7 +32,7 @@ def main():
     cwd = os.getcwd()
 
     cgm = sys.argv[1]
-    file_name = form_path(cwd, cgm)
+    file_name = os.path.join(cwd, cgm)
     smiles_scraper(file_name, cgm)
         
     end = datetime.datetime.now()
@@ -53,13 +53,13 @@ def smiles_scraper(file_name, cgm_name):
     '''
     # Create output folder if not exists
     cwd = os.getcwd()
-    output_folder = form_path(cwd, cmp_output_folder)
+    output_folder = os.path.join(cwd, cmp_output_folder)
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
         
     library_name = extract_library_name(cgm_name)
     output_file_name = library_name + "_SMILES.csv"
-    output_name = form_path(output_folder, output_file_name)
+    output_name = os.path.join(output_folder, output_file_name)
     output = pd.DataFrame()
 
     sys.stdout.write("Creating compound info file for " + library_name + "... \n")
@@ -163,25 +163,6 @@ def format_cmp_id(cmp_id):
     '''
     search_name = cmp_id.replace(" ", "%20")
     return search_name
-
-def form_path(start, end):
-    '''
-    Create string representing a path depending on
-    Windows/Linux environment
-
-    Args:
-        start (string): start of output path
-        end (string): string to add to end of start
-
-    Return:
-        (string): full path combining start and end
-    '''
-    path = ""
-    if "/" in start:
-        path = start + "/" + end
-    elif "\\" in start:
-        path = start + "\\" + end
-    return path
 
 if __name__ == "__main__":
     main()

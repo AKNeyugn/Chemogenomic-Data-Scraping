@@ -40,8 +40,8 @@ def main():
     # Create CGM .csv files for each compound library
     libraries = os.listdir(data_output_folder)
     for library in libraries:
-        tmp_dir_name = form_path(cwd, data_output_folder)
-        dir_name = form_path(tmp_dir_name, library)
+        tmp_dir_name = os.path.join(cwd, data_output_folder)
+        dir_name = os.path.join(tmp_dir_name, library)
         #create_cgm(dir_name, library)
 
     end = datetime.datetime.now()
@@ -57,7 +57,7 @@ def matrix_scraper():
     '''
     cwd = os.getcwd()
     for i in library_indices:
-        folder_name = form_path(cwd, data_output_folder)
+        folder_name = os.path.join(cwd, data_output_folder)
         main_url = main_url_start + str(i) + main_url_end
         main_response = requests.get(main_url)
         main_page_content = BeautifulSoup(main_response.content, "html.parser")
@@ -65,7 +65,7 @@ def matrix_scraper():
 
         # Create output folder for library
         library_name = table.find_all("tr")[1].find_all("td")[1].get_text()
-        library_folder = form_path(folder_name, library_name)
+        library_folder = os.path.join(folder_name, library_name)
         if not os.path.exists(library_folder):
             os.makedirs(library_folder)
 
@@ -89,7 +89,7 @@ def matrix_scraper():
                     # Write data into local .csv file
                     data = requests.get(data_url)
                     file_name = strain_name + "_" + num_bioactive + "_" + num_toxic + ".csv"
-                    output_name = form_path(library_folder, file_name)
+                    output_name = os.path.join(library_folder, file_name)
                     with open(output_name, "w", newline="") as f:
                         writer = csv.writer(f)
                         reader = csv.reader(data.text.splitlines())
@@ -117,19 +117,19 @@ def create_cgm(folder_name, library_name):
     '''
     # Create output folder if not exists
     cwd = os.getcwd()
-    output_folder = form_path(cwd, cgm_output_folder)
+    output_folder = os.path.join(cwd, cgm_output_folder)
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
     library = library_name
     list_data = os.listdir(folder_name)
     output_file_name = library + "_CGM.csv"
-    output_name = form_path(output_folder, output_file_name)
+    output_name = os.path.join(output_folder, output_file_name)
     output = pd.DataFrame()
 
     sys.stdout.write("Creating CGM for " + library + "... \n")
     for i in range(len(list_data)):
-        file_name = form_path(folder_name, list_data[i])
+        file_name = os.path.join(folder_name, list_data[i])
         df = pd.read_csv(file_name)
         indices = df[df.columns[0]]
         mutant_name = list_data[i][:list_data[i].index(".csv")]
@@ -181,25 +181,6 @@ def extract_strain_name(strain_info):
     start_index = strain_info.index("id=") + 3
     strain_name = strain_info[start_index:]
     return strain_name
-
-def form_path(start, end):
-    '''
-    Create string representing a path depending on
-    Windows/Linux environment
-
-    Args:
-        start (string): start of output path
-        end (string): string to add to end of start
-
-    Return:
-        (string): full path combining start and end
-    '''
-    path = ""
-    if "/" in start:
-        path = start + "/" + end
-    elif "\\" in start:
-        path = start + "\\" + end
-    return path
 
 if __name__ == "__main__":
     main()

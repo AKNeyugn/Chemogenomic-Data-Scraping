@@ -1,262 +1,220 @@
 FAILED 
-Molecule: BTB 02880     "5-{[(1-benzyl-4,5-dihydro-1H-imidazol-2-yl)thio
-
+Molecule: BTB 02880
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 16 of molecule 'BTB 02880     "5-{[(1-benzyl-4,5-dihydro-1H-imidazol-2-yl)thio'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 20 of molecule 'BTB 02880     "5-{[(1-benzyl-4,5-dihydro-1H-imidazol-2-yl)thio'
 Warning: BTB 02880     "5-{[(1-benzyl-4,5-dihydro-1H-imidazol-2-yl)thio failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: BTB 02990     N1-[(5-nitro-2-thienyl)methylidene]-2-[(4-chloro
-
+Molecule: BTB 02990
 Warning: Can't assign MMFF type to atom number     9   C
 Warning: Can't assign MMFF type to atom number    23   H
 Warning: force field setup failed due to missing parameters for molecule BTB 02990     N1-[(5-nitro-2-thienyl)methylidene]-2-[(4-chloro
 ----------------------------------
 FAILED 
-Molecule: XBX 00259     "2-(2-heptadecyl-2,5-dihydro-1H-imidazol-1-yl)et
-
+Molecule: XBX 00259
 Warning: Can't assign MMFF type to atom number    20   C
 Warning: Can't assign MMFF type to atom number    62   H
 Warning: force field setup failed due to missing parameters for molecule XBX 00259     "2-(2-heptadecyl-2,5-dihydro-1H-imidazol-1-yl)et
 ----------------------------------
 FAILED 
-Molecule: BTB 05562     "N1-phenyl-2-hydroxyimino-3-[2-(2,4,6-trichlorop
-
+Molecule: BTB 05562
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'BTB 05562     "N1-phenyl-2-hydroxyimino-3-[2-(2,4,6-trichlorop'
 Warning: BTB 05562     "N1-phenyl-2-hydroxyimino-3-[2-(2,4,6-trichlorop failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: BTB 09198     4-[2-chloro-5-(trifluoromethyl)phenoxy]-2-fluoro
-
+Molecule: BTB 09198
 Warning: Can't assign MMFF type to atom number     3   C
 Warning: Can't assign MMFF type to atom number    23   H
 Warning: force field setup failed due to missing parameters for molecule BTB 09198     4-[2-chloro-5-(trifluoromethyl)phenoxy]-2-fluoro
 ----------------------------------
 FAILED 
-Molecule: BTB 11033     "5-{[(cyclododecylideneamino)oxy]carbonyl}-4-met
-
+Molecule: BTB 11033
 Warning: BTB 11033     "5-{[(cyclododecylideneamino)oxy]carbonyl}-4-met failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: CD 04220      "3,4-dihydro-1H-2-benzothiin-4-oneO4-[2,6-dinitr
-
+Molecule: CD 04220
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'CD 04220      "3,4-dihydro-1H-2-benzothiin-4-oneO4-[2,6-dinitr'
 Warning: CD 04220      "3,4-dihydro-1H-2-benzothiin-4-oneO4-[2,6-dinitr failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: CD 06694      "1-[5-[3-(2,6-dichlorophenyl)-5-methylisoxazol-4
-
+Molecule: CD 06694
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'CD 06694      "1-[5-[3-(2,6-dichlorophenyl)-5-methylisoxazol-4'
 Warning: CD 06694      "1-[5-[3-(2,6-dichlorophenyl)-5-methylisoxazol-4 failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: CD 08585      "2-[(2,4-dinitrophenyl)thio]-4,5-dihydro-1,3-thi
-
+Molecule: CD 08585
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'CD 08585      "2-[(2,4-dinitrophenyl)thio]-4,5-dihydro-1,3-thi'
 Warning: CD 08585      "2-[(2,4-dinitrophenyl)thio]-4,5-dihydro-1,3-thi failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: CD 10146      3-({[(4-chloroanilino)carbonyl]oxy}imino)tetrahy
-
+Molecule: CD 10146
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'CD 10146      3-({[(4-chloroanilino)carbonyl]oxy}imino)tetrahy'
 Warning: CD 10146      3-({[(4-chloroanilino)carbonyl]oxy}imino)tetrahy failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: DP 00972      "7-(4-chlorobenzylidene)-3-(4-chlorophenyl)-3,3a
-
+Molecule: DP 00972
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 16 of molecule 'DP 00972      "7-(4-chlorobenzylidene)-3-(4-chlorophenyl)-3,3a'
 Warning: DP 00972      "7-(4-chlorobenzylidene)-3-(4-chlorophenyl)-3,3a failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: DP 02022      "4-(5-chloro-1-benzofuran-2-yl)-1,3-thiazol-2-am
-
+Molecule: DP 02022
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'DP 02022      "4-(5-chloro-1-benzofuran-2-yl)-1,3-thiazol-2-am'
 Warning: DP 02022      "4-(5-chloro-1-benzofuran-2-yl)-1,3-thiazol-2-am failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: DSHS 00509    "2,4b-dimethyl-1-[(3-oxo-2,3-dihydro-1H-indol-2-
-
+Molecule: DSHS 00509
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 16 of molecule 'DSHS 00509    "2,4b-dimethyl-1-[(3-oxo-2,3-dihydro-1H-indol-2-'
 Warning: DSHS 00509    "2,4b-dimethyl-1-[(3-oxo-2,3-dihydro-1H-indol-2- failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: DSHS 01039    "N1-(4,4-diethyl-5-methylidene-1,3-thiazolan-2-y
-
+Molecule: DSHS 01039
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'DSHS 01039    "N1-(4,4-diethyl-5-methylidene-1,3-thiazolan-2-y'
 Warning: DSHS 01039    "N1-(4,4-diethyl-5-methylidene-1,3-thiazolan-2-y failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: JA 00056      "2-(4-hydroxyiminocyclohexa-2,5-dienyliden)-2-ph
-
+Molecule: JA 00056
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'JA 00056      "2-(4-hydroxyiminocyclohexa-2,5-dienyliden)-2-ph'
 Warning: JA 00056      "2-(4-hydroxyiminocyclohexa-2,5-dienyliden)-2-ph failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: JA 00094      3-[2-(5-bromo-2-hydroxybenzylidene)hydrazono]ind
-
+Molecule: JA 00094
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'JA 00094      3-[2-(5-bromo-2-hydroxybenzylidene)hydrazono]ind'
 Warning: JA 00094      3-[2-(5-bromo-2-hydroxybenzylidene)hydrazono]ind failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: JA 00113      "2-(3-chloro-4-hydroxyiminocyclohexa-2,5-dienyli
-
+Molecule: JA 00113
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'JA 00113      "2-(3-chloro-4-hydroxyiminocyclohexa-2,5-dienyli'
 Warning: JA 00113      "2-(3-chloro-4-hydroxyiminocyclohexa-2,5-dienyli failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: JA 00132      "2-(3-bromo-4-hydroxyiminocyclohexa-2,5-dienylid
-
+Molecule: JA 00132
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'JA 00132      "2-(3-bromo-4-hydroxyiminocyclohexa-2,5-dienylid'
 Warning: JA 00132      "2-(3-bromo-4-hydroxyiminocyclohexa-2,5-dienylid failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: JFD 01743     "N1-(1,4-dibenzoyl-5-phenyl-4,5-dihydro-1H-1,2,4
-
+Molecule: JFD 01743
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'JFD 01743     "N1-(1,4-dibenzoyl-5-phenyl-4,5-dihydro-1H-1,2,4'
 Warning: JFD 01743     "N1-(1,4-dibenzoyl-5-phenyl-4,5-dihydro-1H-1,2,4 failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: JFD 02452     "10-{[3-(acetylamino)-4,5-dihydroxy-6-(hydroxyme
-
+Molecule: JFD 02452
 Warning: Can't assign MMFF type to atom number    28   C
 Warning: Can't assign MMFF type to atom number    81   H
 Warning: force field setup failed due to missing parameters for molecule JFD 02452     "10-{[3-(acetylamino)-4,5-dihydroxy-6-(hydroxyme
 ----------------------------------
 FAILED 
-Molecule: JFD 03665     10-(hydroxymethylene)phenanthren-9(10H)-one
-
+Molecule: JFD 03665
 Warning: Can't assign MMFF type to atom number     2   C
 Warning: Can't assign MMFF type to atom number    19   H
 Warning: force field setup failed due to missing parameters for molecule JFD 03665     10-(hydroxymethylene)phenanthren-9(10H)-one
 ----------------------------------
 FAILED 
-Molecule: JFD 03909     "[1,10]phenanthroline hydrochloride hydrate"
-
+Molecule: JFD 03909
 Warning: Can't assign MMFF type to atom number     1  Cl
 Warning: Can't assign MMFF type to atom number    16   H
 Warning: force field setup failed due to missing parameters for molecule JFD 03909     "[1,10]phenanthroline hydrochloride hydrate"
 ----------------------------------
 FAILED 
-Molecule: KM 00382      2-[2-(4-bromophenyl)hydrazono]-3-cyclopropyl-3-o
-
+Molecule: KM 00382
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'KM 00382      2-[2-(4-bromophenyl)hydrazono]-3-cyclopropyl-3-o'
 Warning: KM 00382      2-[2-(4-bromophenyl)hydrazono]-3-cyclopropyl-3-o failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: KM 00526      N1-{4-bromo-5-[4-(tert-butyl)phenyl]-1H-pyrazol-
-
+Molecule: KM 00526
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'KM 00526      N1-{4-bromo-5-[4-(tert-butyl)phenyl]-1H-pyrazol-'
 Warning: KM 00526      N1-{4-bromo-5-[4-(tert-butyl)phenyl]-1H-pyrazol- failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: KM 01746      (4-chlorophenyl)-N-ethoxydioxo-lambda~6~-sulfane
-
+Molecule: KM 01746
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'KM 01746      (4-chlorophenyl)-N-ethoxydioxo-lambda~6~-sulfane'
 Warning: KM 01746      (4-chlorophenyl)-N-ethoxydioxo-lambda~6~-sulfane failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: KM 05809      "N1-[1-(3-chloro-5,5-dimethyl-7-oxo-4,5,6,7-tetr
-
+Molecule: KM 05809
 Warning: Can't assign MMFF type to atom number     2   S
 Warning: force field setup failed due to missing parameters for molecule KM 05809      "N1-[1-(3-chloro-5,5-dimethyl-7-oxo-4,5,6,7-tetr
 ----------------------------------
 FAILED 
-Molecule: KM 05853      "N-[1-(3-chloro-5,5-dimethyl-7-oxo-4,5,6,7-tetra
-
+Molecule: KM 05853
 Warning: Can't assign MMFF type to atom number     2   S
 Warning: force field setup failed due to missing parameters for molecule KM 05853      "N-[1-(3-chloro-5,5-dimethyl-7-oxo-4,5,6,7-tetra
 ----------------------------------
 FAILED 
-Molecule: KM 06239      "N1-[4-(4-chlorobenzoyl)-1lambda~4~,4-thiazinan-
-
+Molecule: KM 06239
 Warning: Can't assign MMFF type to atom number    14   S
 Warning: force field setup failed due to missing parameters for molecule KM 06239      "N1-[4-(4-chlorobenzoyl)-1lambda~4~,4-thiazinan-
 ----------------------------------
 FAILED 
-Molecule: KM 06501      4-[1-methyl-1-({[4-(trifluoromethoxy)anilino]car
-
+Molecule: KM 06501
 Warning: Can't assign MMFF type to atom number     2   S
 Warning: force field setup failed due to missing parameters for molecule KM 06501      4-[1-methyl-1-({[4-(trifluoromethoxy)anilino]car
 ----------------------------------
 FAILED 
-Molecule: KM 10430      "3-(5-chloro-3-methyl-1-benzothiophen-2-yl)-5-(t
-
+Molecule: KM 10430
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'KM 10430      "3-(5-chloro-3-methyl-1-benzothiophen-2-yl)-5-(t'
 Warning: KM 10430      "3-(5-chloro-3-methyl-1-benzothiophen-2-yl)-5-(t failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: ML 00449      "5-bromo-1H-indole-2,3-dione3-[N-(4-[1,1`-biphen
-
+Molecule: ML 00449
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'ML 00449      "5-bromo-1H-indole-2,3-dione3-[N-(4-[1,1`-biphen'
 Warning: ML 00449      "5-bromo-1H-indole-2,3-dione3-[N-(4-[1,1`-biphen failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: MWP 00823     "N1-(3-chlorophenyl)-4-[(5-chlorobenzo[b]thiophe
-
+Molecule: MWP 00823
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'MWP 00823     "N1-(3-chlorophenyl)-4-[(5-chlorobenzo[b]thiophe'
 Warning: MWP 00823     "N1-(3-chlorophenyl)-4-[(5-chlorobenzo[b]thiophe failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: PD 00406      "2-{[(1-benzothiophen-3-ylmethyl)imino]methyl}-4
-
+Molecule: PD 00406
 Warning: Can't assign MMFF type to atom number    10   C
 Warning: Can't assign MMFF type to atom number    25   H
 Warning: force field setup failed due to missing parameters for molecule PD 00406      "2-{[(1-benzothiophen-3-ylmethyl)imino]methyl}-4
 ----------------------------------
 FAILED 
-Molecule: PD 00407      "2-{[(cyclopropylmethyl)imino]methyl}-4,6-diiodo
-
+Molecule: PD 00407
 Warning: Can't assign MMFF type to atom number    10   C
 Warning: Can't assign MMFF type to atom number    19   H
 Warning: force field setup failed due to missing parameters for molecule PD 00407      "2-{[(cyclopropylmethyl)imino]methyl}-4,6-diiodo
 ----------------------------------
 FAILED 
-Molecule: PD 00408      "2-{[(4-fluorobenzyl)imino]methyl}-4,6-diiodophe
-
+Molecule: PD 00408
 Warning: Can't assign MMFF type to atom number    10   C
 Warning: Can't assign MMFF type to atom number    23   H
 Warning: force field setup failed due to missing parameters for molecule PD 00408      "2-{[(4-fluorobenzyl)imino]methyl}-4,6-diiodophe
 ----------------------------------
 FAILED 
-Molecule: PD 00502      "2-{[(2-anilinoethyl)imino]methyl}-4,6-diiodophe
-
+Molecule: PD 00502
 Warning: Can't assign MMFF type to atom number    10   C
 Warning: Can't assign MMFF type to atom number    24   H
 Warning: force field setup failed due to missing parameters for molecule PD 00502      "2-{[(2-anilinoethyl)imino]methyl}-4,6-diiodophe
 ----------------------------------
 FAILED 
-Molecule: RF 00973      "4-(2,6-dichlorobenzylidene)-3-phenyl-4,5-dihydr
-
+Molecule: RF 00973
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'RF 00973      "4-(2,6-dichlorobenzylidene)-3-phenyl-4,5-dihydr'
 Warning: RF 00973      "4-(2,6-dichlorobenzylidene)-3-phenyl-4,5-dihydr failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: RF 03548      "1-(2-furylmethyl)-2-(methylthio)-4-[(5-nitro-2-
-
+Molecule: RF 03548
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'RF 03548      "1-(2-furylmethyl)-2-(methylthio)-4-[(5-nitro-2-'
 Warning: RF 03548      "1-(2-furylmethyl)-2-(methylthio)-4-[(5-nitro-2- failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: RF 03874      "methyl4-[2-(2,4-dichlorophenyl)hydrazono]tetrah
-
+Molecule: RF 03874
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'RF 03874      "methyl4-[2-(2,4-dichlorophenyl)hydrazono]tetrah'
 Warning: RF 03874      "methyl4-[2-(2,4-dichlorophenyl)hydrazono]tetrah failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: RJC 00993     "methyl 2-[5-(4-chlorophenyl)-3-oxo-2,3-dihydrof
-
+Molecule: RJC 00993
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'RJC 00993     "methyl 2-[5-(4-chlorophenyl)-3-oxo-2,3-dihydrof'
 Warning: RJC 00993     "methyl 2-[5-(4-chlorophenyl)-3-oxo-2,3-dihydrof failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: RJC 01737     "1-(3,6-dibromo-9H-carbazol-9-yl)-3-piperazinopr
-
+Molecule: RJC 01737
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 14 of molecule 'RJC 01737     "1-(3,6-dibromo-9H-carbazol-9-yl)-3-piperazinopr'
 Warning: RJC 01737     "1-(3,6-dibromo-9H-carbazol-9-yl)-3-piperazinopr failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: RJC 02958     "pentacyclo[6.6.6.0~2,7~.0~9,14~.0~15,20~]icosa-
-
+Molecule: RJC 02958
 Warning: Can't assign MMFF type to atom number     3   C
 Warning: Can't assign MMFF type to atom number     4   C
 Warning: Can't assign MMFF type to atom number    23   H
@@ -264,112 +222,94 @@ Warning: Can't assign MMFF type to atom number    24   H
 Warning: force field setup failed due to missing parameters for molecule RJC 02958     "pentacyclo[6.6.6.0~2,7~.0~9,14~.0~15,20~]icosa-
 ----------------------------------
 FAILED 
-Molecule: RJC 03603     "1,3-dimethyl-2,6-diphenyltetrahydropyridin-4(1H
-
+Molecule: RJC 03603
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'RJC 03603     "1,3-dimethyl-2,6-diphenyltetrahydropyridin-4(1H'
 Warning: RJC 03603     "1,3-dimethyl-2,6-diphenyltetrahydropyridin-4(1H failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: RJF 00163     "3-(3-chloro-4-fluorophenyl)-2-[(3-chloro-4-fluo
-
+Molecule: RJF 00163
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'RJF 00163     "3-(3-chloro-4-fluorophenyl)-2-[(3-chloro-4-fluo'
 Warning: RJF 00163     "3-(3-chloro-4-fluorophenyl)-2-[(3-chloro-4-fluo failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: S 03777       "2-[(1,3-benzodioxol-5-ylmethyl)ethanimidoyl]phe
-
+Molecule: S 03777
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'S 03777       "2-[(1,3-benzodioxol-5-ylmethyl)ethanimidoyl]phe'
 Warning: S 03777       "2-[(1,3-benzodioxol-5-ylmethyl)ethanimidoyl]phe failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: S 03802       "2-[(3,4-dichlorobenzyl)ethanimidoyl]phenol"
-
+Molecule: S 03802
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'S 03802       "2-[(3,4-dichlorobenzyl)ethanimidoyl]phenol"'
 Warning: S 03802       "2-[(3,4-dichlorobenzyl)ethanimidoyl]phenol" failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: S 05769       "3,3,5-trimethyl-N-[(5-nitro-2-thienyl)methylene
-
+Molecule: S 05769
 Warning: Can't assign MMFF type to atom number     9   C
 Warning: Can't assign MMFF type to atom number    22   H
 Warning: force field setup failed due to missing parameters for molecule S 05769       "3,3,5-trimethyl-N-[(5-nitro-2-thienyl)methylene
 ----------------------------------
 FAILED 
-Molecule: S 07776       "3,5-di(2-chlorobenzylidene)-1-methylpiperidin-4
-
+Molecule: S 07776
 Warning: Can't assign MMFF type to atom number     1  Cl
 Warning: Can't assign MMFF type to atom number    26   H
 Warning: force field setup failed due to missing parameters for molecule S 07776       "3,5-di(2-chlorobenzylidene)-1-methylpiperidin-4
 ----------------------------------
 FAILED 
-Molecule: S 09951       "2-[4-(hydroxyimino)cyclohexa-2,5-dien-1-ylidene
-
+Molecule: S 09951
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'S 09951       "2-[4-(hydroxyimino)cyclohexa-2,5-dien-1-ylidene'
 Warning: S 09951       "2-[4-(hydroxyimino)cyclohexa-2,5-dien-1-ylidene failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: S 13071       "1-[2-(trifluoromethoxy)phenyl]-2,5-dihydro-1H-p
-
+Molecule: S 13071
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 5 of molecule 'S 13071       "1-[2-(trifluoromethoxy)phenyl]-2,5-dihydro-1H-p'
 Warning: S 13071       "1-[2-(trifluoromethoxy)phenyl]-2,5-dihydro-1H-p failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: S 14458       2-[1-(4-isobutylphenyl)ethylidene]hydrazine-1-ca
-
+Molecule: S 14458
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'S 14458       2-[1-(4-isobutylphenyl)ethylidene]hydrazine-1-ca'
 Warning: S 14458       2-[1-(4-isobutylphenyl)ethylidene]hydrazine-1-ca failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: S 15048       "N-{1-(3,4-dichlorophenyl)-2-oxo-5-thioxo-3-[4-(
-
+Molecule: S 15048
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'S 15048       "N-{1-(3,4-dichlorophenyl)-2-oxo-5-thioxo-3-[4-('
 Warning: S 15048       "N-{1-(3,4-dichlorophenyl)-2-oxo-5-thioxo-3-[4-( failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SEW 04168     "1,1,1,5,5,5-hexafluoro-4-[2-(4-nitrophenyl)hydr
-
+Molecule: SEW 04168
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'SEW 04168     "1,1,1,5,5,5-hexafluoro-4-[2-(4-nitrophenyl)hydr'
 Warning: SEW 04168     "1,1,1,5,5,5-hexafluoro-4-[2-(4-nitrophenyl)hydr failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SP 01343      "3-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphth
-
+Molecule: SP 01343
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 14 of molecule 'SP 01343      "3-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphth'
 Warning: SP 01343      "3-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphth failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SP 01381      "3-(5-chloro-3-methyl-1-benzothiophen-2-yl)-5-(t
-
+Molecule: SP 01381
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'SP 01381      "3-(5-chloro-3-methyl-1-benzothiophen-2-yl)-5-(t'
 Warning: SP 01381      "3-(5-chloro-3-methyl-1-benzothiophen-2-yl)-5-(t failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SP 01458      "3-(10H-phenothiazin-2-yl)-5-(trifluoromethyl)-4
-
+Molecule: SP 01458
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SP 01458      "3-(10H-phenothiazin-2-yl)-5-(trifluoromethyl)-4'
 Warning: SP 01458      "3-(10H-phenothiazin-2-yl)-5-(trifluoromethyl)-4 failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPB 02912     2-cyano-2-{2-[4-(trifluoromethoxy)phenyl]hydrazo
-
+Molecule: SPB 02912
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'SPB 02912     2-cyano-2-{2-[4-(trifluoromethoxy)phenyl]hydrazo'
 Warning: SPB 02912     2-cyano-2-{2-[4-(trifluoromethoxy)phenyl]hydrazo failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPB 04446     "4,4,4-trifluoro-2-[2-(4-nitrophenyl)hydrazono]-
-
+Molecule: SPB 04446
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'SPB 04446     "4,4,4-trifluoro-2-[2-(4-nitrophenyl)hydrazono]-'
 Warning: SPB 04446     "4,4,4-trifluoro-2-[2-(4-nitrophenyl)hydrazono]- failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPB 06981     "5-(methylthio)-2-(2-pyridyl)-2,3-dihydro-1,3,4-
-
+Molecule: SPB 06981
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'SPB 06981     "5-(methylthio)-2-(2-pyridyl)-2,3-dihydro-1,3,4-'
 Warning: SPB 06981     "5-(methylthio)-2-(2-pyridyl)-2,3-dihydro-1,3,4- failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: SPB 07218     "1-{4-[(5-nitro-1,3-thiazol-2-yl)oxy]phenyl}etha
-
+Molecule: SPB 07218
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'SPB 07218     "1-{4-[(5-nitro-1,3-thiazol-2-yl)oxy]phenyl}etha'
 Warning: SPB 07218     "1-{4-[(5-nitro-1,3-thiazol-2-yl)oxy]phenyl}etha failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------

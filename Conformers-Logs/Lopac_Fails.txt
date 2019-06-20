@@ -1,63 +1,53 @@
 FAILED 
-Molecule: LOPAC 00574   S(-)-p-Bromotetramisole oxalate
-
+Molecule: LOPAC 00574
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 19 of molecule 'LOPAC 00574   S(-)-p-Bromotetramisole oxalate'
 Warning: LOPAC 00574   S(-)-p-Bromotetramisole oxalate failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00621   Aminopterin
-
+Molecule: LOPAC 00621
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'LOPAC 00621   Aminopterin'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'LOPAC 00621   Aminopterin'
 Warning: LOPAC 00621   Aminopterin failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01342   Apomorphine hydrochloride hemihydrate
-
+Molecule: LOPAC 01342
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'LOPAC 01342   Apomorphine hydrochloride hemihydrate'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'LOPAC 01342   Apomorphine hydrochloride hemihydrate'
 Warning: LOPAC 01342   Apomorphine hydrochloride hemihydrate failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00673   Sodium Taurocholate
-
+Molecule: LOPAC 00673
 Warning: Can't assign MMFF type to atom number    14  Na
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00673   Sodium Taurocholate
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00408   Aminoguanidine hemisulfate
-
+Molecule: LOPAC 00408
 Warning: LOPAC 00408   Aminoguanidine hemisulfate failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00676   Methotrexate
-
+Molecule: LOPAC 00676
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'LOPAC 00676   Methotrexate'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'LOPAC 00676   Methotrexate'
 Warning: LOPAC 00676   Methotrexate failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00679   4-Aminobenzamidine dihydrochloride
-
+Molecule: LOPAC 00679
 Warning: Can't assign MMFF type to atom number     3   C
 Warning: Can't assign MMFF type to atom number    13   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00679   4-Aminobenzamidine dihydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00688   Ancitabine hydrochloride
-
+Molecule: LOPAC 00688
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'LOPAC 00688   Ancitabine hydrochloride'
 Warning: LOPAC 00688   Ancitabine hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00691   Aminoguanidine hydrochloride
-
+Molecule: LOPAC 00691
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'LOPAC 00691   Aminoguanidine hydrochloride'
 Warning: LOPAC 00691   Aminoguanidine hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00692   BW 284c51
-
+Molecule: LOPAC 00692
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'LOPAC 00692   BW 284c51'
 Warning: Can't assign MMFF type to atom number     3   C
 Warning: Can't assign MMFF type to atom number     9   C
@@ -79,45 +69,38 @@ Warning: Can't assign MMFF type to atom number    60   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00692   BW 284c51
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00101   Antozoline hydrochloride
-
+Molecule: LOPAC 00101
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 18 of molecule 'LOPAC 00101   Antozoline hydrochloride'
 Warning: LOPAC 00101   Antozoline hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00699   (-)Amethopterin
-
+Molecule: LOPAC 00699
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'LOPAC 00699   (-)Amethopterin'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'LOPAC 00699   (-)Amethopterin'
 Warning: LOPAC 00699   (-)Amethopterin failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00713   Benzamil hydrochloride
-
+Molecule: LOPAC 00713
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'LOPAC 00713   Benzamil hydrochloride'
 Warning: LOPAC 00713   Benzamil hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00714   L-Buthionine-sulfoximine
-
+Molecule: LOPAC 00714
 Warning: Can't assign MMFF type to atom number     5   S
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00714   L-Buthionine-sulfoximine
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00715   "DL-Buthionine-[S,R]-sulfoximine"
-
+Molecule: LOPAC 00715
 Warning: Can't assign MMFF type to atom number     5   S
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00715   "DL-Buthionine-[S,R]-sulfoximine"
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00717   Betaine hydrochloride
-
+Molecule: LOPAC 00717
 Warning: Can't assign MMFF type to atom number     2   N
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00717   Betaine hydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00718   Betaine aldehyde chloride
-
+Molecule: LOPAC 00718
 Warning: Can't assign MMFF type to atom number     2   N
 Warning: Can't assign MMFF type to atom number     5   C
 Warning: Can't assign MMFF type to atom number     6   C
@@ -128,19 +111,16 @@ Warning: Can't assign MMFF type to atom number    19   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00718   Betaine aldehyde chloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00719   Benazoline oxalate
-
+Molecule: LOPAC 00719
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'LOPAC 00719   Benazoline oxalate'
 Warning: LOPAC 00719   Benazoline oxalate failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00739   Brefeldin A from Penicillium brefeldianum
-
+Molecule: LOPAC 00739
 Warning: LOPAC 00739   Brefeldin A from Penicillium brefeldianum failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00097   Phenoxybenzamine hydrochloride
-
+Molecule: LOPAC 00097
 Warning: Can't assign MMFF type to atom number     6   C
 Warning: Can't assign MMFF type to atom number     7   C
 Warning: Can't assign MMFF type to atom number    13   C
@@ -151,93 +131,78 @@ Warning: Can't assign MMFF type to atom number    36   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00097   Phenoxybenzamine hydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00734   Chloroethylclonidine dihydrochloride
-
+Molecule: LOPAC 00734
 Warning: Can't assign MMFF type to atom number     8   C
 Warning: Can't assign MMFF type to atom number    30   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00734   Chloroethylclonidine dihydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00246   Bupropion hydrochloride
-
+Molecule: LOPAC 00246
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'LOPAC 00246   Bupropion hydrochloride'
 Warning: LOPAC 00246   Bupropion hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00099   BU224 hydrochloride
-
+Molecule: LOPAC 00099
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'LOPAC 00099   BU224 hydrochloride'
 Warning: LOPAC 00099   BU224 hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00102   BRL 37344 sodium
-
+Molecule: LOPAC 00102
 Warning: Can't assign MMFF type to atom number    13  Na
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00102   BRL 37344 sodium
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00250   (?ñ)-Butaclamol hydrochloride
-
+Molecule: LOPAC 00250
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 25 of molecule 'LOPAC 00250   (?ñ)-Butaclamol hydrochloride'
 Warning: LOPAC 00250   (?ñ)-Butaclamol hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00747   Cyclophosphamide monohydrate
-
+Molecule: LOPAC 00747
 Warning: Can't assign MMFF type to atom number     4   N
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00747   Cyclophosphamide monohydrate
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00755   Chlorprothixene hydrochloride
-
+Molecule: LOPAC 00755
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'LOPAC 00755   Chlorprothixene hydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'LOPAC 00755   Chlorprothixene hydrochloride'
 Warning: LOPAC 00755   Chlorprothixene hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00760   Carboplatin
-
+Molecule: LOPAC 00760
 Warning: Can't assign MMFF type to atom number     5  Pt
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00760   Carboplatin
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00761   Cortisone
-
+Molecule: LOPAC 00761
 Warning: LOPAC 00761   Cortisone failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00767   Cyproterone acetate
-
+Molecule: LOPAC 00767
 Warning: Can't assign MMFF type to atom number    10   C
 Warning: Can't assign MMFF type to atom number    39   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00767   Cyproterone acetate
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00423   Ciclosporin
-
+Molecule: LOPAC 00423
 Warning: LOPAC 00423   Ciclosporin failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00104   Cimetidine
-
+Molecule: LOPAC 00104
 Warning: LOPAC 00104   Cimetidine failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00545   1-(3-Chlorophenyl)piperazine dihydrochloride
-
+Molecule: LOPAC 00545
 Warning: Can't assign MMFF type to atom number     3   C
 Warning: Can't assign MMFF type to atom number    14   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00545   1-(3-Chlorophenyl)piperazine dihydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00780   Ceftriaxone sodium
-
+Molecule: LOPAC 00780
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'LOPAC 00780   Ceftriaxone sodium'
 Warning: LOPAC 00780   Ceftriaxone sodium failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00781   4-Chloromercuribenzoic acid
-
+Molecule: LOPAC 00781
 Warning: Can't assign MMFF type to atom number     5   C
 Warning: Can't assign MMFF type to atom number     6   C
 Warning: Can't assign MMFF type to atom number     8  Hg
@@ -250,26 +215,22 @@ Warning: Can't assign MMFF type to atom number    16   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00781   4-Chloromercuribenzoic acid
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00494   Cyproheptadine hydrochloride
-
+Molecule: LOPAC 00494
 Warning: Can't assign MMFF type to atom number    14   C
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00494   Cyproheptadine hydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00809   CPCCOEt
-
+Molecule: LOPAC 00809
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'LOPAC 00809   CPCCOEt'
 Warning: LOPAC 00809   CPCCOEt failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00103   CGS-12066A maleate
-
+Molecule: LOPAC 00103
 Warning: Can't assign MMFF type to atom number    10   C
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00103   CGS-12066A maleate
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00255   4`-Chloro-3-alpha-(diphenylmethoxy)tropane hydro
-
+Molecule: LOPAC 00255
 Warning: Can't assign MMFF type to atom number     2   N
 Warning: Can't assign MMFF type to atom number     4   C
 Warning: Can't assign MMFF type to atom number     6   C
@@ -282,93 +243,79 @@ Warning: Can't assign MMFF type to atom number    38   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00255   4`-Chloro-3-alpha-(diphenylmethoxy)tropane hydro
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00355   CNQX disodium
-
+Molecule: LOPAC 00355
 Warning: Can't assign MMFF type to atom number    10  Na
 Warning: Can't assign MMFF type to atom number    13  Na
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00355   CNQX disodium
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01305   CGP 20712A methanesulfonate
-
+Molecule: LOPAC 01305
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 5 of molecule 'LOPAC 01305   CGP 20712A methanesulfonate'
 Warning: LOPAC 01305   CGP 20712A methanesulfonate failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00429   Diphenyleneiodonium chloride
-
+Molecule: LOPAC 00429
 Warning: Can't assign MMFF type to atom number     1   I
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00429   Diphenyleneiodonium chloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00835   "5,5-Diphenylhydantoin"
-
+Molecule: LOPAC 00835
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'LOPAC 00835   "5,5-Diphenylhydantoin"'
 Warning: LOPAC 00835   "5,5-Diphenylhydantoin" failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00042   Diclofenac sodium
-
+Molecule: LOPAC 00042
 Warning: Can't assign MMFF type to atom number     1  Na
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00042   Diclofenac sodium
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00848   R-(-)-Desmethyldeprenyl hydrochloride
-
+Molecule: LOPAC 00848
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'LOPAC 00848   R-(-)-Desmethyldeprenyl hydrochloride'
 Warning: LOPAC 00848   R-(-)-Desmethyldeprenyl hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00861   "(R,R)-cis-Diethyl tetrahydro-2,8-chrysenediol"
-
+Molecule: LOPAC 00861
 Warning: Can't assign MMFF type to atom number    18   C
 Warning: Can't assign MMFF type to atom number    45   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00861   "(R,R)-cis-Diethyl tetrahydro-2,8-chrysenediol"
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00266   "R(-)-2,10,11-Trihydroxyaporphine hybrobromide"
-
+Molecule: LOPAC 00266
 Warning: Can't assign MMFF type to atom number     3   C
 Warning: Can't assign MMFF type to atom number    26   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00266   "R(-)-2,10,11-Trihydroxyaporphine hybrobromide"
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00868   Doxycycline hydrochloride
-
+Molecule: LOPAC 00868
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'LOPAC 00868   Doxycycline hydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'LOPAC 00868   Doxycycline hydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'LOPAC 00868   Doxycycline hydrochloride'
 Warning: LOPAC 00868   Doxycycline hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00869   (+)-Butaclamol hydrochloride
-
+Molecule: LOPAC 00869
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'LOPAC 00869   (+)-Butaclamol hydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 25 of molecule 'LOPAC 00869   (+)-Butaclamol hydrochloride'
 Warning: LOPAC 00869   (+)-Butaclamol hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00270   R(-)-N-Allylnorapomorphine hydrobromide
-
+Molecule: LOPAC 00270
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 21 of molecule 'LOPAC 00270   R(-)-N-Allylnorapomorphine hydrobromide'
 Warning: LOPAC 00270   R(-)-N-Allylnorapomorphine hydrobromide failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00276   R(+)-SCH-23390 hydrochloride
-
+Molecule: LOPAC 00276
 Warning: Can't assign MMFF type to atom number     1  Cl
 Warning: Can't assign MMFF type to atom number    22   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00276   R(+)-SCH-23390 hydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00587   "(?ñ)-2,3-Dichloro-alpha-methylbenzylamine hydro
-
+Molecule: LOPAC 00587
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 5 of molecule 'LOPAC 00587   "(?ñ)-2,3-Dichloro-alpha-methylbenzylamine hydro'
 Warning: LOPAC 00587   "(?ñ)-2,3-Dichloro-alpha-methylbenzylamine hydro failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00278   Dihydroergocristine methanesulfonate
-
+Molecule: LOPAC 00278
 Warning: Can't assign MMFF type to atom number    10   C
 Warning: Can't assign MMFF type to atom number    12   C
 Warning: Can't assign MMFF type to atom number    22   N
@@ -378,8 +325,7 @@ Warning: Can't assign MMFF type to atom number    60   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00278   Dihydroergocristine methanesulfonate
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00881   Emetine dihydrochloride hydrate
-
+Molecule: LOPAC 00881
 Warning: Can't assign MMFF type to atom number     2   C
 Warning: Can't assign MMFF type to atom number     4   C
 Warning: Can't assign MMFF type to atom number    39   H
@@ -389,55 +335,47 @@ Warning: Can't assign MMFF type to atom number    43   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00881   Emetine dihydrochloride hydrate
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00890   Ebselen
-
+Molecule: LOPAC 00890
 Warning: no MMFF stretch parameters for bonded atoms 3 4 (atom types 10 83)
 Warning: no MMFF bend parameters for atoms 2 3 4
 Warning: no MMFF stretch-bend parameters for atoms 3 4 5
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00890   Ebselen
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00282   Ergocristine
-
+Molecule: LOPAC 00282
 Warning: Can't assign MMFF type to atom number    23   C
 Warning: Can't assign MMFF type to atom number    68   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00282   Ergocristine
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00285   Fluphenazine dihydrochloride
-
+Molecule: LOPAC 00285
 Warning: Can't assign MMFF type to atom number     2   C
 Warning: Can't assign MMFF type to atom number    32   H
 Warning: Can't assign MMFF type to atom number    33   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00285   Fluphenazine dihydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00913   Fenspiride hydrochloride
-
+Molecule: LOPAC 00913
 Warning: Can't assign MMFF type to atom number     5   C
 Warning: Can't assign MMFF type to atom number    12   C
 Warning: Can't assign MMFF type to atom number    31   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00913   Fenspiride hydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01333   cis-(Z)-Flupenthixol dihydrochloride
-
+Molecule: LOPAC 01333
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'LOPAC 01333   cis-(Z)-Flupenthixol dihydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 14 of molecule 'LOPAC 01333   cis-(Z)-Flupenthixol dihydrochloride'
 Warning: LOPAC 01333   cis-(Z)-Flupenthixol dihydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: LOPAC 00933   Guanidinyl-naltrindole di-trifluoroacetate
-
+Molecule: LOPAC 00933
 Warning: atom stereo specified for planar atom 47 in C[N@@H+]1CC[C@]23[C@@H]4c5c(c6ccccc6[nH]5)C[C@@]2([C@H]1C[C@H]7[C@@]38[O@@+]4[C@@H]8[C@H](C=C7)O)O
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00192   Gallamine triethiodide
-
+Molecule: LOPAC 00192
 Warning: LOPAC 00192   Gallamine triethiodide failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00342   GBR-12935 dihydrochloride
-
+Molecule: LOPAC 00342
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 27 of molecule 'LOPAC 00342   GBR-12935 dihydrochloride'
 Warning: Can't assign MMFF type to atom number     1   C
 Warning: Can't assign MMFF type to atom number    27   C
@@ -447,8 +385,7 @@ Warning: Can't assign MMFF type to atom number    61   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00342   GBR-12935 dihydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00370   GYKI 52466 hydrochloride
-
+Molecule: LOPAC 00370
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'LOPAC 00370   GYKI 52466 hydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'LOPAC 00370   GYKI 52466 hydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 10 of molecule 'LOPAC 00370   GYKI 52466 hydrochloride'
@@ -456,14 +393,12 @@ Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry
 Warning: LOPAC 00370   GYKI 52466 hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00938   DL-Homatropine hydrobromide
-
+Molecule: LOPAC 00938
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'LOPAC 00938   DL-Homatropine hydrobromide'
 Warning: LOPAC 00938   DL-Homatropine hydrobromide failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00197   Hexamethonium dichloride
-
+Molecule: LOPAC 00197
 Warning: Can't assign MMFF type to atom number     2   N
 Warning: Can't assign MMFF type to atom number     6   C
 Warning: Can't assign MMFF type to atom number    26   H
@@ -471,19 +406,16 @@ Warning: Can't assign MMFF type to atom number    27   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00197   Hexamethonium dichloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00462   Lithium Chloride
-
+Molecule: LOPAC 00462
 Warning: Can't assign MMFF type to atom number     1  Li
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00462   Lithium Chloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00948   Hydrocortisone
-
+Molecule: LOPAC 00948
 Warning: LOPAC 00948   Hydrocortisone failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00118   Histamine dihydrochloride
-
+Molecule: LOPAC 00118
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 5 of molecule 'LOPAC 00118   Histamine dihydrochloride'
 Warning: Can't assign MMFF type to atom number     2   C
 Warning: Can't assign MMFF type to atom number    11   H
@@ -491,79 +423,66 @@ Warning: Can't assign MMFF type to atom number    12   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00118   Histamine dihydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00313   3-Hydroxybenzylhydrazine dihydrochloride
-
+Molecule: LOPAC 00313
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 5 of molecule 'LOPAC 00313   3-Hydroxybenzylhydrazine dihydrochloride'
 Warning: Can't assign MMFF type to atom number     5   C
 Warning: Can't assign MMFF type to atom number    16   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00313   3-Hydroxybenzylhydrazine dihydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00962   BU99006
-
+Molecule: LOPAC 00962
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'LOPAC 00962   BU99006'
 Warning: LOPAC 00962   BU99006 failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00437   H-7 dihydrochloride
-
+Molecule: LOPAC 00437
 Warning: LOPAC 00437   H-7 dihydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00970   Indirubin-3`-oxime
-
+Molecule: LOPAC 00970
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'LOPAC 00970   Indirubin-3`-oxime'
 Warning: LOPAC 00970   Indirubin-3`-oxime failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: LOPAC 00199   Ipratropium bromide
-
+Molecule: LOPAC 00199
 Warning: atom stereo specified for planar atom 25 in C[N+]1([C@@H]2CC[C@H]1CC(C2)[CH2])C
 Warning: atom stereo specified for planar atom 26 in C[N+]1([C@@H]2CC[C@H]1CC(C2)[CH2])C
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00978   IMID-4F hydrochloride
-
+Molecule: LOPAC 00978
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'LOPAC 00978   IMID-4F hydrochloride'
 Warning: LOPAC 00978   IMID-4F hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00985   1-(5-Isoquinolinylsulfonyl)-2-methylpiperazine d
-
+Molecule: LOPAC 00985
 Warning: LOPAC 00985   1-(5-Isoquinolinylsulfonyl)-2-methylpiperazine d failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00986   Ivermectin
-
+Molecule: LOPAC 00986
 Warning: LOPAC 00986   Ivermectin failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00997   Ketotifen fumarate
-
+Molecule: LOPAC 00997
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 17 of molecule 'LOPAC 00997   Ketotifen fumarate'
 Warning: LOPAC 00997   Ketotifen fumarate failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01018   Loratadine
-
+Molecule: LOPAC 01018
 Warning: Can't assign MMFF type to atom number    27   C
 Warning: force field setup failed due to missing parameters for molecule LOPAC 01018   Loratadine
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01019   (-)-Tetramisole hydrochloride
-
+Molecule: LOPAC 01019
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'LOPAC 01019   (-)-Tetramisole hydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'LOPAC 01019   (-)-Tetramisole hydrochloride'
 Warning: LOPAC 01019   (-)-Tetramisole hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01031   Moxonidine hydrochloride
-
+Molecule: LOPAC 01031
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'LOPAC 01031   Moxonidine hydrochloride'
 Warning: LOPAC 01031   Moxonidine hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00546   Mianserin hydrochloride
-
+Molecule: LOPAC 00546
 Warning: Can't assign MMFF type to atom number     1  Cl
 Warning: Can't assign MMFF type to atom number     5   C
 Warning: Can't assign MMFF type to atom number     7   C
@@ -574,8 +493,7 @@ Warning: Can't assign MMFF type to atom number    30   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00546   Mianserin hydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01035   Mevastatin
-
+Molecule: LOPAC 01035
 Warning: Can't assign MMFF type to atom number    13   C
 Warning: Can't assign MMFF type to atom number    14   C
 Warning: Can't assign MMFF type to atom number    44   H
@@ -583,33 +501,28 @@ Warning: Can't assign MMFF type to atom number    45   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 01035   Mevastatin
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01040   "3-Methyl-6-(3-[trifluoromethyl]phenyl)-1,2,4-tr
-
+Molecule: LOPAC 01040
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'LOPAC 01040   "3-Methyl-6-(3-[trifluoromethyl]phenyl)-1,2,4-tr'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'LOPAC 01040   "3-Methyl-6-(3-[trifluoromethyl]phenyl)-1,2,4-tr'
 Warning: LOPAC 01040   "3-Methyl-6-(3-[trifluoromethyl]phenyl)-1,2,4-tr failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01322   Meloxicam sodium
-
+Molecule: LOPAC 01322
 Warning: Can't assign MMFF type to atom number    15  Na
 Warning: force field setup failed due to missing parameters for molecule LOPAC 01322   Meloxicam sodium
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01050   L-Methionine sulfoximine
-
+Molecule: LOPAC 01050
 Warning: Can't assign MMFF type to atom number     2   S
 Warning: force field setup failed due to missing parameters for molecule LOPAC 01050   L-Methionine sulfoximine
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01054   Metrazoline oxalate
-
+Molecule: LOPAC 01054
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'LOPAC 01054   Metrazoline oxalate'
 Warning: LOPAC 01054   Metrazoline oxalate failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01062   MK-912
-
+Molecule: LOPAC 01062
 Warning: Can't assign MMFF type to atom number     7   C
 Warning: Can't assign MMFF type to atom number    20   C
 Warning: Can't assign MMFF type to atom number    35   H
@@ -618,20 +531,17 @@ Warning: Can't assign MMFF type to atom number    45   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 01062   MK-912
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00206   Methoctramine tetrahydrochloride
-
+Molecule: LOPAC 00206
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'LOPAC 00206   Methoctramine tetrahydrochloride'
 Warning: LOPAC 00206   Methoctramine tetrahydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00550   Methysergide maleate
-
+Molecule: LOPAC 00550
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'LOPAC 00550   Methysergide maleate'
 Warning: LOPAC 00550   Methysergide maleate failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00375   "MDL 26,630 trihydrochloride"
-
+Molecule: LOPAC 00375
 Warning: Can't assign MMFF type to atom number     2   C
 Warning: Can't assign MMFF type to atom number     4   C
 Warning: Can't assign MMFF type to atom number    15   H
@@ -640,59 +550,49 @@ Warning: Can't assign MMFF type to atom number    19   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00375   "MDL 26,630 trihydrochloride"
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00521   Methiothepin mesylate
-
+Molecule: LOPAC 00521
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'LOPAC 00521   Methiothepin mesylate'
 Warning: LOPAC 00521   Methiothepin mesylate failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00472   (-)-3-Methoxynaltrexone hydrochloride
-
+Molecule: LOPAC 00472
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 16 of molecule 'LOPAC 00472   (-)-3-Methoxynaltrexone hydrochloride'
 Warning: LOPAC 00472   (-)-3-Methoxynaltrexone hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00413   nor-Binaltorphimine dihydrochloride
-
+Molecule: LOPAC 00413
 Warning: LOPAC 00413   nor-Binaltorphimine dihydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00457   Naltrexone hydrochloride
-
+Molecule: LOPAC 00457
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'LOPAC 00457   Naltrexone hydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 14 of molecule 'LOPAC 00457   Naltrexone hydrochloride'
 Warning: LOPAC 00457   Naltrexone hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00458   Nalbuphine hydrochloride
-
+Molecule: LOPAC 00458
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'LOPAC 00458   Nalbuphine hydrochloride'
 Warning: LOPAC 00458   Nalbuphine hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
-Molecule: LOPAC 01088   NF449 octasodium salt
-
+Molecule: LOPAC 01088
 Warning: Hit maximum duplicate removal time limit.
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01091   Naphazoline hydrochloride
-
+Molecule: LOPAC 01091
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'LOPAC 01091   Naphazoline hydrochloride'
 Warning: LOPAC 01091   Naphazoline hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00456   Naloxone hydrochloride
-
+Molecule: LOPAC 00456
 Warning: LOPAC 00456   Naloxone hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00473   Naltrindole hydrochloride
-
+Molecule: LOPAC 00473
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 14 of molecule 'LOPAC 00473   Naltrindole hydrochloride'
 Warning: LOPAC 00473   Naltrindole hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00134   Naftopidil dihydrochloride
-
+Molecule: LOPAC 00134
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'LOPAC 00134   Naftopidil dihydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 5 of molecule 'LOPAC 00134   Naftopidil dihydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 24 of molecule 'LOPAC 00134   Naftopidil dihydrochloride'
@@ -700,21 +600,18 @@ Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry
 Warning: LOPAC 00134   Naftopidil dihydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00451   Naltriben methanesulfonate
-
+Molecule: LOPAC 00451
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'LOPAC 00451   Naltriben methanesulfonate'
 Warning: LOPAC 00451   Naltriben methanesulfonate failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00454   Naloxone benzoylhydrazone
-
+Molecule: LOPAC 00454
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'LOPAC 00454   Naloxone benzoylhydrazone'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 15 of molecule 'LOPAC 00454   Naloxone benzoylhydrazone'
 Warning: LOPAC 00454   Naloxone benzoylhydrazone failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01102   Naloxonazine dihydrochloride
-
+Molecule: LOPAC 01102
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'LOPAC 01102   Naloxonazine dihydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 5 of molecule 'LOPAC 01102   Naloxonazine dihydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 17 of molecule 'LOPAC 01102   Naloxonazine dihydrochloride'
@@ -722,8 +619,7 @@ Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry
 Warning: LOPAC 01102   Naloxonazine dihydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00136   Oxymetazoline hydrochloride
-
+Molecule: LOPAC 00136
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'LOPAC 00136   Oxymetazoline hydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'LOPAC 00136   Oxymetazoline hydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'LOPAC 00136   Oxymetazoline hydrochloride'
@@ -732,69 +628,57 @@ Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry
 Warning: LOPAC 00136   Oxymetazoline hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01112   Oligomycin A
-
+Molecule: LOPAC 01112
 Warning: LOPAC 01112   Oligomycin A failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
-Molecule: LOPAC 01123   Parthenolide
-
+Molecule: LOPAC 01123
 Warning: atom stereo specified for planar atom 31 in C/C/1=C\CC[C@@]2([C@@H](O2)[C@H]3[C@@H](CC1)C(=C)C(=O)O3)C
 Warning: atom stereo specified for planar atom 32 in C/C/1=C\CC[C@@]2([C@@H](O2)[C@H]3[C@@H](CC1)C(=C)C(=O)O3)C
 ----------------------------------
-Molecule: LOPAC 00624   Picrotoxin
-
+Molecule: LOPAC 00624
 Warning: atom stereo specified for planar atom 22 in C[C@H]1[C@H]2[C@@H]3[C@@]4([C@]([C@@H]1C(=O)O2)(C[C@H]5[C@]4(O5)C(=O)O3)O)C
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01125   Pancuronium bromide
-
+Molecule: LOPAC 01125
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 17 of molecule 'LOPAC 01125   Pancuronium bromide'
 Warning: LOPAC 01125   Pancuronium bromide failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01131   "PD 404,182"
-
+Molecule: LOPAC 01131
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 1 of molecule 'LOPAC 01131   "PD 404,182"'
 Warning: LOPAC 01131   "PD 404,182" failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01135   Cisplatin
-
+Molecule: LOPAC 01135
 Warning: Can't assign MMFF type to atom number     2  Pt
 Warning: force field setup failed due to missing parameters for molecule LOPAC 01135   Cisplatin
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01136   Purvalanol A
-
+Molecule: LOPAC 01136
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'LOPAC 01136   Purvalanol A'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'LOPAC 01136   Purvalanol A'
 Warning: LOPAC 01136   Purvalanol A failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00143   Phentolamine mesylate
-
+Molecule: LOPAC 00143
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'LOPAC 00143   Phentolamine mesylate'
 Warning: LOPAC 00143   Phentolamine mesylate failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00139   SKF 94836
-
+Molecule: LOPAC 00139
 Warning: LOPAC 00139   SKF 94836 failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00226   Pinacidil
-
+Molecule: LOPAC 00226
 Warning: LOPAC 00226   Pinacidil failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00530   Pregnenolone sulfate sodium
-
+Molecule: LOPAC 00530
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 14 of molecule 'LOPAC 00530   Pregnenolone sulfate sodium'
 Warning: LOPAC 00530   Pregnenolone sulfate sodium failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00304   Quinelorane dihydrochloride
-
+Molecule: LOPAC 00304
 Warning: Can't assign MMFF type to atom number     6   C
 Warning: Can't assign MMFF type to atom number     7   C
 Warning: Can't assign MMFF type to atom number    18   C
@@ -806,14 +690,12 @@ Warning: Can't assign MMFF type to atom number    40   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00304   Quinelorane dihydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01177   Quazinone
-
+Molecule: LOPAC 01177
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'LOPAC 01177   Quazinone'
 Warning: LOPAC 01177   Quazinone failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01178   (?ñ)-Quinpirole dihydrochloride
-
+Molecule: LOPAC 01178
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 5 of molecule 'LOPAC 01178   (?ñ)-Quinpirole dihydrochloride'
 Warning: Can't assign MMFF type to atom number     6   C
 Warning: Can't assign MMFF type to atom number     7   C
@@ -826,8 +708,7 @@ Warning: Can't assign MMFF type to atom number    37   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 01178   (?ñ)-Quinpirole dihydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01184   Ruthenium red
-
+Molecule: LOPAC 01184
 Warning: Can't assign MMFF type to atom number     1   N
 Warning: Can't assign MMFF type to atom number     2   H
 Warning: Can't assign MMFF type to atom number     3   H
@@ -850,82 +731,69 @@ Warning: Can't assign MMFF type to atom number    45   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 01184   Ruthenium red
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00148   Ranitidine hydrochloride
-
+Molecule: LOPAC 00148
 Warning: LOPAC 00148   Ranitidine hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00149   Rauwolscine hydrochloride
-
+Molecule: LOPAC 00149
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 26 of molecule 'LOPAC 00149   Rauwolscine hydrochloride'
 Warning: LOPAC 00149   Rauwolscine hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00354   Ro 8-4304
-
+Molecule: LOPAC 00354
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'LOPAC 00354   Ro 8-4304'
 Warning: LOPAC 00354   Ro 8-4304 failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00088   Rilmenidine hemifumarate
-
+Molecule: LOPAC 00088
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'LOPAC 00088   Rilmenidine hemifumarate'
 Warning: LOPAC 00088   Rilmenidine hemifumarate failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01065   Ro 04-6790 dihydrochloride
-
+Molecule: LOPAC 01065
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'LOPAC 01065   Ro 04-6790 dihydrochloride'
 Warning: LOPAC 01065   Ro 04-6790 dihydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01202   Seglitide
-
+Molecule: LOPAC 01202
 Warning: LOPAC 01202   Seglitide failed because it is a macrocycle. Use "oeomega macrocycle" mode for this molecule.
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01205   SKF 86466
-
+Molecule: LOPAC 01205
 Warning: Can't assign MMFF type to atom number     1  Cl
 Warning: Can't assign MMFF type to atom number    15   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 01205   SKF 86466
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01210   SKF 83959 hydrobromide
-
+Molecule: LOPAC 01210
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'LOPAC 01210   SKF 83959 hydrobromide'
 Warning: LOPAC 01210   SKF 83959 hydrobromide failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01211   SKF 75670 hydrobromide
-
+Molecule: LOPAC 01211
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'LOPAC 01211   SKF 75670 hydrobromide'
 Warning: LOPAC 01211   SKF 75670 hydrobromide failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01214   SKF 83565 hydrobromide
-
+Molecule: LOPAC 01214
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'LOPAC 01214   SKF 83565 hydrobromide'
 Warning: LOPAC 01214   SKF 83565 hydrobromide failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00639   Sanguinarine chloride
-
+Molecule: LOPAC 00639
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 20 of molecule 'LOPAC 00639   Sanguinarine chloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 23 of molecule 'LOPAC 00639   Sanguinarine chloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 24 of molecule 'LOPAC 00639   Sanguinarine chloride'
 Warning: LOPAC 00639   Sanguinarine chloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01217   SCH-202676 hydrobromide
-
+Molecule: LOPAC 01217
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'LOPAC 01217   SCH-202676 hydrobromide'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 12 of molecule 'LOPAC 01217   SCH-202676 hydrobromide'
 Warning: LOPAC 01217   SCH-202676 hydrobromide failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00233   Succinylcholine chloride
-
+Molecule: LOPAC 00233
 Warning: Can't assign MMFF type to atom number     2   N
 Warning: Can't assign MMFF type to atom number     6   C
 Warning: Can't assign MMFF type to atom number    32   H
@@ -933,8 +801,7 @@ Warning: Can't assign MMFF type to atom number    33   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00233   Succinylcholine chloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00509   SB 224289 hydrochloride
-
+Molecule: LOPAC 00509
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 15 of molecule 'LOPAC 00509   SB 224289 hydrochloride'
 Warning: Can't assign MMFF type to atom number     1  Cl
 Warning: Can't assign MMFF type to atom number    14   C
@@ -944,67 +811,57 @@ Warning: Can't assign MMFF type to atom number    57   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00509   SB 224289 hydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00554   SB 206553 hydrochloride
-
+Molecule: LOPAC 00554
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'LOPAC 00554   SB 206553 hydrochloride'
 Warning: LOPAC 00554   SB 206553 hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00318   Thiothixene hydrochloride
-
+Molecule: LOPAC 00318
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 8 of molecule 'LOPAC 00318   Thiothixene hydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'LOPAC 00318   Thiothixene hydrochloride'
 Warning: LOPAC 00318   Thiothixene hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01236   Tetramisole hydrochloride
-
+Molecule: LOPAC 01236
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'LOPAC 01236   Tetramisole hydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'LOPAC 01236   Tetramisole hydrochloride'
 Warning: LOPAC 01236   Tetramisole hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00237   Trihexyphenidyl hydrochloride
-
+Molecule: LOPAC 00237
 Warning: Can't assign MMFF type to atom number    18   C
 Warning: Can't assign MMFF type to atom number    49   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 00237   Trihexyphenidyl hydrochloride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00295   "(6R)-5,6,7,8-Tetrahydro-L-biopterin hydrochlori
-
+Molecule: LOPAC 00295
 Warning: LOPAC 00295   "(6R)-5,6,7,8-Tetrahydro-L-biopterin hydrochlori failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01262   Triamcinolone
-
+Molecule: LOPAC 01262
 Warning: Can't assign MMFF type to atom number    12   C
 Warning: Can't assign MMFF type to atom number    41   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 01262   Triamcinolone
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00239   Taxol
-
+Molecule: LOPAC 00239
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'LOPAC 00239   Taxol'
 Warning: LOPAC 00239   Taxol failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00466   Tamoxifen citrate
-
+Molecule: LOPAC 00466
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'LOPAC 00466   Tamoxifen citrate'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 9 of molecule 'LOPAC 00466   Tamoxifen citrate'
 Warning: LOPAC 00466   Tamoxifen citrate failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00556   3-Tropanyl-indole-3-carboxylate hydrochloride
-
+Molecule: LOPAC 00556
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 11 of molecule 'LOPAC 00556   3-Tropanyl-indole-3-carboxylate hydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 13 of molecule 'LOPAC 00556   3-Tropanyl-indole-3-carboxylate hydrochloride'
 Warning: LOPAC 00556   3-Tropanyl-indole-3-carboxylate hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01278   3-Tropanylindole-3-carboxylate methiodide
-
+Molecule: LOPAC 01278
 Warning: Can't assign MMFF type to atom number     6   C
 Warning: Can't assign MMFF type to atom number    32   H
 Warning: Can't assign MMFF type to atom number    33   H
@@ -1012,16 +869,14 @@ Warning: Can't assign MMFF type to atom number    34   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 01278   3-Tropanylindole-3-carboxylate methiodide
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00236   Telenzepine dihydrochloride
-
+Molecule: LOPAC 00236
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 20 of molecule 'LOPAC 00236   Telenzepine dihydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 25 of molecule 'LOPAC 00236   Telenzepine dihydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 27 of molecule 'LOPAC 00236   Telenzepine dihydrochloride'
 Warning: LOPAC 00236   Telenzepine dihydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01320   R(+)-Terguride
-
+Molecule: LOPAC 01320
 Warning: Can't assign MMFF type to atom number    11   C
 Warning: Can't assign MMFF type to atom number    13   C
 Warning: Can't assign MMFF type to atom number    23   N
@@ -1031,34 +886,29 @@ Warning: Can't assign MMFF type to atom number    43   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 01320   R(+)-Terguride
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01282   U-74389G maleate
-
+Molecule: LOPAC 01282
 Warning: Can't assign MMFF type to atom number    10   C
 Warning: Can't assign MMFF type to atom number    57   H
 Warning: force field setup failed due to missing parameters for molecule LOPAC 01282   U-74389G maleate
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00159   "UK 14,304"
-
+Molecule: LOPAC 00159
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'LOPAC 00159   "UK 14,304"'
 Warning: LOPAC 00159   "UK 14,304" failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00322   U-101958 maleate
-
+Molecule: LOPAC 00322
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 5 of molecule 'LOPAC 00322   U-101958 maleate'
 Warning: LOPAC 00322   U-101958 maleate failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01287   Vinblastine sulfate salt
-
+Molecule: LOPAC 01287
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 35 of molecule 'LOPAC 01287   Vinblastine sulfate salt'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 43 of molecule 'LOPAC 01287   Vinblastine sulfate salt'
 Warning: LOPAC 01287   Vinblastine sulfate salt failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01289   Vancomycin hydrochloride from Streptomyces orien
-
+Molecule: LOPAC 01289
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 19 of molecule 'LOPAC 01289   Vancomycin hydrochloride from Streptomyces orien'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 20 of molecule 'LOPAC 01289   Vancomycin hydrochloride from Streptomyces orien'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 21 of molecule 'LOPAC 01289   Vancomycin hydrochloride from Streptomyces orien'
@@ -1069,25 +919,21 @@ Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry
 Warning: LOPAC 01289   Vancomycin hydrochloride from Streptomyces orien failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01292   XK469
-
+Molecule: LOPAC 01292
 Warning: Can't assign MMFF type to atom number    25  Na
 Warning: force field setup failed due to missing parameters for molecule LOPAC 01292   XK469
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01294   1400W dihydrochloride
-
+Molecule: LOPAC 01294
 Warning: LOPAC 01294   1400W dihydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01296   "WIN 62,577"
-
+Molecule: LOPAC 01296
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 16 of molecule 'LOPAC 01296   "WIN 62,577"'
 Warning: LOPAC 01296   "WIN 62,577" failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 01297   Xylometazoline hydrochloride
-
+Molecule: LOPAC 01297
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 2 of molecule 'LOPAC 01297   Xylometazoline hydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 3 of molecule 'LOPAC 01297   Xylometazoline hydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 4 of molecule 'LOPAC 01297   Xylometazoline hydrochloride'
@@ -1096,14 +942,12 @@ Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry
 Warning: LOPAC 01297   Xylometazoline hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00161   Yohimbine hydrochloride
-
+Molecule: LOPAC 00161
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 26 of molecule 'LOPAC 00161   Yohimbine hydrochloride'
 Warning: LOPAC 00161   Yohimbine hydrochloride failed due to unspecified stereochemistry with strict stereo enabled
 ----------------------------------
 FAILED 
-Molecule: LOPAC 00563   Zimelidine dihydrochloride
-
+Molecule: LOPAC 00563
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 6 of molecule 'LOPAC 00563   Zimelidine dihydrochloride'
 Warning: OE3DToAtomStereo is unable to perceive atom stereo from a flat geometry on atom 7 of molecule 'LOPAC 00563   Zimelidine dihydrochloride'
 Warning: LOPAC 00563   Zimelidine dihydrochloride failed due to unspecified stereochemistry with strict stereo enabled

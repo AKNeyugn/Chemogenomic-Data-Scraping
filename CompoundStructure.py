@@ -24,7 +24,7 @@ def main():
 
     smiles = sys.argv[1]
     single_file = sys.argv[2]
-    file_name = form_path(cwd, smiles)
+    file_name = os.path.join(cwd, smiles)
     if single_file.upper() == "TRUE":
         process_structure_library(file_name, smiles)
     else:
@@ -49,10 +49,10 @@ def process_structure(file_name, smiles_name):
     # Create output folder if not exists
     cwd = os.getcwd()
     library_name = extract_library_name(smiles_name)
-    output_folder = form_path(cwd, pdb_output_folder)
+    output_folder = os.path.join(cwd, pdb_output_folder)
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
-    output_subfolder = form_path(output_folder, library_name)
+    output_subfolder = os.path.join(output_folder, library_name)
     if not os.path.exists(output_subfolder):
         os.makedirs(output_subfolder)
 
@@ -62,7 +62,7 @@ def process_structure(file_name, smiles_name):
         cmp_id = str(row[0])
         smiles = str(row[2])
         cmp_name = cmp_id + ": " + str(row[1])
-        output_name = form_path(output_subfolder, cmp_id)
+        output_name = os.path.join(output_subfolder, cmp_id)
         cmd = 'obabel -:"' + smiles + '" -opdb -O "' + output_name + '.pdb" --gen3d -c --title "' + cmp_name + '"'
         subprocess.call(cmd)
         num_smiles_processed +=1
@@ -83,14 +83,14 @@ def process_structure_library(file_name, smiles_name):
     # Create output folder if not exists
     cwd = os.getcwd()
     library_name = extract_library_name(smiles_name)
-    output_folder = form_path(cwd, pdb_output_folder)
+    output_folder = os.path.join(cwd, pdb_output_folder)
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
-    output_subfolder = form_path(output_folder, library_name)
+    output_subfolder = os.path.join(output_folder, library_name)
     if not os.path.exists(output_subfolder):
         os.makedirs(output_subfolder)
 
-    output_name = form_path(output_subfolder, library_name)
+    output_name = os.path.join(output_subfolder, library_name)
     cmd = 'obabel -ismi "' + file_name + '" -opdb -O "' + output_name + '.pdb" --gen3d -c'
     subprocess.call(cmd)
 
@@ -111,25 +111,6 @@ def extract_library_name(smiles_file):
     end_index = smiles_file.index("_SMILES")
     library_name = smiles_file[start_index+7:end_index]
     return library_name
-
-def form_path(start, end):
-    '''
-    Create string representing a path depending on
-    Windows/Linux environment
-
-    Args:
-        start (string): start of output path
-        end (string): string to add to end of start
-
-    Return:
-        (string): full path combining start and end
-    '''
-    path = ""
-    if "/" in start:
-        path = start + "/" + end
-    elif "\\" in start:
-        path = start + "\\" + end
-    return path
 
 if __name__ == "__main__":
     main()
