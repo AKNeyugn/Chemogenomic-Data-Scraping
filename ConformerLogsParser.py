@@ -13,7 +13,7 @@ import sys
 import os
 import shutil
 
-log_folder = "Conformers-Logs-Test"
+log_folder = "Conformers-Logs"
 pdb_folder = "Compound-3D-Structure"
 failed_molecules = {}
 
@@ -71,6 +71,7 @@ def parse_log(log_file, log_folder):
                 output_txt += curr_paragraph
                 num_warnings += 1
                 curr_paragraph = ""
+                #list_failed_molecules.append(curr_molecule)
             if "Processed" in line:
                 num_fails = output_txt.count("failed")
                 output_txt += line
