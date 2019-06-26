@@ -4,7 +4,7 @@
     created with CompoundStructure.py
 
     Author: Roy Nguyen
-    Last edited: June 25, 2019
+    Last edited: June 26, 2019
 """
 
 
