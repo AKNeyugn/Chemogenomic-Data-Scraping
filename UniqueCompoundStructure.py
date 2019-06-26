@@ -19,6 +19,7 @@ unique_compound_file = "UniqueCompounds.xlsx"
 pdb_output_folder = "Unique-Compound-3D-Structure"
 pdb_origin_folder = "Compound-3D-Structure"
 output_failed_mol = "FailedUniqueCompounds.txt"
+single_pdb_file = "UniqueCompounds.pdb"
 failed_mol = []
 
 def main():
@@ -26,8 +27,9 @@ def main():
     sys.stdout.write("Start time: " + str(start) + "\n")
     sys.stdout.write("\n")
         
-    unique_cmps = get_unique_cmps()
-    get_pdb_files(unique_cmps)
+    #unique_cmps = get_unique_cmps()
+    #get_pdb_files(unique_cmps)
+    build_single_pdb()
 
     end = datetime.datetime.now()
     time_taken = end - start
@@ -88,6 +90,35 @@ def get_pdb_files(unique_cmps):
     
     sys.stdout.write("Done!\n")
     sys.stdout.write("\n")
+    return
+
+def build_single_pdb():
+    '''
+    Merge all .pdb files into one single .pdb file
+    '''
+    cwd = os.getcwd()
+    input_folder = os.path.join(cwd, pdb_output_folder)
+    input_files = os.listdir(input_folder)
+    output_txt = ""
+    num_mol = 1
+    for input_file in input_files:
+        output_txt += "MODEL        " + str(num_mol) + "\n"
+        file_path = os.path.join(input_folder, input_file)
+        with open(file_path, "r") as f:
+            for line in f:
+                if line == "END\n":
+                    if num_mol == len(input_files):
+                        output_txt += line
+                    else:
+                        output_txt += "ENDMDL\n"
+                else:
+                    output_txt += line
+        num_mol += 1
+
+    output_folder = os.path.join(cwd, pdb_origin_folder)
+    output = os.path.join(output_folder, single_pdb_file)
+    with open(output, "w") as out:
+        out.write(output_txt)
     return
 
 
