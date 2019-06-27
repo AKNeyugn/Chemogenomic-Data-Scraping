@@ -3,7 +3,7 @@
 """ Get the name and canonical SMILES of all compounds in given library
 
     Author: Roy Nguyen
-    Last edited: June 26, 2019
+    Last edited: June 27, 2019
 """
 
 import sys
@@ -71,7 +71,7 @@ def smiles_scraper(file_name, cgm_name):
     p.terminate()
     p.join()
     
-    output = pd.DataFrame(results, columns=["Supplier ID", "Name", "Canonical SMILES", "Chemical formula"])
+    output = pd.DataFrame(results, columns=["Supplier ID", "Name", "Canonical SMILES"])
     
     with open(output_name, "w", newline="") as ref:
         output.to_csv(ref, index=False)
@@ -109,12 +109,7 @@ def smiles_parse(cmp_id):
             ind = 1
         elif cmp_id == "LOPAC 00420":
             ind = 4
-        cmp_name = search_response.html.xpath("//div[contains(@class, 'truncated-columns')]//p")[ind].text
-
-        # Get chemical formula
-        tmp_chem_form = search_response.html.xpath("//a[contains(@title, 'Find all compounds that have this formula')]//span")
-        chem_form = tmp_chem_form[0].text
-        
+        cmp_name = search_response.html.xpath("//div[contains(@class, 'truncated-columns')]//p")[ind].text        
     else:
         search_name = format_cmp_id(cmp_id)
         search_url = cmp_search_url_start + search_name
@@ -137,21 +132,14 @@ def smiles_parse(cmp_id):
             table = name_response_content.find_all("table")[2]
             info_list = table.find_all("tr")[1]
             cmp_name = info_list.find_all("td")[5].get_text()
-            chem_form = info_list.find_all("td")[1].get_text()
         else:
             cmp_name = ""
             for part in cmp_name_raw.split("\n"):
                 cmp_name += part
-            name_url = cmp_name_url_start + search_name
-            name_response = requests.get(name_url)
-            name_response_content = BeautifulSoup(name_response.content, "html.parser")
-            table = name_response_content.find_all("table")[2]
-            info_list = table.find_all("tr")[1]
-            chem_form = info_list.find_all("td")[1].get_text()
 
     search_response.close()
     session.close()
-    return (cmp_id, cmp_name, smiles, chem_form)
+    return (cmp_id, cmp_name, smiles)
 
 
 def extract_library_name(cgm_file):
