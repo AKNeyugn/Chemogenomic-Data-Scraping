@@ -79,3 +79,16 @@ Note: Need .pdb files from CompoundStructure.py
 Note: Need modified SuppTable_S2 file called UniqueCompounds.xlsx to work properly
 
 Note: There are actually 4897 unique compounds + 892 compounds from Cytotoxic library (not added by script)
+
+# CGMProcess.py
+
+NOTE: task dropped.
+
+Find genes overlapping between compound libraries. 
+Initially designed to create 1 single CGM from different CGMs, but task dropped.
+
+Module requirements:
+- pandas (pip install pandas)
+
+How to run: *python CGMProcess.py library1 library2 ...*
+- library#: name of libraries to process
