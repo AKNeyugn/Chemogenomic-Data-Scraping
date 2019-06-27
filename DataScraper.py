@@ -5,7 +5,7 @@
     matrix
 
     Author: Roy Nguyen
-    Last edited: June 5, 2019
+    Last edited: June 27, 2019
 """
 
 import sys
@@ -26,7 +26,6 @@ library_indices = [1,2,3,4,5,7,8]    # url index of each CGM library
 cmp_search_url_start = "http://chemgrid.org/cgm/tmp_compound.php?cid="
 data_output_folder = "Data-Files"
 cgm_output_folder = "CGM"
-cmp_output_folder = "Compounds-SMILES"
 
 def main():
     start = datetime.datetime.now()
@@ -35,14 +34,14 @@ def main():
     cwd = os.getcwd()
 
     # Download compounds vs mutant .csv data files
-    #matrix_scraper()
+    matrix_scraper()
 
     # Create CGM .csv files for each compound library
     libraries = os.listdir(data_output_folder)
     for library in libraries:
         tmp_dir_name = os.path.join(cwd, data_output_folder)
         dir_name = os.path.join(tmp_dir_name, library)
-        #create_cgm(dir_name, library)
+        create_cgm(dir_name, library)
 
     end = datetime.datetime.now()
     time_taken = end - start
@@ -82,13 +81,11 @@ def matrix_scraper():
                 if "SPE0" not in tmp_strain_name:
                     num_species = strain_info[2].get_text()
                     num_plates = strain_info[3].get_text()
-                    num_bioactive = strain_info[6].get_text()
-                    num_toxic = strain_info[7].get_text()
                     data_url = data_url_former(library_name, strain_name, num_species, num_plates)
 
                     # Write data into local .csv file
                     data = requests.get(data_url)
-                    file_name = strain_name + "_" + num_bioactive + "_" + num_toxic + ".csv"
+                    file_name = strain_name + ".csv"
                     output_name = os.path.join(library_folder, file_name)
                     with open(output_name, "w", newline="") as f:
                         writer = csv.writer(f)
@@ -136,7 +133,7 @@ def create_cgm(folder_name, library_name):
         tmp_output = pd.DataFrame(list(df[df.columns[2]]), columns=[mutant_name], index=indices)
         output = pd.concat([output, tmp_output], axis=1, sort=False)
 
-    with open(output_name, "w") as ref:
+    with open(output_name, "w", newline="") as ref:
         output.to_csv(ref)
     sys.stdout.write("Done! \n")
     sys.stdout.write("\n")
