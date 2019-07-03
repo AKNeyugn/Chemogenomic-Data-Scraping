@@ -100,16 +100,30 @@ def get_pdb_fails(pdb_folder, log_folder):
     '''
     for library in failed_molecules.keys():
         sys.stdout.write("Collecting .pdb files of failed molecules in " + library + "...\n")
-        library_pdbs = os.path.join(pdb_folder, library)
-        output_folder = os.path.join(log_folder, library)
-        if not os.path.exists(output_folder):
-            os.makedirs(output_folder)
+        if library == "UniqueCompounds":
+            cwd = os.getcwd()
+            library_folder = os.path.join(cwd, "Unique-Compound-3D-Structure")
+            file_folder = os.path.join(library_folder, "3D-Structure-Files")
+            output_folder = os.path.join(log_folder, library)
+            if not os.path.exists(output_folder):
+                os.makedirs(output_folder)
 
-        for mol in failed_molecules[library]:
-            pdb_name = mol + ".pdb"
-            pdb_file = os.path.join(library_pdbs, pdb_name)
-            output = os.path.join(output_folder, pdb_name)
-            shutil.copy(pdb_file, output)
+            for mol in failed_molecules[library]:
+                pdb_name = mol + ".pdb"
+                pdb_file = os.path.join(file_folder, pdb_name)
+                output = os.path.join(output_folder, pdb_name)
+                shutil.copy(pdb_file, output)
+        else:
+            library_pdbs = os.path.join(pdb_folder, library)
+            output_folder = os.path.join(log_folder, library)
+            if not os.path.exists(output_folder):
+                os.makedirs(output_folder)
+
+            for mol in failed_molecules[library]:
+                pdb_name = mol + ".pdb"
+                pdb_file = os.path.join(library_pdbs, pdb_name)
+                output = os.path.join(output_folder, pdb_name)
+                shutil.copy(pdb_file, output)
         sys.stdout.write("Done with " + library + "!\n")
         sys.stdout.write("\n")
 
@@ -130,6 +144,8 @@ def extract_cmp_id(line):
     end_index = line.index("\n")
     if "  " in line:
         end_index = line.index("  ")
+    elif ": " in line:
+        end_index = line.index(": ")
     cmp_id = line[start_index:end_index]
     return cmp_id
     

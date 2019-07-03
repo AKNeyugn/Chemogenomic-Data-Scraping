@@ -29,10 +29,9 @@ def main():
     sys.stdout.write("Start time: " + str(start) + "\n")
     sys.stdout.write("\n")
         
-    unique_cmps = get_unique_cmps()
-    get_pdb_files(unique_cmps)
+    #unique_cmps = get_unique_cmps()
+    #get_pdb_files(unique_cmps)
     build_single_pdb()
-    map_cmp_name()
 
     end = datetime.datetime.now()
     time_taken = end - start
@@ -103,6 +102,7 @@ def build_single_pdb():
     input_folder = os.path.join(cwd, pdb_output_folder)
     input_subfolder = os.path.join(input_folder, pdb_output_subfolder)
     input_files = os.listdir(input_subfolder)
+    cmp_data = {"Compound ID": [], "Compound Name": []}
     output_txt = ""
     num_mol = 1
     sys.stdout.write("Processing unique compound .pdb files...\n")
@@ -116,6 +116,18 @@ def build_single_pdb():
                         output_txt += line
                     else:
                         output_txt += "ENDMDL\n"
+                elif "COMPND" in line:
+                    # Get data for name mapping file
+                    compound = line[10:]
+                    div_idx = compound.index(": ")
+                    end_idx = compound.index(" \n")
+                    cmp_id = compound[:div_idx]
+                    cmp_name = compound[div_idx+2:end_idx]
+                    cmp_data["Compound ID"].append(cmp_id)
+                    cmp_data["Compound Name"].append(cmp_name)
+                    # Get data for pdb file
+                    idx = line.index(": ")
+                    output_txt += line[:idx] + "\n"
                 else:
                     output_txt += line
         num_mol += 1
@@ -125,35 +137,11 @@ def build_single_pdb():
     with open(output, "w") as out:
         out.write(output_txt)
 
-    sys.stdout.write("Done!\n")
-    sys.stdout.write("\n")
-    return
-
-def map_cmp_name():
-    '''
-    Output .csv file mapping unique compound ID to their name
-    '''
-    cwd = os.getcwd()
-    input_folder = os.path.join(cwd, pdb_output_folder)
-    input_file = os.path.join(input_folder, single_pdb_file)
-    cmp_data = {"Compound ID": [], "Compound Name": []}
-    sys.stdout.write("Processing single unique compound .pdb file...\n")
-    with open(input_file, "r") as f:
-        for line in f:
-            if "COMPND" in line:
-                compound = line[10:]
-                div_idx = compound.index(": ")
-                end_idx = compound.index(" \n")
-                cmp_id = compound[:div_idx]
-                cmp_name = compound[div_idx+2:end_idx]
-                cmp_data["Compound ID"].append(cmp_id)
-                cmp_data["Compound Name"].append(cmp_name)
-
-    sys.stdout.write("Writing .csv file...\n")
-    output = os.path.join(input_folder, "UniqueCompoundsNames.csv")
+    sys.stdout.write("Writing name mapping .csv file...\n")
+    output_csv = os.path.join(input_folder, "UniqueCompoundsNames.csv")
     df = pd.DataFrame.from_dict(cmp_data)
 
-    with open(output, "w", newline="") as out:
+    with open(output_csv, "w", newline="") as out:
         df.to_csv(out, index=False)
 
     sys.stdout.write("Done!\n")
