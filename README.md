@@ -87,7 +87,7 @@ Process K-means cluster analysis results for given compound library CGM, and out
 Module requirements:
 - pandas (pip install pandas)
 
-How to run: *python ClusterProcess.py path-to-cgm*
+How to run: *python ClusterProcess.py path_to_cgm*
 - path-to-cgm: path to compound library CGM
 
 Note: Need CGM files from DataScraper.py and output.txt file from KMeansCluster.r
