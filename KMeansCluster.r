@@ -1,4 +1,4 @@
-test <- read.csv("C:\\Users\\anhkh\\Documents\\UBC\\COOP\\S2019 CARDONA LAB\\Wildenhain-Data-Scraper\\CGM\\Spectrum_CGM.csv",sep=",")
+test <- read.csv("C:\\Users\\anhkh\\Documents\\UBC\\COOP\\S2019 CARDONA LAB\\Wildenhain-Data-Scraper\\CGM\\Spectrum_ED_CGM.csv",sep=",")
 mydata <- test[,-1]
 rownames(mydata) <- test[,1]
 mydata <- na.omit(mydata)
