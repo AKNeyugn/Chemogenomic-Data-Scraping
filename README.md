@@ -80,6 +80,18 @@ Note: Need modified SuppTable_S2 file called UniqueCompounds.xlsx to work proper
 
 Note: There are actually 4897 unique compounds + 892 compounds from Cytotoxic library (not added by script)
 
+# ClusterProcess.py
+
+Process K-means cluster analysis results for given compound library CGM, and output .json file mapping each compound to cluster.
+
+Module requirements:
+- pandas (pip install pandas)
+
+How to run: *python ClusterProcess.py path-to-cgm*
+- path-to-cgm: path to compound library CGM
+
+Note: Need CGM files from DataScraper.py and output.txt file from KMeansCluster.r
+
 # CGMProcess.py
 
 NOTE: task dropped.
