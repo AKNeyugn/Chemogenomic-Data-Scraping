@@ -1,4 +1,7 @@
-# Wildenhain-Data-Scraper
+# Yeast-Data
+
+Paper: Wildenhain et al. 2015. "Prediction of Synergism from Chemical-Genetic Interactions by Machine Learning." *Cell Systems* 1 (6): 383-95.
+https://doi.org/10.1016/j.cels.2015.12.003
 
 Compound libraries from paper:
 - Lopac
