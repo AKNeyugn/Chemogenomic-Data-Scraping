@@ -1,4 +1,4 @@
-test <- read.csv("C:\\Users\\anhkh\\Documents\\UBC\\COOP\\S2019 CARDONA LAB\\Wildenhain-Data-Scraper\\CGM\\Spectrum_CGM.csv",sep=",")
+test <- read.csv("C:\\Users\\anhkh\\Documents\\UBC\\COOP\\S2019 CARDONA LAB\\Data\\Yeast-Data\\CGM\\Spectrum_ED_CGM.csv",sep=",")
 mydata <- test[,-1]
 rownames(mydata) <- test[,1]
 mydata <- na.omit(mydata)
@@ -16,14 +16,14 @@ fit <- kmeans(mydata, 3) # 3 cluster solution
 # get cluster means 
 aggregate(mydata,by=list(fit$cluster),FUN=mean)
 # append cluster assignment
-mydata <- data.frame(mydata, fit$cluster)
+#mydata <- data.frame(mydata, fit$cluster)
 
 mydata <- mydata[order(fit$cluster),]
 data_matrix <- data.matrix(mydata)
 color = rev(heat.colors(256))
-heatmap <- heatmap(data_matrix, Rowv=NA, Colv=NA, col = color, scale="column", margins=c(3,3)) 
+heatmap <- heatmap(data_matrix, col = color, scale="column", margins=c(5,5), main="Spectrum_ED Heatmap", xlab="Gene", ylab="Compound") 
 
-write(fit[["cluster"]], "~/UBC/COOP/S2019 CARDONA LAB/Wildenhain-Data-Scraper/output.txt")
+write(fit[["cluster"]], "~/UBC/COOP/S2019 CARDONA LAB/Data/Yeast-Data/output.txt")
 
 # Ward Hierarchical Clustering
 #d <- dist(mydata, method = "euclidean") # distance matrix
