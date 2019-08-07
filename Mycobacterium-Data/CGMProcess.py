@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """ Read both chemogenomic data files (A-M and N-Z) and create CGM .csv file:
-    If run with *filter_run* argument equal to "true", cell values in CGM will be binary 
+    If run with inputs for both *z_score_cutoff* and *p_value_cutoff*, cell values in CGM will be binary 
     (1 if input values pass z_score AND p_value cutoffs, 0 otherwise); 
     Otherwise, will create 2 CGM files: one where cell values are z_scores and another where cell values are p_values. 
 
