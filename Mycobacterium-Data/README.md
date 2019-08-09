@@ -64,20 +64,20 @@ CGM output is a compound vs gene matrix, where x-axis = gene and y-axis = compou
 *A-M (input):*
 
 - Total # rows: 4636478
-- Unique compound rows with non n/a compound_stem: 47272
+- Unique compound rows with non n/a compound_stem and experiments at 50 micromolar: 47202
 - Unique strain rows: 98
 
 *N-Z (input):*
 
 - Total # rows: 2696727
-- Unique compound rows with non n/a compound_stem: 47272
+- Unique compound rows with non n/a compound_stem and experiments at 50 micromolar: 47202
 - Unique strain rows: 57
 
 *Full (output):*
 
-- Total # rows (compounds): 47272
+- Total # rows (compounds): 47246
 - Total # columns (strains): 155
-- Unique compound rows with non n/a compound_stem: 47272
+- Unique compound rows with non n/a compound_stem and experiments at 50 micromolar: 47202
 
 **Note:**
 Input files, as well as output files, are not uploaded to repository due to their large size
