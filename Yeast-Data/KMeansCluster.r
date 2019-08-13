@@ -1,4 +1,4 @@
-test <- read.csv("C:\\Users\\anhkh\\Documents\\UBC\\COOP\\S2019 CARDONA LAB\\Data\\Yeast-Data\\CGM\\Spectrum_CGM.csv",sep=",")
+test <- read.csv("C:\\Users\\anhkh\\Documents\\UBC\\COOP\\S2019 CARDONA LAB\\Data\\Chemogenomic-Data-Scraping\\Yeast-Data\\CGM\\SPECMTS3_CGM.csv",sep=",")
 mydata <- test[,-1]
 rownames(mydata) <- test[,1]
 mydata <- na.omit(mydata)
@@ -21,9 +21,9 @@ aggregate(mydata,by=list(fit$cluster),FUN=mean)
 mydata <- mydata[order(fit$cluster),]
 data_matrix <- data.matrix(mydata)
 color = rev(heat.colors(256))
-heatmap <- heatmap(data_matrix, col = color, scale="column", margins=c(5,5), main="Spectrum Heatmap", xlab="Gene", ylab="Compound") 
+heatmap <- heatmap(data_matrix, col = color, scale="column", margins=c(5,5), main="SPECMTS3 Heatmap", xlab="Gene", ylab="Compound") 
 
-write(fit[["cluster"]], "~/UBC/COOP/S2019 CARDONA LAB/Data/Yeast-Data/output.txt")
+write(fit[["cluster"]], "~/UBC/COOP/S2019 CARDONA LAB/Data/Chemogenomic-Data-Scraping/Yeast-Data/output.txt")
 
 # Ward Hierarchical Clustering
 #d <- dist(mydata, method = "euclidean") # distance matrix
