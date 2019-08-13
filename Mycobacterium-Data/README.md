@@ -47,8 +47,8 @@ Otherwise, will create 2 CGM files: one where cell values are z_scores and anoth
 - pandas (pip install pandas)
 
 **How to run:** *python CGMProcess.py z_score_cutoff p_value_cutoff*
-- z_score_cutoff: cutoff for z_score (required if filter_run == "true")
-- p_value_cutoff: cutoff for p_value (required if filter_run == "true")
+- z_score_cutoff: cutoff for z_score
+- p_value_cutoff: cutoff for p_value 
 
 **Outputs:**
 - *CGM* folder containing .csv files
