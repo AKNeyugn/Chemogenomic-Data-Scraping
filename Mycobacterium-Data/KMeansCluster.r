@@ -1,4 +1,4 @@
-test <- read.csv("C:\\Users\\anhkh\\Documents\\UBC\\COOP\\S2019 CARDONA LAB\\Johnson-Data\\Full_CGM.csv",sep=",")
+test <- read.csv("C:\\Users\\anhkh\\Documents\\UBC\\COOP\\S2019 CARDONA LAB\\Data\\Chemogenomic-Data-Scraping\\Mycobacterium-Data\\CGM\\CGM_Z_score.csv",sep=",")
 mydata <- test[,-1]
 rownames(mydata) <- test[,1]
 mydata <- na.omit(mydata)
@@ -23,7 +23,7 @@ plot(1:50, wss, type="b", xlab="Number of Clusters",
 #color = rev(heat.colors(256))
 #heatmap <- heatmap(data_matrix, Rowv=NA, Colv=NA, col = color, scale="column", margins=c(3,3)) 
 
-#write(fit[["cluster"]], "~/UBC/COOP/S2019 CARDONA LAB/Johnson-Data/output.txt")
+#write(fit[["cluster"]], "~/UBC/COOP/S2019 CARDONA LAB/Data/Chemogenomic-Data-Scraping/Mycobacterium-Data/output.txt")
 
 # Ward Hierarchical Clustering
 #d <- dist(mydata, method = "euclidean") # distance matrix
