@@ -81,3 +81,10 @@ CGM output is a compound vs gene matrix, where x-axis = gene and y-axis = compou
 
 **Note:**
 Input files, as well as output files, are not uploaded to repository due to their large size
+
+# KMeansCluster.r
+
+K-means clustering analysis of CGM. The script will plot withing groups sum of squares against number of clusters (elbow method) for user to manually determine number of clusters to use in clustering. It will also generate a heatmap of clustering results.
+
+**Note:**
+To change the number of clusters used in analysis, as well as input and output files, the user must modify the code itself.
