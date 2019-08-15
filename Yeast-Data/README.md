@@ -129,3 +129,10 @@ Initially designed to create 1 single CGM from different CGMs, but task dropped.
 
 **How to run**: *python CGMProcess.py library1 library2 ...*
 - library#: name of libraries to process
+
+# KMeansCluster.r
+
+K-means clustering analysis of CGM. The script will plot withing groups sum of squares against number of clusters (elbow method) for user to manually determine number of clusters to use in clustering. It will also generate a heatmap of clustering results.
+
+**Note:**
+To change the number of clusters used in analysis, as well as input and output files, the user must modify the code itself.
